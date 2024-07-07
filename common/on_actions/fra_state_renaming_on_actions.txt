@@ -1,0 +1,290 @@
+# These on-actions change French state and VP names when other countries capture them.
+
+on_actions = {
+
+	on_state_control_changed = {
+		effect = {
+			#Roussillon
+			if = {
+				limit = { FROM.FROM = { state = 871 } }
+				if = {
+					limit = { ROOT = { is_catalan = yes } }
+					FROM.FROM = { set_state_name = "Roselló" }
+					set_province_name = { id = 19762 name = "Perpinyà" }
+				}
+				else_if = {
+					limit = { ROOT = { is_spanish = yes is_catalan = no } }
+					FROM.FROM = { set_state_name = "Rosellon" }
+					set_province_name = { id = 19762 name = "Perpiñán" }
+				}
+				else = {
+					FROM.FROM = { reset_state_name = yes }
+					reset_province_name = 19762
+				}
+			}
+		}
+		#Corsica
+		effect = {
+			#Corse du Sud
+            if = {
+                limit = { FROM.FROM = { state = 866 } }
+				if = {
+					limit = {
+						ROOT = {
+							is_italian = yes
+							NOT = { original_tag = COR }
+						}
+					}
+					FROM.FROM = { set_state_name = "Ajaccio" }
+					set_province_name = { id = 8443 name = "Ajaccio" }
+				}
+				else_if = {
+					limit = { ROOT = { original_tag = COR } }
+					FROM.FROM = { set_state_name = "Pumonti" }
+					set_province_name = { id = 8443 name = "Ajacciu" }
+					
+				}
+				else = {
+					FROM.FROM = { reset_state_name = yes }
+					reset_province_name = 8443
+				}
+			}
+			#Haute Corse
+            if = {
+                limit = { FROM.FROM = { state = 1422 } }
+				if = {
+					limit = {
+						ROOT = {
+							is_italian = yes
+							NOT = { original_tag = COR }
+						}
+					}
+					FROM.FROM = { set_state_name = "Bastia" }
+				}
+				else_if = {
+					limit = {
+						ROOT = { original_tag = COR }
+					}
+					FROM.FROM = { set_state_name = "Cismonte" }
+					
+				}
+				else = {
+					FROM.FROM = { reset_state_name = yes }
+				}
+			}
+			#Nice
+            if = {
+                limit = { FROM.FROM = { state = 810 } }
+				if = {
+					limit = {
+						ROOT = {
+							is_italian = yes
+							NOT = { original_tag = LIG }
+						}
+					}
+					FROM.FROM = { set_state_name = "Nizza" }
+				}
+				else_if = {
+					limit = {
+						ROOT = { original_tag = LIG }
+					}
+					FROM.FROM = { set_state_name = "Nissa" }
+					
+				}
+				else_if = {
+					limit = {
+						ROOT = { is_occitan = yes }
+					}
+					FROM.FROM = { set_state_name = "Niça" }
+					
+				}
+				else = {
+					FROM.FROM = { reset_state_name = yes }
+				}
+			}
+			#Menton
+            if = {
+                limit = { FROM.FROM = { state = 817 } }
+				if = {
+					limit = {
+						ROOT = {
+							is_italian = yes
+							NOT = { original_tag = LIG }
+						}
+					}
+					FROM.FROM = { set_state_name = "Mentone" }
+				}
+				else_if = {
+					limit = {
+						ROOT = { original_tag = LIG }
+					}
+					FROM.FROM = { set_state_name = "Mentàn" }
+					
+				}
+				else = {
+					FROM.FROM = { reset_state_name = yes }
+				}
+			}
+			if = {
+				limit = { FROM.FROM = { state = 1342 } }
+				if = {
+					limit = { ROOT = { is_dutch = yes } }
+					FROM.FROM = { set_state_name = "Romaans-Vlaanderen" }
+					set_province_name = { id = 12502 name = "Rijsel" }
+					set_province_name = { id = 4392 name = "Dowaai" }
+				}
+				else = {
+					FROM.FROM = { reset_state_name = yes }
+					reset_province_name = 12502
+					reset_province_name = 4392
+				}
+			}
+			if = {
+				limit = { FROM.FROM = { state = 2333 } }
+				if = {
+					limit = { ROOT = { is_dutch = yes } }
+					FROM.FROM = { set_state_name = "Maritiem Vlaanderen" }
+					set_province_name = { id = 12284 name = "Duinkerke" }
+				}
+				else = {
+					FROM.FROM = { reset_state_name = yes }
+					reset_province_name = 12284
+				}
+			}
+			if = {
+				limit = { FROM.FROM = { state = 466 } }
+				if = {
+					limit = { ROOT = { is_dutch = yes } }
+					FROM.FROM = { set_state_name = "Frans-Henegouwen" }
+					set_province_name = { id = 8296 name = "Valencijn" }
+					set_province_name = { id = 6087 name = "Malbode" }
+				}
+				else = {
+					FROM.FROM = { reset_state_name = yes }
+					reset_province_name = 8296
+					reset_province_name = 6087
+				}
+			}
+			if = {
+				limit = { FROM.FROM = { state = 472 } }
+				if = {
+					limit = { ROOT = { is_dutch = yes } }
+					FROM.FROM = { set_state_name = "Kales" }
+					set_province_name = { id = 12325 name = "Kales" }
+				}
+				else = {
+					FROM.FROM = { reset_state_name = yes }
+					reset_province_name = 12325
+				}
+			}
+			if = {
+				limit = { FROM.FROM = { state = 1324 } }
+				if = {
+					limit = { ROOT = { is_dutch = yes } }
+					FROM.FROM = { set_state_name = "Artesië" }
+					set_province_name = { id = 12637 name = "Atrecht" }
+					set_province_name = { id = 1406 name = "Betun" }
+				}
+				else = {
+					FROM.FROM = { reset_state_name = yes }
+					reset_province_name = 12637
+					reset_province_name = 1406
+				}
+			}
+			if = {
+				limit = { FROM.FROM = { state = 2874 } }
+				if = {
+					limit = { ROOT = { is_dutch = yes } }
+					FROM.FROM = { set_state_name = "Bonen" }
+					set_province_name = { id = 73 name = "Bonen" }
+				}
+				else = {
+					FROM.FROM = { reset_state_name = yes }
+					reset_province_name = 73
+				}
+			}
+			if = {
+				limit = { FROM.FROM = { state = 448 } }
+				if = {
+					limit = { ROOT = { is_dutch = yes } }
+					FROM.FROM = { set_state_name = "Abbekerke" }
+					set_province_name = { id = 12664 name = "Abbekerke" }
+				}
+				else = {
+					FROM.FROM = { reset_state_name = yes }
+					reset_province_name = 12664
+				}
+			}
+			if = {
+				limit = { FROM.FROM = { state = 2365 } }
+				if = {
+					limit = { ROOT = { is_dutch = yes } }
+					FROM.FROM = { set_state_name = "Werven" }
+				}
+				else = {
+					FROM.FROM = { reset_state_name = yes }
+				}
+			}
+			if = {
+				limit = { FROM.FROM = { state = 2615 } }
+				if = {
+					limit = { ROOT = { is_dutch = yes } }
+					FROM.FROM = { set_state_name = "Sint-Kwintens" }
+					set_province_name = { id = 5137 name = "Sint-Kwintens" }
+				}
+				else = {
+					FROM.FROM = { reset_state_name = yes }
+					reset_province_name = 5137
+				}
+			}
+			#Alsace
+			if = {
+				limit = { FROM.FROM = { state = 566 } }
+				if = {
+					limit = { ROOT = { is_german = yes if = { limit = { original_tag = GER has_government = fascism } has_completed_focus = GER_reintegrate_luxemburg_and_alsace_lorraine } } }
+					FROM.FROM = { set_state_name = "STATE_566_GER" }
+					set_province_name = { id = 13296 name = "Straßburg" }
+					set_province_name = { id = 9043 name = "Hagenau" }
+				}
+				else = { FROM.FROM = { reset_state_name = yes } reset_province_name = 13296 reset_province_name = 9043 }
+			}
+			if = {
+				limit = { FROM.FROM = { state = 606 } }
+				if = {
+					limit = { ROOT = { is_german = yes if = { limit = { original_tag = GER has_government = fascism } has_completed_focus = GER_reintegrate_luxemburg_and_alsace_lorraine } } }
+					FROM.FROM = { set_state_name = "STATE_606_GER" }
+					set_province_name = { id = 19848 name = "Kolmer" }
+					set_province_name = { id = 19849 name = "Mülhausen" }
+				}
+				else = { FROM.FROM = { reset_state_name = yes } reset_province_name = 19848 reset_province_name = 19849 }
+			}
+			#Lorraine
+			if = {
+				limit = { FROM.FROM = { state = 547 } }
+				if = {
+					limit = { ROOT = { is_german = yes if = { limit = { original_tag = GER has_government = fascism } has_completed_focus = GER_reintegrate_luxemburg_and_alsace_lorraine } } }
+					FROM.FROM = { set_state_name = "STATE_547_GER" }
+				}
+				else = { FROM.FROM = { reset_state_name = yes } }
+			}
+			if = {
+				limit = { FROM.FROM = { state = 2747 } }
+				if = {
+					limit = { ROOT = { is_german = yes if = { limit = { original_tag = GER has_government = fascism } has_completed_focus = GER_reintegrate_luxemburg_and_alsace_lorraine } } }
+					FROM.FROM = { set_state_name = "STATE_2747_GER" }
+				}
+				else = { FROM.FROM = { reset_state_name = yes } } 
+			}
+			#LuxemBRUH
+			if = {
+				limit = { FROM.FROM = { state = 512 } }
+				if = {
+					limit = { ROOT = { is_german = yes if = { limit = { original_tag = GER has_government = fascism } has_completed_focus = GER_reintegrate_luxemburg_and_alsace_lorraine } } }
+					FROM.FROM = { set_state_name = "STATE_512_GER" }
+					set_province_name = { id = 12895 name = "VICTORY_POINTS_12895_GER" }
+				}
+				else = { FROM.FROM = { reset_state_name = yes } reset_province_name = 12895 } 
+			}
+		}
+	}
+}
