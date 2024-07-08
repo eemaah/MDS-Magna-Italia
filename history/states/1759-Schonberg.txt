@@ -5,13 +5,12 @@ state={
 		20646 
 	}
 	history={
-		owner = USA
+		owner = GER
 		add_core_of = GER
 		buildings = {
 			infrastructure = 3
 		}
 		add_core_of = MKS
-		add_core_of = MEK
 	}
 	manpower=33156
 	buildings_max_level_factor=1.000

@@ -3,12 +3,10 @@ state={
 	id=568
 	name="STATE_568"
 	history={
-		owner = USA
+		owner = AUS
 		add_core_of = AUS
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 1
-			air_base = 1
 		}
 	}
 	provinces={

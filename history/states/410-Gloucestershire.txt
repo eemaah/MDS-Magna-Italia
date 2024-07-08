@@ -5,14 +5,12 @@ state={
 	provinces={
 		698 3595 5806 7617 9058 9068 11897 11964 12026 12106 19419 
 	}
-	resources = { steel = 19 }
 	history={
-		owner = USA
+		owner = ENG
 		add_core_of = ENG
 		add_core_of = MER
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 1
 			19419 = { naval_base = 3 }
 		}
 	

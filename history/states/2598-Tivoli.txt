@@ -2,14 +2,12 @@ state={
 	id=2598
 	name="STATE_2598"
 	history={
-		owner = USA
+		owner = ITA
 		add_core_of = ITA
 		add_core_of = LAZ
 		victory_points = { 6258 5 }
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 1
-			air_base = 2
 		}
 	}
 	provinces={

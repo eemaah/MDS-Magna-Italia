@@ -2,11 +2,8 @@
 state={
 	id=872
 	name="STATE_872"
-	resources={
-		aluminium = 10
-	}
 	history = {
-		owner = USA
+		owner = ITA
 		add_core_of = ITA
 		add_core_of = ABR
 		buildings = {

@@ -2,7 +2,7 @@ state={
 	id=1617
 	name="STATE_1617"
 	history={
-		owner = USA
+		owner = MNC
 		add_core_of = MNC
 		victory_points = {
 			20532 2 #Monaco

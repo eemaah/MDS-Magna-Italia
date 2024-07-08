@@ -6,7 +6,7 @@ state={
 		660 12320 12345 12363 12392 18816 20616 20628 
 	}
 	history={
-		owner = USA
+		owner = GER
 		add_core_of = GER
 		buildings = {
 			infrastructure = 3
@@ -20,11 +20,6 @@ state={
             12392 10 #Jena
         }
     }
-	resources={
-		steel=8
-		tungsten=3
-		chromium=3
-	}
 	manpower=330709
 	buildings_max_level_factor=1.000
 	state_category=city

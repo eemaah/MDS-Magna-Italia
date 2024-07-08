@@ -3,13 +3,12 @@ state={
 	id=1571
 	name="STATE_1571"
 	history={
-		owner = USA
+		owner = BUL
 		add_core_of = BUL
 		add_core_of = THR
 		add_core_of = RUM
 		buildings = {
 			infrastructure = 2
-			industrial_complex = 1
 		}
 		victory_points = {
 			20369 5 

@@ -4,7 +4,7 @@ state={
 	name="STATE_2752"
 
 	history={
-		owner = USA
+		owner = BUL
 		add_core_of = BUL
 		add_core_of = THR
 		add_core_of = RUM

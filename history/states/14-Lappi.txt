@@ -2,12 +2,9 @@
 state={
 	id=14
 	name="STATE_14"
-	resources={
-		steel=7.000
-		chromium=2.000
-	}
+
 	history={
-		owner = USA
+		owner = FIN
 		add_core_of = FIN
 		add_core_of = SAP
 		buildings = {
@@ -17,7 +14,7 @@ state={
 		victory_points = { 59 2 }
 		victory_points = { 9716 2 }
 		victory_points = { 9727 2 }
-		victory_points = { 1191 1 }
+
 	}
 
 	provinces={

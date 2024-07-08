@@ -3,9 +3,10 @@ state={
 	id=660
 	name="STATE_660"
 	history={
-		owner = USA
+		owner = SWI
 		add_core_of = SWI
 		add_core_of = RMD
+		add_core_of = ARP
 		buildings = {
 			infrastructure = 3
 		}

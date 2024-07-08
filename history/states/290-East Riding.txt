@@ -5,13 +5,12 @@ state={
 		105 5068 5616 5672 7848 10979 11054 11088 
 	}
 	history={
-		owner = USA
+		owner = ENG
 		add_core_of = ENG
 		add_core_of = YOR
 		add_core_of = NRT
 		buildings = {
 			infrastructure = 4
-			arms_factory = 1
 			7848 = { naval_base = 8 }
 		}
 	

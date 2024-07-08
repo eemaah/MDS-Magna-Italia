@@ -6,9 +6,9 @@ state={
 		3838 4238 7638 7666 19412 
 	}
 	history={
-		owner = USA
+		owner = ENG
 		add_core_of = ENG
-		add_core_of = WSX
+		add_core_of = SSX
 		buildings = {
 			infrastructure = 4
 		}

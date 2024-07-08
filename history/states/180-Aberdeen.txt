@@ -5,13 +5,11 @@ state={
 	provinces={
 		2279 2937 10286 10301 10338 19398 
 	}
-	resources = { aluminium = 6 }
 	history={
-		owner = USA
+		owner = ENG
 		add_core_of = ENG
 		buildings = {
 			infrastructure = 3
-			dockyard = 1
 			19398 = { naval_base = 1 }
 		}
 		add_core_of = SCO

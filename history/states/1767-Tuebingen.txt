@@ -4,7 +4,7 @@ state={
 	name="STATE_1767"
 
 	history={
-	    owner = USA
+	    owner = GER
 		victory_points = {
 			13303 10 #Reutlingen
 		}
@@ -14,7 +14,6 @@ state={
 		add_core_of = GER
 		buildings = {
 			infrastructure = 4
-			arms_factory = 1
 		}
 		add_core_of = WUR
 	}

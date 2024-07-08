@@ -6,12 +6,11 @@ state={
 		8111 9098 9299 11574 11633 11646 11694 19855 19920 
 	}
 	history={
-		owner = USA
+		owner = POL
 		add_core_of = POL
 		ADD_core_of = MZV
 		buildings = {
 			infrastructure = 3
-			arms_factory = 1
 		}
         victory_points = {
             19920 10 #Płock

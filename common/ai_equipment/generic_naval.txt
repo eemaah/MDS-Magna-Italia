@@ -4,11 +4,6 @@ destroyers = {
 	category = naval
 	
 	blocked_for = {
-		GER
-		USA
-		ENG
-		FRA
-		ITA
 	}
 	
 	available_for = {
@@ -166,12 +161,6 @@ generic_escorts = {
 	category = naval
 	
 	blocked_for = {
-		GER
-		USA
-		JAP
-		ENG
-		FRA
-		ITA
 	}
 	
 	available_for = {
@@ -279,12 +268,6 @@ naval_light_cruiser = {
 	category = naval
 	
 	blocked_for = {
-		GER
-		USA
-		JAP
-		ENG
-		FRA
-		ITA
 	}
 	
 	available_for = {
@@ -517,12 +500,6 @@ naval_cruiser_heavy = {
 	category = naval
 	
 	blocked_for = {
-		GER
-		USA
-		JAP
-		ENG
-		FRA
-		ITA
 	}
 	
 	available_for = {
@@ -681,8 +658,8 @@ naval_cruiser_heavy = {
 				mid_2_custom_slot = {
 					any_of = { ship_airplane_launcher ship_anti_air }
 					upgrade > current
-				
-}				rear_1_custom_slot > ship_medium_battery_2
+				}
+				rear_1_custom_slot > ship_medium_battery_2
 				rear_2_custom_slot = ship_anti_air
 			}
 		}
@@ -702,12 +679,6 @@ naval_capital_battleship = {
 	category = naval
 	
 	blocked_for = {
-		GER
-		USA
-		JAP
-		ENG
-		FRA
-		ITA
 	}
 	
 	available_for = {
@@ -970,12 +941,6 @@ naval_capital_bc = {
 	category = naval
 	
 	blocked_for = {
-		GER
-		USA
-		JAP
-		ENG
-		FRA
-		ITA
 	}
 	
 	available_for = {
@@ -1112,12 +1077,6 @@ naval_carrier = {
 	category = naval
 	
 	blocked_for = {
-		GER
-		USA
-		JAP
-		ENG
-		FRA
-		ITA
 	}
 	
 	available_for = {
@@ -1143,7 +1102,6 @@ naval_carrier = {
 	
 		priority = {
 			factor = 100
-			 
 		}
 
 		role_icon_index = 7
@@ -1291,12 +1249,6 @@ naval_submarine = {
 	category = naval
 	
 	blocked_for = {
-		GER
-		USA
-		JAP
-		ENG
-		FRA
-		ITA
 	}
 	
 	available_for = {
@@ -1308,15 +1260,6 @@ naval_submarine = {
 	
 	priority = {
 		factor = 4
-		modifier = {
-			factor = 10
-			OR = {
-				has_war_with = ENG
-				has_war_with = USA
-				has_war_with = JAP
-			}
-
-		}
 	}
 
 	submarine_early = {
@@ -1449,12 +1392,6 @@ naval_mine_sweeper = {
 	category = naval
 	
 	blocked_for = {
-		GER
-		USA
-		JAP
-		ENG
-		FRA
-		ITA
 	}
 	
 	available_for = {
@@ -1565,8 +1502,6 @@ naval_mine_layer = {
 	category = naval
 	
 	blocked_for = {
-		GER
-		USA
 	}
 	
 	available_for = {

@@ -6,7 +6,7 @@ state={
 		1084 4691 
 	}
 	history = {
-		owner = USA
+		owner = SOV
 		add_core_of = SOV
 		add_core_of = AZR
 		add_core_of = TCC

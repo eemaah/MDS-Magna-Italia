@@ -1,6 +1,4 @@
 
-#TO-DO LIST: SKAGERRAK, DANISH BELTS
-
 adjacency_rule =
 {
 	name = "BOSPHORUS_STRAIT"
@@ -621,30 +619,30 @@ adjacency_rule =
 
 	contested =
 	{
-		army = yes
-		navy = yes
-		submarine = yes
+		army = no
+		navy = no
+		submarine = no
 		trade = yes
 	}
 	enemy =
 	{
-		army = yes
-		navy = yes
-		submarine = yes
+		army = no
+		navy = no
+		submarine = no
 		trade = yes
 	}
 	friend =
 	{
-		army = yes
-		navy = yes
-		submarine = yes
+		army = no
+		navy = no
+		submarine = no
 		trade = yes
 	}
 	neutral =
 	{
-		army = yes
-		navy = yes
-		submarine = yes
+		army = no
+		navy = no
+		submarine = no
 		trade = yes
 	}
 	
@@ -665,30 +663,30 @@ adjacency_rule =
 
 	contested =
 	{
-		army = yes
-		navy = yes
-		submarine = yes
+		army = no
+		navy = no
+		submarine = no
 		trade = yes
 	}
 	enemy =
 	{
-		army = yes
-		navy = yes
-		submarine = yes
+		army = no
+		navy = no
+		submarine = no
 		trade = yes
 	}
 	friend =
 	{
-		army = yes
-		navy = yes
-		submarine = yes
+		army = no
+		navy = no
+		submarine = no
 		trade = yes
 	}
 	neutral =
 	{
-		army = yes
-		navy = yes
-		submarine = yes
+		army = no
+		navy = no
+		submarine = no
 		trade = yes
 	}
 	
@@ -857,20 +855,20 @@ adjacency_rule =
 }
 adjacency_rule =
 {
-	name = "NOORDZEEKANAAL"
+	name = "DOVER_STRAIT"
 
 	contested =
 	{
-		army = no
-		navy = no
-		submarine = no
-		trade = no
+		army = yes
+		navy = yes
+		submarine = yes
+		trade = yes
 	}
 	enemy =
 	{
 		army = no
 		navy = no
-		submarine = no
+		submarine = yes
 		trade = no
 	}
 	friend =
@@ -888,9 +886,8 @@ adjacency_rule =
 		trade = yes
 	}
 	
-	required_provinces = { 11729 1045 7314 }
+	required_provinces = { 12192 8709 73 12325 }
 	
-	icon = 7314
-	
-	offset = { 3 0 -3 }
+	icon = 8709
+	offset = { 13 0 -7 }
 }

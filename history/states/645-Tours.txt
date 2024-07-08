@@ -6,9 +6,9 @@ state={
 		3751 4525 6747 8750 13786 13802 13851 19818 
 	}
 	history={
-		owner = USA
+		owner = FRA
 		add_core_of = FRA
-		add_core_of = ORL
+		add_core_of = TNE
 		buildings = {
 			infrastructure = 4
 		}

@@ -3,12 +3,11 @@ state={
 	name="STATE_2290"
 	history = {
 		victory_points = { 16403 80 }
-		owner = USA
+		owner = SOV
 		add_core_of = SOV
 		add_core_of = GEO
 		buildings = {
 			infrastructure = 2
-			industrial_complex = 1
 		}
 		add_core_of = TCC
 	}

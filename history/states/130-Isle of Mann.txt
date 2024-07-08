@@ -6,11 +6,10 @@ state={
 		19397 
 	}
 	history={
-		owner = USA
+		owner = ISM
 		add_core_of = ISM
 		buildings = {
 			infrastructure = 4
-			air_base = 2
 			19397 = { naval_base = 1 }
 		}
 	

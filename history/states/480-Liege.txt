@@ -4,14 +4,10 @@ state={
 	name="STATE_480"
 
 	history={
-		owner = USA
+		owner = BEL
 		add_core_of = BEL
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 1
-			19891 = { bunker = 7 }
-			12494 = { bunker = 1 }
-			3006 = { bunker = 1 }
 		}
 		add_core_of = WLN
 		add_core_of = LEG

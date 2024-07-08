@@ -1,12 +1,12 @@
+
 state={
 	id=248
 	name="STATE_248"
 	history={
-		owner = USA
+		owner = IRE
 		add_core_of = IRE
 		buildings = {
 			infrastructure = 3
-			3060 = { naval_base = 1 }
 		}
 		victory_points = {
             10737 2

@@ -6,11 +6,10 @@ state={
 		1480 4413 4799 9435 11945 11986 
 	}
 	history={
-		owner = USA
+		owner = POL
 		add_core_of = POL
 		add_core_of = WKP
 		buildings = {
-			industrial_complex = 1
 			infrastructure = 3
 		}
         victory_points = {

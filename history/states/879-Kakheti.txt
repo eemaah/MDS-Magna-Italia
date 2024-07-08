@@ -3,12 +3,11 @@ state={
 	id=879
 	name="STATE_879"
 	history = {
-		owner = USA
+		owner = SOV
 		add_core_of = SOV
 		add_core_of = GEO
 		buildings = {
 			infrastructure = 2
-			air_base = 4
 		}
 		add_core_of = TCC
         victory_points = { 5267 2 }

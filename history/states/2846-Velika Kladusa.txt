@@ -2,7 +2,7 @@ state={
 	id=2846
 	name="STATE_2846"
 	history={
-		owner = USA
+		owner = YUG
 		add_core_of = BOS
 		add_core_of = WBS
 		buildings = {
@@ -10,7 +10,6 @@ state={
 
 		}
 		add_core_of = YUG
-		add_core_of = BHC
 	}
 	provinces={
 		2507 

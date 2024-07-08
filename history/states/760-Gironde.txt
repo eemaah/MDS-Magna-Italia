@@ -2,34 +2,34 @@
 state={
 	id=760
 	name="STATE_760"
-	resources={
-		steel=25.000
-		aluminium=11.000
-	}
-	provinces={
-		149 1777 2751 3923 4167 6829 8848 9180 9210 14430 14431 14435 14485 
-	}
+
 	history={
-		owner = USA
+		owner = FRA
 		add_core_of = FRA
-		add_core_of = AQT
+		add_core_of = GYE
 		add_core_of = OCC
 		buildings = {
 			infrastructure = 4
-			air_base = 3
-			2751 = { naval_base = 3 }
-			arms_factory = 1
-			dockyard = 1
+			2751 = {
+				naval_base = 3
+
+			}
+
 		}
-        victory_points = {
-            14431 20 #Bordeaux
-        }
-        victory_points = {
-            1777 2 #Libourne
-        }
-    }
-	manpower=765540
+		victory_points = {
+			14431 20 
+		}
+		victory_points = {
+			1777 2 
+		}
+
+	}
+
+	provinces={
+		149 1777 2751 4167 8848 9180 9210 14430 14431 14435 
+	}
+	manpower=535878
 	buildings_max_level_factor=1.000
+	state_category=large_city
 	local_supplies=0.000
-	state_category = large_city
 }

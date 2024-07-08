@@ -4,7 +4,7 @@ state={
 	name="STATE_448"
 
 	history={
-		owner = USA
+		owner = FRA
 		add_core_of = FRA
 		add_core_of = PIC
 		victory_points = {
@@ -18,7 +18,7 @@ state={
 	}
 
 	provinces={
-		4933 5208 9556 12664 12760 12790 
+		5208 9556 12664 12760 
 	}
 	manpower=210375
 	buildings_max_level_factor=1.000

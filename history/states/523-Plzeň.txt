@@ -6,12 +6,11 @@ state={
 		483 2925 12767 12784 12845 
 	}
 	history={
-		owner = USA
+		owner = CZE
 		add_core_of = CZE
 		add_core_of = BOH
 		buildings = {
 			infrastructure = 4
-			arms_factory = 1
 		}
         victory_points = {
             2925 10 #Plzeň

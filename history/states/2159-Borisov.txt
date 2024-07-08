@@ -6,7 +6,7 @@ state={
 		3492 4118 4175 7409 10947 10959 
 	}
 	history = {
-		owner = USA
+		owner = SOV
 		add_core_of = SOV
 		add_core_of = BLR
 		buildings = {

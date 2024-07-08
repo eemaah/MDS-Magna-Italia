@@ -6,11 +6,10 @@ state={
 		5020 14676 14699 14703 14742 20381 
 	}
 	history={
-		owner = USA
+		owner = BUL
 		add_core_of = BUL
 		buildings = {
 			infrastructure = 2
-			industrial_complex = 1
 		}
 	
         victory_points = {

@@ -34,32 +34,6 @@ is_northern_italian = {
 		original_tag = RMG
 		original_tag = SMR
 		original_tag = VNT
-		original_tag = SUT
-	}
-}
-is_northern_italian_core = {
-	OR = {
-		is_core_of = MCR
-		is_core_of = MDN
-		is_core_of = BLG
-		is_core_of = FRR
-		is_core_of = PRM
-		is_core_of = MTV
-		is_core_of = LOM
-		is_core_of = PAV
-		is_core_of = MTV
-		is_core_of = PIE
-		is_core_of = VOS
-		is_core_of = LOM
-		is_core_of = LIG
-		is_core_of = RMG
-		is_core_of = SMR
-		is_core_of = VNT
-		is_core_of = FRI
-		is_core_of = AOS
-		is_core_of = TST
-		is_core_of = SUT
-		is_core_of = JUL
 	}
 }
 is_central_italian = {
@@ -72,7 +46,6 @@ is_central_italian = {
 		original_tag = COR
 	}
 }
-
 is_southern_italian = {
 	OR = {
 		original_tag = ABR
@@ -81,17 +54,6 @@ is_southern_italian = {
 		original_tag = PUG
 		original_tag = LUC
 		original_tag = CAL
-	}
-}
-is_southern_italian_core = {
-	OR = {
-		is_core_of = ABR
-		is_core_of = MLS
-		is_core_of = NAP
-		is_core_of = PUG
-		is_core_of = LUC
-		is_core_of = CAL
-		is_core_of = SIC
 	}
 }
 is_italian = {
@@ -107,8 +69,8 @@ is_italian = {
 		original_tag = FIU
 		original_tag = LDN
 		original_tag = JUL
-		original_tag = IST
-		original_tag = GOR
+		#original_tag = IST
+		#original_tag = GOR
 	}
 }
 
@@ -116,10 +78,14 @@ is_occitan = {
 	OR = {
 		original_tag = OCC
 		original_tag = AVG
+		original_tag = GAS
+		original_tag = GYE
+		original_tag = BEA
+		original_tag = FIX
+		original_tag = LDC
 		original_tag = AQT
 		original_tag = PRV
 		original_tag = NZA
-		original_tag = DAU
 		original_tag = LMS
 	}
 }
@@ -140,6 +106,16 @@ is_d_oil = {
 		original_tag = HNT
 		original_tag = LEG
 		original_tag = NMR
+		original_tag = DAU
+		original_tag = ANS
+		original_tag = SNT
+		original_tag = AGM
+		original_tag = MNE
+		original_tag = TNE
+		original_tag = FRC
+		original_tag = BRY
+		original_tag = BBN
+		original_tag = NVN
 	}
 }
 
@@ -288,13 +264,35 @@ is_low_german = {
 		original_tag = LBK
 	}
 }
+is_reichskommissariat = {
+	OR = {
+		original_tag = RKN
+		original_tag = RKB
+		original_tag = RKU
+		original_tag = RKO
+		original_tag = RKM
+		original_tag = RKK
+		original_tag = RKS
+		original_tag = RKD
+		original_tag = RKT
+		original_tag = RKG
+		original_tag = RKW
+	}
+}
 is_german = {
 	OR = {
 		is_high_german = yes
 		is_middle_german = yes
 		is_low_german = yes
+		is_reichskommissariat = yes
+		original_tag = GGV
+		original_tag = MCS
 		original_tag = GER
 		original_tag = WSL
+		original_tag = RPB
+		original_tag = MVF
+		has_cosmetic_tag = OZAK
+		has_cosmetic_tag = OZAV
 	}
 }
 is_hungarian = {
@@ -343,32 +341,5 @@ is_romanian = {
 		original_tag = DOB
 		original_tag = BUC
 		original_tag = BNT
-	}
-}
-is_greek = {
-	OR = {
-		original_tag = GRE
-		original_tag = CYP
-		original_tag = SAM
-		original_tag = ICA
-		original_tag = CRT
-		original_tag = MMA
-		original_tag = NER
-	}
-}
-is_albanian = {
-	OR = {
-		original_tag = ALB
-		original_tag = CAB
-		original_tag = KOS
-	}
-}
-is_balkan = {
-	OR = {
-		is_romanian = yes
-		is_yugoslav = yes
-		is_hungarian = yes
-		is_albanian = yes
-		is_greek = yes
 	}
 }

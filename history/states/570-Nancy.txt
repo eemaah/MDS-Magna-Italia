@@ -4,13 +4,12 @@ state={
 	name="STATE_570"
 
 	history={
-		owner = USA
-		add_core_of =FRA
-		add_core_of =LOR
+		owner = FRA
+		add_core_of = FRA
+		add_core_of = LOR
 		buildings = {
 			infrastructure = 4
-			air_base = 5
-			anti_air_building = 1
+
 		}
 		victory_points = {
 			19847 10 
@@ -21,7 +20,7 @@ state={
 	provinces={
 		9356 17274 19846 19847 
 	}
-	manpower=345600
+	manpower=315600
 	buildings_max_level_factor=1.000
 	state_category=city
 	local_supplies=0.000

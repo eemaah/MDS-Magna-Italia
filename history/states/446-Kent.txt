@@ -4,15 +4,12 @@ state={
 	name="STATE_446"
 
 	history={
-		owner = USA
+		owner = ENG
 		add_core_of = ENG
 		add_core_of = KNT
 		buildings = {
 			infrastructure = 4
-			12192 = { naval_base = 6 coastal_bunker = 3  }
-			dockyard = 2
-			radar_station = 1
-			anti_air_building = 2
+			12192 = { naval_base = 6 }
 		}
 		victory_points = {
 			12192 5 

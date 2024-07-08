@@ -4,7 +4,7 @@ state={
 	name="STATE_307"
 
 	history={
-		owner = USA
+		owner = POL
 		add_core_of = POL
 		victory_points = {
 			11238 2 #Nowogródek

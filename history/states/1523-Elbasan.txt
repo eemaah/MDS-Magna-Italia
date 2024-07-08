@@ -4,12 +4,11 @@ state={
 	name="STATE_1523"
 
 	history={
-		owner = USA
+		owner = ALB
 		add_core_of = ALB
 		add_core_of = CAB
 		buildings = {
 			infrastructure = 2
-			arms_factory = 1
 
 		}
 		victory_points = {

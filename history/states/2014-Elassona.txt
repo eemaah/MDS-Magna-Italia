@@ -3,11 +3,10 @@ state={
 	id=2014
 	name="STATE_2014"
 	history={
-		owner = USA
+		owner = GRE
 		add_core_of = GRE
 		buildings = {
 			infrastructure = 2
-			industrial_complex = 1
 		}
 	}
 	provinces={

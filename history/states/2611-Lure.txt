@@ -5,9 +5,10 @@ state={
 		13544 13636 
 	}
 	history={
-		owner = USA
+		owner = FRA
 		add_core_of = FRA
 		add_core_of = BGN
+		add_core_of = FRC
 		buildings = {
 			infrastructure = 3
 		}

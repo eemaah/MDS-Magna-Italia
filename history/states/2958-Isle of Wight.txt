@@ -5,9 +5,9 @@ state={
 		19457 
 	}
 	history = {
-		owner = USA
+		owner = ENG
 		add_core_of = ENG
-		add_core_of = WSX
+		add_core_of = SSX
 		buildings = {
 			infrastructure = 2 
 		}

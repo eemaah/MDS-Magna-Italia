@@ -2,23 +2,13 @@
 state={
 	id=718
 	name="STATE_718"
-	
-	resources={
-		steel=5
-		aluminium=3
-		chromium=2
-		tungsten=1
-	}
 
 	history={
-		owner = USA
+		owner = ITA
 		add_core_of = ITA
 		add_core_of = PIE
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 1
-			arms_factory = 1
-			air_base = 3
 		}
 		victory_points = {
 			1697 50

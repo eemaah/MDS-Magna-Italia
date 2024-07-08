@@ -3,10 +3,9 @@ state={
 	id=664
 	name="STATE_664"
 	history={
-		owner = USA
+		owner = ROM
 		add_core_of = ROM
 		add_core_of = TRA
-		add_core_of = CRS
 		buildings = {
 			infrastructure = 3
 		}

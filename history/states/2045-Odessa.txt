@@ -8,7 +8,7 @@ state={
 	history = {
 		victory_points = { 14022 80 }
 		victory_points = { 3104 2 }
-		owner = USA
+		owner = SOV
 		add_core_of = SOV
 		add_core_of = UKR
 		add_core_of = ZAP
@@ -16,8 +16,6 @@ state={
 		buildings = {
 			infrastructure = 3
 			14022 = { naval_base = 6 }
-			air_base = 4
-			industrial_complex = 1
 		}
 	}
 	manpower=1382541

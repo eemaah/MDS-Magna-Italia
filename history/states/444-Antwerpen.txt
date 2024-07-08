@@ -6,16 +6,11 @@ state={
 		3284 3980 4708 8880 12157 12165 12205 12206 
 	}
 	history={
-		owner = USA
+		owner = BEL
 		add_core_of = BEL
 		buildings = {
 			infrastructure = 4
 			12165 = { naval_base = 8 }
-			12205 = { bunker = 7 }
-			3980 = { bunker = 2 }
-			12206 = { bunker = 2 }
-			8880 = { bunker = 2 }
-			3284 = { bunker = 1 }
 		}
 		add_core_of = FLA
 		add_core_of = BRB

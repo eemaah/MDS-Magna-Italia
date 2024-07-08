@@ -6,22 +6,17 @@ state={
 		1332 3406 4391 7901 8017 8423 10863 10901 10902 10919 10924 10932 10996 11049 
 	}
 	history={
-		owner = USA
+		owner = ENG
 		add_core_of = ENG
 		add_core_of = YOR
 		add_core_of = NRT
 		buildings = {
 			infrastructure = 4
 			7901 = { naval_base = 1 }
-			industrial_complex = 1
 		}
 	
         victory_points = {
-            11049 10
-        }
-	
-        victory_points = {
-            7901 5
+            11049 5
         }
     }
 	manpower=473300

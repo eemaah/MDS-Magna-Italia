@@ -3,9 +3,8 @@ state={
 	id=2696
 	name="STATE_2696"
 
-	resources = { chromium = 3 }
 	history={
-		owner = USA
+		owner = ALB
 		add_core_of = ALB
 		buildings = {
 			infrastructure = 1

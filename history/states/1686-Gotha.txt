@@ -3,7 +3,7 @@ state={
 	id=1686
 	name="STATE_1686"
 	history={
-		owner = USA
+		owner = GER
 		add_core_of = GER
 		buildings = {
 			infrastructure = 3
@@ -13,9 +13,6 @@ state={
     }
 	provinces={
 		2943 7501 12267 18720 18815 
-	}
-	resources={
-		steel=5
 	}
 	manpower=257456
 	buildings_max_level_factor=1.000

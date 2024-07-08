@@ -2,21 +2,18 @@
 state={
 	id=934
 	name="STATE_934"
-	resources={
-		steel = 15
-	}
 
 	history={
-		owner = USA
+		owner = ITA
 		add_core_of = ITA
 		add_core_of = NAP
 		buildings = {
 			infrastructure = 4
-			synthetic_refinery = 1
-			arms_factory = 1
-			air_base = 3
-			dockyard = 1
-			20008 = { naval_base = 6 }
+			20008 = {
+				naval_base = 6
+
+			}
+
 		}
 		victory_points = {
 			20008 60 

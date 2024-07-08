@@ -4,10 +4,9 @@ state={
 	name="STATE_846"
 
 	history={
-		owner = USA
+		owner = YUG
 		add_core_of = YUG
 		add_core_of = SER
-		add_claim_by = BUL
 		buildings = {
 			infrastructure = 2
 

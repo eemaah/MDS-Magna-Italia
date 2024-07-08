@@ -2,11 +2,9 @@
 state={
 	id=1771
 	name="STATE_1771"
-	resources={
-		aluminium=4
-	}
+
 	history={
-		owner = USA
+		owner = GER
 		victory_points = {
 			1598 40 #Stuttgart
 		}
@@ -16,8 +14,6 @@ state={
 		add_core_of = GER
 		buildings = {
 			infrastructure = 4
-			air_base = 3
-			industrial_complex = 1
 		}
 		add_core_of = WUR
 

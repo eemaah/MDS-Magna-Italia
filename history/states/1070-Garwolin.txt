@@ -4,9 +4,10 @@ state={
 	name="STATE_1070"
 
 	history={
-		owner = USA
+		owner = POL
 		add_core_of = POL
 		add_core_of = MLP
+		add_core_of = MZV
 		buildings = {
 			infrastructure = 2
 

@@ -4,7 +4,7 @@ state={
 	name="STATE_472"
 
 	history={
-		owner = USA
+		owner = FRA
 		add_core_of = FRA
 		add_core_of = PIC
 		buildings = {
@@ -13,7 +13,7 @@ state={
 				naval_base = 5
 
 			}
-			industrial_complex = 1
+
 		}
 		victory_points = {
 			12325 5 

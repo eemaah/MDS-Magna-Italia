@@ -8,13 +8,12 @@ state={
 		victory_points = { 7446 5 }
 		victory_points = { 4011 2 }
 		victory_points = { 3843 2 }
-		owner = USA
+		owner = SOV
 		add_core_of = SOV
 		add_core_of = RUS
 		buildings = {
 			infrastructure = 3
 			608 = { naval_base = 1 }
-			industrial_complex = 1
 		}
 		add_core_of = DAG
 	}

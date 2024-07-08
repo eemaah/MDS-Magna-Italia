@@ -4,12 +4,11 @@ state={
 	name="STATE_837"
 
 	history={
-		owner = USA
+		owner = SPR
 		add_core_of = ATR
 		add_core_of = SPR
 		buildings = {
 			infrastructure = 2
-			arms_factory = 1
 			14673 = {
 				naval_base = 2
 

@@ -5,14 +5,11 @@ state={
 		996 5116 5491 6017 7128 7875 8889 9184 14694 14732 14783 
 	}
 	history={
-		owner = USA
+		owner = SPR
 		add_core_of = GLC
 		add_core_of = SPR
 		buildings = {
 			infrastructure = 3
-			arms_factory = 1
-			dockyard = 1
-			air_base = 2
 			14694 = { naval_base = 6 }
 		}
         victory_points = {

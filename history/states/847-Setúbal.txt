@@ -6,11 +6,10 @@ state={
 		6076 19733 19734 
 	}
 	history={
-	owner = USA
+	owner = POR
 	add_core_of = POR
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 1
 			19734 = { naval_base = 2 }
 		}
         victory_points = {

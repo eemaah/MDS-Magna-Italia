@@ -5,13 +5,14 @@ state={
 		1511 14367 
 	}
 	history = {
-		owner = USA
+		owner = YUG
 		add_core_of = YUG
 		add_core_of = SER
 		buildings = {
 			infrastructure = 2
 		}
 		add_core_of = VJV
+		add_claim_by = SVN
 	}
 	manpower=64192
 	state_category=pastoral

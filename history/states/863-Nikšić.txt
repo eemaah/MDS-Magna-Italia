@@ -3,9 +3,8 @@ state={
 	id=863
 	name="STATE_863"
 
-	resources = { aluminium = 118 }
 	history={
-		owner = USA
+		owner = YUG
 		add_core_of = MNT
 		buildings = {
 			infrastructure = 2

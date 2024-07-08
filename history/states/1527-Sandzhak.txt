@@ -3,9 +3,8 @@ state={
 	id=1527
 	name="STATE_1527"
 
-	resources = { chromium = 34 }
 	history={
-		owner = USA
+		owner = YUG
 		add_core_of = YUG
 		add_core_of = MNT
 		buildings = {

@@ -3,14 +3,12 @@ state={
 	id=817
 	name="STATE_817"
 	history={
-		owner = USA
+		owner = FRA
 		add_core_of =FRA
 		add_core_of = PRV
 		add_core_of = OCC
 		buildings = {
 			infrastructure = 2
-			1407 = { bunker = 2 }
-			20533 = { bunker = 2 }
 		}
 		add_core_of = NZA
     }

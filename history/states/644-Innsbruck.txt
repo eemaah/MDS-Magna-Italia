@@ -6,12 +6,10 @@ state={
 		1813 1832 1984 2476 5071 13779 20811 20814 
 	}
 	history={
-		owner = USA
+		owner = AUS
 		add_core_of = AUS
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 1
-			air_base = 2
 		}
 		add_core_of = TIR
        		victory_points = {

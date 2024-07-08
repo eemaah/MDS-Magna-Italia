@@ -2,17 +2,13 @@
 state={
 	id=1404
 	name="STATE_1404"
-	resources={
-		aluminium = 5
-	}
 
 	history={
-		owner = USA
+		owner = ITA
 		add_core_of = ITA
 		add_core_of = PUG
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 1
 		}
 		victory_points = {
 			1980 15

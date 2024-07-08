@@ -5,11 +5,10 @@ state={
 		76 2349 4596 11626 11754 
 	}
 	history={
-		owner = USA
+		owner = IRE
 		add_core_of = IRE
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 1
 		}
 	
         victory_points = {

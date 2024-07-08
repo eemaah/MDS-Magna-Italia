@@ -5,8 +5,9 @@ state={
 		5549 8568 11605 
 	}
 	history={
-		owner = USA
+		owner = POL
 		add_core_of = POL
+		add_core_of = MZV
 		buildings = {
 			infrastructure = 2
 		}

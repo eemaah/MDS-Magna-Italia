@@ -3,9 +3,8 @@ state={
 	id=2524
 	name="STATE_2524"
 
-	resources = { chromium = 2 }
 	history={
-		owner = USA
+		owner = BUL
 		add_core_of = BUL
 		buildings = {
 			infrastructure = 2

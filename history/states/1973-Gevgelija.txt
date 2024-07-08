@@ -4,9 +4,8 @@ state={
 	name="STATE_1973"
 
 	history={
-		owner = USA
+		owner = YUG
 		add_core_of = MAC
-		add_claim_by = BUL
 		buildings = {
 			infrastructure = 1
 

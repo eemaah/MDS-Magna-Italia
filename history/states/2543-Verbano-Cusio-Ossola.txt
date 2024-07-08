@@ -1,18 +1,13 @@
 state={
 	id=2543
 	name="STATE_2543"
-	resources={
-		aluminium=4
-	}
 	
 	history={
-		owner = USA
+		owner = ITA
 		add_core_of = ITA
 		add_core_of = PIE
 		buildings = {
 			infrastructure = 4
-			830 = { bunker = 1 }
-			20048 = { bunker = 1 }
 		}
 		victory_points = {
 			830 2

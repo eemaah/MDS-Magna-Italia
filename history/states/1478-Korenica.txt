@@ -4,7 +4,7 @@ state={
 	name="STATE_1478"
 
 	history={
-		owner = USA
+		owner = YUG
 		add_core_of = CRO
 		buildings = {
 			infrastructure = 2
@@ -12,7 +12,6 @@ state={
 		}
 		add_core_of = YUG
 		add_core_of = KRJ
-		add_core_of = BHC
 	}
 
 	provinces={

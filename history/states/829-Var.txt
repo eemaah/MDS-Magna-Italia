@@ -5,12 +5,11 @@ state={
 		1712 1759 3761 5801 14680 14684 14727 14737 
 	}
 	history={
-		owner = USA
+		owner = FRA
 		add_core_of = FRA
 		buildings = {
 			infrastructure = 3
 			14737 = { naval_base = 10 }
-			industrial_complex = 1
 		}
 		add_core_of = PRV
 		add_core_of = OCC

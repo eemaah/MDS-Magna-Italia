@@ -6,16 +6,10 @@ state={
 		2052 5139 12312 12362 12399 12448 
 	}
 	history={
-		owner = USA
+		owner = BEL
 		add_core_of = BEL
 		buildings = {
 			infrastructure = 4
-			air_base = 3
-			arms_factory = 3
-			industrial_complex = 4
-			12362 = { bunker = 1 }
-			12448 = { bunker = 1 }
-			5139 = { bunker = 1 }
 		}
 		add_core_of = FLA
 		add_core_of = BRB

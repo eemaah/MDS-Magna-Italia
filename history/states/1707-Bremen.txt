@@ -6,11 +6,10 @@ state={
 		1335 20689 
 	}
 	history={
-		owner = USA
+		owner = GER
 		add_core_of = GER
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 1
 		}
 		add_core_of = BRE
         victory_points = {

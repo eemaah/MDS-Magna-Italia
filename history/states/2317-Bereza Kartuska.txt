@@ -6,7 +6,7 @@ state={
 		5239 6082 7649 8864 11526 11655 11688 
 	}
 	history={
-		owner = USA
+		owner = POL
 		add_core_of = POL
 		victory_points = {
 			11526 2 #Iwacewicze

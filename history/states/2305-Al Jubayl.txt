@@ -3,12 +3,11 @@ state={
 	id=2305
 	name="STATE_2305"
 	history = {
-		owner = USA
+		owner = SAU
 		add_core_of = SAU
 		add_core_of = NJD
 		buildings = {
 			infrastructure = 2
-			arms_factory = 1
 			4409 = { naval_base = 6 }
 		}
 		victory_points = { 4409 10 }

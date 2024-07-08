@@ -3,11 +3,9 @@ state={
 	id=777
 	name="STATE_777"
 
-	resources = { aluminium = 11 }
 	history={
-		owner = USA
+		owner = YUG
 		add_core_of = BOS
-		add_core_of = BHC
 		buildings = {
 			infrastructure = 2
 

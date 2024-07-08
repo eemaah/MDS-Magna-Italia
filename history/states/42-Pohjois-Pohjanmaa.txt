@@ -4,7 +4,7 @@ state={
 	name="STATE_42"
 
 	history={
-		owner = USA
+		owner = FIN
 		add_core_of = FIN
 		buildings = {
 			infrastructure = 2
@@ -20,9 +20,7 @@ state={
 		victory_points = {
 			1447 2 
 		}
-		victory_points = {
-			4788 1
-		}
+
 	}
 
 	provinces={

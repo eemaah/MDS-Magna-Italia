@@ -5,7 +5,7 @@ state={
 		18642 21287 
 	}
 	history={
-		owner = USA
+		owner = JDZ
 		add_core_of = SYR
 		add_core_of = JDZ
 		add_core_of = JBS

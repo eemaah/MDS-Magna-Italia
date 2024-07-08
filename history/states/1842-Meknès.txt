@@ -4,11 +4,10 @@ state={
 		
 				
 	history = {
-		owner = usa
+		owner = MOR
 		add_core_of = MOR
 		buildings = {
 			infrastructure = 2
-			air_base = 4
 		}
 	    victory_points = {
 		    1572 20 #Meknes

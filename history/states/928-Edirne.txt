@@ -4,12 +4,11 @@ state={
 	name="STATE_928"
 
 	history={
-		owner = USA
+		owner = TUR
 		add_core_of = TUR
 		add_core_of = THR
 		buildings = {
 			infrastructure = 2
-			industrial_complex = 1
 
 		}
 		buildings = {
@@ -27,6 +26,6 @@ state={
 	}
 	manpower=80523
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=pastoral
 	local_supplies=0.000
 }

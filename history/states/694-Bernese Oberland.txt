@@ -3,11 +3,10 @@ state={
 	id=694
 	name="STATE_694"
 	history={
-		owner = USA
+		owner = SWI
 		add_core_of = SWI
 		buildings = {
 			infrastructure = 2
-			industrial_complex = 1
 		}
 		victory_points = {
             13957 2 #Thun

@@ -6,7 +6,7 @@ state={
 		306 1778 3165 6368 7338 7507 12849 12860 
 	}
 	history = {
-		owner = USA
+		owner = SOV
 		add_core_of = SOV
 		add_core_of = UKR
 		add_core_of = PLD

@@ -2,12 +2,10 @@
 state={
 	id=2019
 	name="STATE_2019"
-	resources = { steel = 5 }
 	history={
-		owner = USA
+		owner = GRE
 		add_core_of = GRE
 		buildings = {
-			industrial_complex = 1
 			infrastructure = 3
 		}
 	}

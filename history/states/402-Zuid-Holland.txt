@@ -4,13 +4,11 @@ state={
 	name="STATE_402"
 
 	history={
-		owner = USA
+		owner = HOL
 		add_core_of = HOL
 		buildings = {
 			infrastructure = 4
 			1809 = { naval_base = 10 }
-			arms_factory = 1
-			industrial_complex = 1
 		}
 		victory_points = {
 			11886 40 #Rotterdam

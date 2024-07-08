@@ -7,13 +7,12 @@ state={
 	}
 	history = {
 		victory_points = { 9303 1 }
-		owner = USA
+		owner = SOV
 		add_core_of = SOV
 		add_core_of = UKR
 		add_core_of = PLD
 		buildings = {
 			infrastructure = 3
-			air_base = 5
 		}
 	}
 	manpower=152281

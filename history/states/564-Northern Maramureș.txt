@@ -3,7 +3,7 @@ state={
 	id=564
 	name="STATE_564"
 	history={
-		owner = USA
+		owner = CZE
 		add_core_of = CZE
 		add_core_of = SLO
 		add_core_of = CRP
@@ -19,7 +19,6 @@ state={
 		}
 		add_core_of = WUK
 		add_core_of = HUT
-		add_core_of = MRM
 	}
 	provinces={
 		5734 6337 6519 7759 8448 13281 13347 13375 13388 13456 13515 

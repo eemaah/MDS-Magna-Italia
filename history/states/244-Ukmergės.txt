@@ -6,12 +6,11 @@ state={
 		1297 6481 6742 10651 10693 10762 20461 
 	}
 	history={
-		owner = USA
+		owner = LIT
 		add_core_of = LIT
 		add_core_of = AKS
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 1
 		}
 		victory_points = { 20461 2 }
 		victory_points = { 6481 2 }

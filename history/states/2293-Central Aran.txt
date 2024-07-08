@@ -4,13 +4,12 @@ state={
 	name="STATE_2293"
 	history = {
 		victory_points = { 15088 10 }
-		owner = USA
+		owner = SOV
 		add_core_of = SOV
 		add_core_of = TCC
 		add_core_of = AZR
 		buildings = {
 			infrastructure = 2
-			industrial_complex = 1
 		}
         victory_points = { 18985 2 }
     	}

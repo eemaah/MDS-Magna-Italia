@@ -4,7 +4,7 @@ state={
 	name="STATE_2707"
 
 	history={
-		owner = USA
+		owner = SWE
 		add_core_of = SWE
 		buildings = {
 			infrastructure = 2

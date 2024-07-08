@@ -5,7 +5,7 @@ state={
 		1324 2673 3317 5282 7988 12466 12508 12527 12577 12652 12696 16825 17608 
 	}
 	history={
-		owner = USA
+		owner = SOV
 		add_core_of = SOV
 		add_core_of = RUS
 		add_core_of = SLB

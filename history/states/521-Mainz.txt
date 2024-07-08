@@ -5,16 +5,11 @@ state={
 	provinces={
 		2682 7510 12876 20713 20729 
 	}
-	resources={
-		steel=18
-		aluminium = 4
-	}
 	history={
-	    owner = USA
+	    owner = GER
 		add_core_of = GER
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 1
 		}
 		add_core_of = HES
 		victory_points = {

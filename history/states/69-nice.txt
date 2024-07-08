@@ -3,12 +3,11 @@ state={
 	id=69
 	name="STATE_69"
 	history = {
-		owner = USA
+		owner = FIN
 		add_core_of = FIN
 		buildings = {
 			infrastructure = 2
 			19665 = { naval_base = 1 }
-			industrial_complex = 2
 		}
 		victory_points = { 19665 5 }
 	}

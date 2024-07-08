@@ -66,25 +66,14 @@ set_politics = {
 	ruling_party = neutrality
 	last_election = "1936.1.1"
 	election_frequency = 48
+	elections_allowed = no
 }
 
 set_popularities = {
-	democratic = 20
-	neutrality = 75
-	communism = 5
-}
-
-recruit_character = MNT_kristo_popovic
-recruit_character = MNT_blazo_jovanovic
-recruit_character = MNT_blazo_dukanovic
-
-create_country_leader = {
-	name = MNT_king_michael
-	desc = ""
-	picture = "gfx/leaders/MNT/Portrait_MNT_Mihailo_Petrovic_Njegos.png"
-	expire = "1965.1.1"
-	ideology = despotism
-	traits = {}
+	democratic = 33
+	neutrality = 34
+	fascism = 22
+	communism = 11
 }
 
 

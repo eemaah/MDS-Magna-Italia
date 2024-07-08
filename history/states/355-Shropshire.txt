@@ -3,12 +3,11 @@ state={
 	id=355
 	name="STATE_355"
 	history={
-		owner = USA
+		owner = ENG
 		add_core_of = ENG
 		add_core_of = MER
 		buildings = {
 			infrastructure = 4
-			arms_factory = 1
 		}
 		victory_points = {
             11587 10

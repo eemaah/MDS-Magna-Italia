@@ -4,7 +4,7 @@ state={
 	name="STATE_263"
 
 	history={
-		owner = USA
+		owner = GER
 		add_core_of = GER
 		buildings = {
 			infrastructure = 3
@@ -16,10 +16,7 @@ state={
 			5107 5 #Stolp
 		}
 	}
-	resources={
-		steel=6
-		aluminium=3
-	}
+
 	provinces={
 		1725 5107 8337 10971 20542 
 	}

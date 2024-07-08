@@ -6,10 +6,11 @@ state={
 		818 7921 12058 12114 12144 
 	}
 	history={
-		owner = USA
+		owner = POL
 		add_core_of = POL
 		add_core_of = UKR
 		add_core_of = VLH
+		add_core_of = PLS
 		buildings = {
 			infrastructure = 3
 		}

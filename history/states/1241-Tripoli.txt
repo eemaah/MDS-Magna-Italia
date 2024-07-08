@@ -4,11 +4,10 @@ state={
 	name="STATE_1241"
 					
 	history={
-		owner = USA
+		owner = ITA
 		add_core_of = LBA
 		buildings = {
 			infrastructure = 2
-			air_base = 6
 			15718 = { naval_base = 5 }
 		}
 	

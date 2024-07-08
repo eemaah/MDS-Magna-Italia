@@ -4,15 +4,17 @@ state={
 	name="STATE_1601"
 
 	history={
-		owner = USA
+		owner = ROM
 		add_core_of = ROM
 		add_core_of = UKR
 		add_core_of = BDZ
-		add_core_of = MOL
-		add_core_of = BSR
 		buildings = {
 			infrastructure = 3
-			dockyard = 1
+
+		}
+		add_core_of = MOL
+		buildings = {
+			infrastructure = 2
 			924 = {
 				naval_base = 3
 

@@ -6,14 +6,12 @@ state={
 		4944 5414 6022 6507 7137 7330 7375 7444 11178 11214 11215 11277 11292 11311 11323 11397 11454 11470 11504 
 	}
 	history={
-		owner = USA
+		owner = ENG
 		add_core_of = ENG
 		add_core_of = MER
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 1
 			11215 = { naval_base = 1 }
-			air_base = 10
 		}
 	
         victory_points = {

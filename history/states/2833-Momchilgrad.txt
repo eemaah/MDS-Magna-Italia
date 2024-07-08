@@ -5,7 +5,7 @@ state={
 		493 14911 14942 16350 
 	}
 	history={
-		owner = USA
+		owner = BUL
 		add_core_of = BUL
 		add_core_of = THR
 		add_core_of = WTH

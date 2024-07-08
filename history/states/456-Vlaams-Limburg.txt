@@ -6,13 +6,10 @@ state={
 		1953 5002 6949 12266 12335 12354 12412 19892 
 	}
 	history={
-		owner = USA
+		owner = BEL
 		add_core_of = BEL
 		buildings = {
 			infrastructure = 3
-			19892 = { bunker = 2 }
-			12412 = { bunker = 2 }
-			12266 = { bunker = 2 }
 		}
 		add_core_of = FLA
 		add_core_of = LIM

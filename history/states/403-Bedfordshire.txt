@@ -6,12 +6,11 @@ state={
 		11782 11832 19413 
 	}
 	history={
-		owner = USA
+		owner = ENG
 		add_core_of = ENG
 		add_core_of = MER
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 1
 		}
 	
         victory_points = {

@@ -22,37 +22,16 @@ set_technology = {
 
 set_convoys = 10
 
-create_country_leader = {
-	name = "Roberto d'Asburgo-Este"
-	desc = ""
-	picture = "gfx/leaders/MDN/Portrait_MDN_Robert_Habsburg.png"
-	expire = "1960.1.1"
-	ideology = despotism
-	traits = {
-		
-	}
-}
-create_country_leader = {
-	name = "Carlo Sforza"
-	desc = ""
-	picture = "gfx/leaders/MCR/Portrait_MCR_Carlo_Sforza.png"
-	expire = "1952.9.4"
-	ideology = liberalism
-	traits = {
-		compassionate_gentleman
-	}
-}
-
 set_politics = {
-	ruling_party = democratic
-	last_election = "1934.3.25"
-	election_frequency = 60
-	elections_allowed = yes
+	ruling_party = neutrality
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
 }
 
 set_popularities = {
-	democratic = 65
+	democratic = 15
 	fascism = 10
-	communism = 5
-	neutrality = 20
+	communism = 0
+	neutrality = 75
 }

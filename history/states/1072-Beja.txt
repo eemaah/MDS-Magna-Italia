@@ -6,11 +6,10 @@ state={
 		6341 15402 15425 19735 19736 19742 19744 
 	}
 	history={
-		owner = USA
+		owner = POR
 		add_core_of = POR
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 2
 		}
         victory_points = {
             6341 2 #Beja

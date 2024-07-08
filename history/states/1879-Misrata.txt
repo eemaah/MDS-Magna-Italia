@@ -4,11 +4,10 @@ state={
 					
 	history={
 	
-		owner = USA
+		owner = ITA
 		add_core_of = LBA
 		buildings = {
 			infrastructure = 2
-			21093 = { naval_base = 1 }
 		}
 	    victory_points = {
 		    21093 10 #Misratah

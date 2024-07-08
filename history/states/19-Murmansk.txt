@@ -2,23 +2,20 @@
 state={
 	id=19
 	name="STATE_19"
-	resources={
-		steel=14.000
-		chromium=12.000
-	}
+
 	history={
-		owner = USA
+		owner = SOV
 		add_core_of = SOV
 		add_core_of = RUS
-		add_core_of = SAP
 		buildings = {
 			infrastructure = 3
-			19708 = { naval_base = 4 }
-			air_base = 3
-			industrial_complex = 1
-			arms_factory = 1
-			dockyard = 1
+			19708 = {
+				naval_base = 4
+
+			}
+
 		}
+		add_core_of = SAP
 		victory_points = {
 			19708 20 
 		}
@@ -42,6 +39,6 @@ state={
 	}
 	manpower=129800
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=rural
 	local_supplies=0.000
 }

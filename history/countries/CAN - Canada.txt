@@ -1,46 +1,10 @@
 ﻿capital = 9
-
-if = {
-	limit = {
-		NOT = {
-			has_dlc = "No Step Back"
-		}
-	}
-	set_oob = "CAN_1936"
-}
-if = {
-	limit = {
-		has_dlc = "No Step Back"
-	}
-	set_oob = "CAN_1936_nsb"
-}
-if = {
-	limit = { has_dlc = "Man the Guns" }
-	set_naval_oob = "CAN_1936_naval_mtg"
-	else = {
-		set_naval_oob = "CAN_1936_naval_legacy"
-	}
-}
-if = {
-	limit = { has_dlc = "By Blood Alone" }
-		set_air_oob = "CAN_1936_air_bba"
-		set_technology = {
-			aa_lmg = 1
-			engines_1 = 1
-			aircraft_construction = 1
-			iw_small_airframe = 1
-		}
-	else = {
-		set_air_oob = "CAN_1936_air_legacy"
-	}
-}
+oob = "standard_templates"
 
 set_research_slots = 3
 set_country_flag = monroe_doctrine
 set_stability = 0.8
 set_war_support = 0.1
-add_offsite_building = { type = industrial_complex level =  12 }
-add_offsite_building = { type = arms_factory level =  4 }
 
 recruit_character = CAN_mackenzie_king
 recruit_character = CAN_adrien_arcand
@@ -91,20 +55,12 @@ set_technology = {
 	tech_engineers = 1
 	tech_recon = 1
 	gw_artillery = 1
+#	early_fighter = 1
+#	naval_bomber1 = 1
+#	early_bomber = 1
 	trench_warfare = 1
 	fleet_in_being = 1
 	basic_train = 1
-}
-if = {
-	limit = {
-		NOT = { has_dlc = "By Blood Alone" }
-	}
-	set_technology = {
-		early_fighter = 1
-		naval_bomber1 = 1
-		early_bomber = 1
-		
-	}
 }
 
 if = {
@@ -154,11 +110,11 @@ if = {
 }
 if = {
 	limit = { has_dlc = "Together for Victory" }
-	add_ideas = CAN_great_depression_1
-	add_ideas = CAN_conscription_crisis
+#	add_ideas = CAN_great_depression_1
+#	add_ideas = CAN_conscription_crisis
 	set_cosmetic_tag = CAN_UK
 
-	add_to_tech_sharing_group = commonwealth_research
+#	add_to_tech_sharing_group = commonwealth_research
 }
 
 set_politics = {
@@ -169,8 +125,9 @@ set_politics = {
 }
 
 set_popularities = {
+	democratic = 98
+	fascism = 1
 	communism = 1
-	democratic = 99
 }
 
 set_convoys = 100

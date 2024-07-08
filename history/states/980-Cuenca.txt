@@ -6,7 +6,7 @@ state={
 		411 2045 2726 3722 4212 8410 8654 15096 15149 15171 15222 15246 15255 20509 
 	}
 	history={
-		owner = USA
+		owner = SPR
 		add_core_of = SPR
 		add_core_of = CSM
 		buildings = {

@@ -1,25 +1,5 @@
 ﻿capital = 1042
-
-oob = "POR_1936"
-if = {
-	limit = { has_dlc = "Man the Guns" }
-		set_naval_oob = "POR_1936_naval_mtg"
-	else = {
-		set_naval_oob = "POR_1936_naval_legacy"
-	}
-}
-if = {
-	limit = { has_dlc = "By Blood Alone" }
-		set_air_oob = "POR_1936_air_bba"
-	else = {
-		set_air_oob = "POR_1936_air_legacy"
-		set_technology = {
-			early_fighter = 1
-			early_bomber = 1
-			CAS1 = 1
-		}
-	}
-}
+oob = "standard_templates"
 
 set_research_slots = 3
 
@@ -30,6 +10,9 @@ set_technology = {
 	interwar_antiair = 1
 	tech_support = 1		
 	tech_engineers = 1
+#	early_fighter = 1
+#	early_bomber = 1
+#	CAS1 = 1
 	basic_train = 1
 }
 if = {
@@ -59,42 +42,41 @@ if = {
 
 if = {
 	limit = { has_dlc = "La Resistance" }	
-	add_ideas = POR_unreliable_army
-	add_ideas = POR_unstable_republic
+	#add_ideas = POR_unreliable_army
+	#add_ideas = POR_unstable_republic
 	set_stability = 0.60
 	set_war_support = 0.15	
 	set_research_slots = 2
 
-	ENG = {
-		add_opinion_modifier = {
-			target = POR 
-			modifier  = POR_anglo_portuguese_alliance
-		}
-	}
+#	ENG = {
+#		add_opinion_modifier = {
+#			target = POR 
+#			modifier  = POR_anglo_portuguese_alliance
+#		}
+#	}
 
-	POR = {
-		add_opinion_modifier = {
-			target = ENG 
-			modifier  = POR_anglo_portuguese_alliance
-		}
-	}
+#	POR = {
+#		add_opinion_modifier = {
+#			target = ENG 
+#			modifier  = POR_anglo_portuguese_alliance
+#		}
+#	}
 
-	GER = {
-		add_opinion_modifier = {
-			target = POR
-			modifier = fascism_leanings_good
-		}
-	}
+#	GER = {
+#		add_opinion_modifier = {
+#			target = POR
+#			modifier = fascism_leanings_good
+#		}
+#	}
 
-	ITA = {
-		add_opinion_modifier = {
-			target = POR
-			modifier = fascism_leanings_good
-		}
-	}
+#	ITA = {
+#		add_opinion_modifier = {
+#			target = POR
+#			modifier = fascism_leanings_good
+#		}
+#	}
 	
 }
-
 
 
 set_convoys = 100

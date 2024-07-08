@@ -5,9 +5,8 @@ state={
 	provinces={
 		5618 8647 14776 19756 
 	}
-	resources = { steel = 8.000 }
 	history={
-		owner = USA
+		owner = SPR
 		add_core_of = NAV
 		add_core_of = SPR
 		buildings = {

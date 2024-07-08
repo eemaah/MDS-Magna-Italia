@@ -2,16 +2,11 @@
 state={
 	id=92
 	name="STATE_92"
-	resources={
-		aluminium=15.000
-		chromium=1.000
-	}
 	history = {
-		owner = USA
+		owner = NOR
 		add_core_of = NOR
 		buildings = {
 			infrastructure = 2
-			industrial_complex = 1
 		}
 	}
 	provinces={

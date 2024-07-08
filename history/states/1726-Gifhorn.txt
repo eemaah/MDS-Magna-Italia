@@ -5,18 +5,15 @@ state={
 		7241 9031 11558 11621 11719 20676 
 	}
 	history={
-		owner = USA
+		owner = GER
 		add_core_of = GER
 		buildings = {
 			infrastructure = 4
 		}
 		add_core_of = PRE
 		add_core_of = HAN
-        #victory_points = {
-        #    11719 10 # Wolfsburg -added by focus
-        #}
         victory_points = {
-			9031 4 # Gifhorn
+            11719 10 #Wolfsburg
         }
     }
 	manpower=71335

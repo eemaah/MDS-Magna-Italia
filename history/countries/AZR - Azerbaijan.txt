@@ -1,7 +1,5 @@
 ﻿capital = 2292
 
-oob = "AZR_1936"
-
 set_research_slots = 3
 
 # Starting tech
@@ -16,35 +14,43 @@ set_technology = {
 	motorised_infantry = 1
 	paratroopers = 1
 	gw_artillery = 1
+#	early_fighter = 1
+	fighter1 = 1
+#	early_bomber = 1
+	strategic_bomber1 = 1
+#	naval_bomber1 = 1
 	mass_assault = 1
 	fleet_in_being = 1
 }
+
+
 if = {
-	limit = { NOT = { has_dlc = "By Blood Alone" } }
-	set_technology = {
-		early_fighter = 1
-		fighter1 = 1
-		early_bomber = 1
-		strategic_bomber1 = 1
-		naval_bomber1 = 1
+	limit = {
+		NOT = {
+			has_dlc = "No Step Back"
+		}
 	}
-}
-if = {
-	limit = { NOT = { has_dlc = "No Step Back" } }
 	set_technology = {
-		basic_light_tank = 1
 		gwtank = 1
+		basic_light_tank = 1
 	}
 }
 if = {
-	limit = { has_dlc = "No Step Back" }
+	limit = {
+		
+		has_dlc = "No Step Back"
+		
+	}
 	set_technology = {
-		basic_light_tank_chassis = 1
 		gwtank_chassis = 1
+		basic_light_tank_chassis = 1
 	}
 }
+
 if = {
-	limit = { not = { has_dlc = "Man the Guns" } }
+	limit = {
+		not = { has_dlc = "Man the Guns" }
+	}
 	set_technology = {
 		early_submarine = 1
 		basic_submarine = 1
@@ -57,7 +63,9 @@ if = {
 	}
 }
 if = {
-	limit = { has_dlc = "Man the Guns" }
+	limit = {
+		has_dlc = "Man the Guns"
+	}
 	set_technology = {
 		early_ship_hull_submarine = 1
 		basic_ship_hull_submarine = 1
@@ -77,39 +85,5 @@ set_popularities = {
 }
 
 set_politics = {
-	ruling_party = communism
-	elections_allowed = no
-}
-
-create_country_leader = {
-	name = "Mir Jafar Baghirov"
-	desc = ""
-	picture = GFX_portrait_Mir_Jafar_Baghirov
-	expire = "1953.3.1"
-	ideology = stalinism
-	traits = {
-		
-	}
-}
-
-create_country_leader = {
-	name = "Mammad Amin Rasulzade"
-	desc = ""
-	picture = GFX_portrait_Mammad_Amin_Rasulzade
-	expire = "1953.3.1"
-	ideology = conservatism
-	traits = {
-		
-	}
-}
-
-create_country_leader = {
-	name = "Gara Garabeyov"
-	desc = ""
-	picture = GFX_portrait_Gara_Garabeyov
-	expire = "1953.3.1"
-	ideology = moderatism
-	traits = {
-		
-	}
+	ruling_party = neutrality
 }

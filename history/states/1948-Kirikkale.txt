@@ -2,11 +2,10 @@ state={
 	id=1948
 	name="STATE_1948"
 	history = {
-		owner = USA
+		owner = TUR
 		add_core_of = TUR
 		buildings = {
 			infrastructure = 2
-			arms_factory = 1
 		}
 		victory_points = { 21428 10 }
 		

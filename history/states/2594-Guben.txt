@@ -6,7 +6,7 @@ state={
 		2247 11789 
 	}
 	history={
-		owner = USA
+		owner = GER
 		add_core_of = GER
 		buildings = {
 			infrastructure = 4
@@ -15,7 +15,7 @@ state={
 		add_core_of = BRN
 		add_core_of = LUS
         victory_points = {
-            2247 3 #Guben
+            2247 2 #Eisenhüttenstadt
         }
 	}
 	manpower=27458

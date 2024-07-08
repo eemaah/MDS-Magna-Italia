@@ -6,12 +6,11 @@ state={
 		15 2434 3083 6033 8696 15355 15389 15399 15416 19772 
 	}
 	history={
-		owner = USA
+		owner = SPR
 		add_core_of = ADU
 		add_core_of = SPR
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 1
 		}
         victory_points = {
             19772 20 #Córdoba

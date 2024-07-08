@@ -4,13 +4,12 @@ state={
 			
 				
 	history = {
-		owner = USA
+		owner = TNG
 		add_core_of = TNG
 		add_core_of = RIF
 		add_core_of = MOR
 		buildings = {
 			infrastructure = 1
-			industrial_complex = 1
 			20913 = { naval_base = 4 }
 		}
 	

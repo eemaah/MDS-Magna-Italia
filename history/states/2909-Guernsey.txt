@@ -4,9 +4,8 @@ state={
 	name="STATE_2909"
 
 	history={
-		owner = USA
+		owner = GUE
 		add_core_of = GUE
-		add_core_of = NMD
 		buildings = {
 			19868 = {
 				naval_base = 1

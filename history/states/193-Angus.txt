@@ -5,12 +5,11 @@ state={
 		4732 9082 10384 10430 10443 
 	}
 	history={
-		owner = USA
+		owner = ENG
 		add_core_of = ENG
 		buildings = {
 			infrastructure = 3
 			10443 = { naval_base = 1 }
-			dockyard = 1
 		}
 		add_core_of = SCO	
         victory_points = {

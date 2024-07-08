@@ -6,12 +6,11 @@ state={
 		898 6356 11267 11320 11327 11348 11369 11432 
 	}
 	history = {
-		owner = USA
+		owner = SOV
 		add_core_of = SOV
 		add_core_of = RUS
 		buildings = {
 			infrastructure = 3
-			arms_factory = 1
 		}
 		victory_points = {
 			11432 10

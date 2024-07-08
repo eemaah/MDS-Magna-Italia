@@ -6,12 +6,11 @@ state={
 		1597 1701 
 	}
 	history = {
-		owner = USA
+		owner = SOV
 		add_core_of = SOV
 		add_core_of = UKR
 		buildings = {
 			infrastructure = 3
-			arms_factory = 1
 		}
 	}
 	manpower=267185

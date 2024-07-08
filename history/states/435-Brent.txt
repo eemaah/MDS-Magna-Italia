@@ -4,16 +4,12 @@ state={
 	name="STATE_435"
 	
 	history={
-		owner = USA
+		owner = ENG
 		add_core_of = ENG
 		add_core_of = MER
 		add_core_of = LND
 		buildings = {
 			infrastructure = 5
-			industrial_complex = 1
-			air_base = 10
-			radar_station = 1
-			anti_air_building = 1
 		}
 	}
 	provinces={

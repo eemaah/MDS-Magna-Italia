@@ -1,17 +1,5 @@
 ﻿capital = 114
 
-oob = "FIN_1936"
-if = {
-	limit = { has_dlc = "Man the Guns" }
-		set_naval_oob = "FIN_1936_naval_mtg"
-	else = {
-		set_naval_oob = "FIN_1936_naval_legacy"
-	}
-}
-every_owned_state = {
-	set_state_flag = FIN_INITIAL_STATE
-}
-
 set_research_slots = 3
 
 recruit_character = FIN_risto_heikki_ryti
@@ -39,7 +27,7 @@ recruit_character = FIN_ake_henrik_gartz
 
 
 add_ideas = {
-	extensive_conscription
+	limited_conscription
 }
 
 set_technology = {
@@ -85,10 +73,6 @@ set_popularities = {
 	fascism = 10
 	communism = 1
 	neutrality = 79
-}
-
-add_ideas = {
-	sisu
 }
 
 ### VARIANTS ###

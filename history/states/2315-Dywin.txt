@@ -5,13 +5,14 @@ state={
 		11856 11902 
 	}
 	history={
-		owner = USA
+		owner = POL
 		add_core_of = POL
 		buildings = {
 			infrastructure = 2
 		}
 		add_core_of = BLR
 		add_core_of = VLH
+		add_core_of = PLS
 		buildings = {
 			infrastructure = 3
 		}

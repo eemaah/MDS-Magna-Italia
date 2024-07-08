@@ -3,11 +3,10 @@ state={
 	id=404
 	name="STATE_404"
 	history={
-		owner = USA
+		owner = LUX
 		add_core_of = LUX
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 1
 		}
     }
 	provinces={

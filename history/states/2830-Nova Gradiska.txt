@@ -6,9 +6,10 @@ state={
 		1089 8994 14327 
 	}
 	history={
-		owner = USA
+		owner = YUG
 		add_core_of = YUG
 		add_core_of = CRO
+		add_core_of = SVN
 		buildings = {
 			infrastructure = 2
 

@@ -2,17 +2,12 @@
 state={
 	id=1375
 	name="STATE_1375"
-	resources={
-		oil = 1
-		aluminium = 5
-	}
 
 	history={
-		owner = USA
+		owner = ITA
 		add_core_of = ITA
 		add_core_of = PRM
 		buildings = {
-			synthetic_refinery = 1
 			infrastructure = 4
 
 		}

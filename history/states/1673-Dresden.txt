@@ -7,19 +7,15 @@ state={
 		victory_points = {
 			12268 20 #Dresden
 		}
-		owner = USA
+		owner = GER
 		add_core_of = GER
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 1
-			arms_factory = 1
 		}
 		add_core_of = SAX
 
 	}
-	resources={
-		steel=13
-	}
+
 	provinces={
 		12262 12268 
 	}

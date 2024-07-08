@@ -84,7 +84,6 @@ characters={
 		}
 		country_leader={
 			ideology=leninism
-			traits={ resistance_leader }
 			expire="1966.1.1.1"
 			id=-1
 		}
@@ -158,7 +157,7 @@ characters={
 				original_tag = YUG
 			}
 			traits = {
-				army_regrouping_3
+				army_chief_maneuver_2
 			}
 			cost = 100
 			ai_will_do = {
@@ -442,7 +441,7 @@ characters={
 					original_tag = YUG
 				}
 				traits = {
-					army_entrenchment_2
+					army_chief_drill_2
 				}
 				cost = 100
 				ai_will_do = {
@@ -464,7 +463,7 @@ characters={
 					original_tag  = YUG
 				}
 				traits  = {
-					constitutional_philosopher 
+					popular_figurehead 
 				}
 		}
 		name=YUG_slobodan_jovanovic
@@ -492,7 +491,7 @@ characters={
 					original_tag  = YUG
 				}
 				traits  = {
-					democratic_firebrand 
+					democratic_reformer 
 				}
 		}
 		name=YUG_milovan_djilas
@@ -556,7 +555,7 @@ characters={
 					original_tag  = YUG
 				}
 				traits  = {
-					harsh_propagandist 
+					fascist_demagogue 
 				}
 		}
 		name=YUG_dimitrije_ljotic
@@ -584,7 +583,7 @@ characters={
 					}
 				}
 				traits  = {
-					communist_orator 
+					communist_revolutionary 
 				}
 		}
 		name=YUG_ivo_lola_ribar

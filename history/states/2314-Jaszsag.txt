@@ -5,11 +5,10 @@ state={
 		1300 6158 6954 13733 
 	}
 	history = {
-		owner = USA
+		owner = HUN
 		add_core_of = HUN
 		buildings = {
 			infrastructure = 3
-			arms_factory = 1
 		}
 	
         victory_points = {

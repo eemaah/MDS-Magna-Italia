@@ -6,12 +6,11 @@ state={
 		40 4031 9021 9199 11020 11061 11083 11163 
 	}
 	history = {
-		owner = USA
+		owner = SOV
 		add_core_of = SOV
 		add_core_of = BLR
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 1
 		}
 		victory_points = { 11163 20 }
 	}

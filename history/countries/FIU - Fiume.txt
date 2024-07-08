@@ -15,9 +15,9 @@ set_technology = {
 	paratroopers = 1
 	gw_artillery = 1
 #	early_fighter = 1
-#	fighter1 = 1
+	fighter1 = 1
 #	early_bomber = 1
-#	strategic_bomber1 = 1
+	strategic_bomber1 = 1
 #	naval_bomber1 = 1
 	mass_assault = 1
 	fleet_in_being = 1
@@ -83,32 +83,4 @@ set_popularities = {
 	neutrality = 20
 	communism = 5
 	fascism = 25
-}
-set_politics = {
-	ruling_party = neutrality
-	last_election = "1936.1.1"
-	election_frequency = 48
-	elections_allowed = no
-}
-
-create_country_leader = {
-	name = "Gabriele D'Annunzio"
-	desc = ""
-	picture = "gfx/leaders/ITA/Portrait_ITA_Gabriele_DAnnunzio.dds"
-	expire = "1960.1.1"
-	ideology = oligarchism
-	traits = {
-		il_vate
-	}
-}
-
-create_country_leader = {
-	name = "Gabriele D'Annunzio"
-	desc = ""
-	picture = "gfx/leaders/ITA/Portrait_ITA_Gabriele_DAnnunzio.dds"
-	expire = "1960.1.1"
-	ideology = fascism_ideology
-	traits = {
-		il_vate
-	}
 }

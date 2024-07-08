@@ -5,10 +5,9 @@ state={
 		6221 13949 14021 
 	}
 	history={
-		owner = USA
+		owner = ROM
 		add_core_of = ROM
 		add_core_of = MOL
-		add_core_of = BSR
 		buildings = {
 			infrastructure = 2
 		}

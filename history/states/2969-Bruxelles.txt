@@ -6,7 +6,7 @@ state={
 		12389
 	}
 	history={
-		owner = USA
+		owner = BEL
 		add_core_of = BEL
 		add_core_of = BRU
 		add_core_of = BRB

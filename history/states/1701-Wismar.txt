@@ -6,13 +6,12 @@ state={
 		28 5155 11043 11090 11097 20643 
 	}
 	history={
-		owner = USA
+		owner = GER
 		add_core_of = GER
 		buildings = {
 			infrastructure = 3
 		}
 		add_core_of = MKW
-		add_core_of = MEK
         victory_points = {
             28 2 #Wismar
         }

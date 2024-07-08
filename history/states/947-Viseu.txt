@@ -6,7 +6,7 @@ state={
 		1660 5291 5941 7853 
 	}
 	history={
-		owner = USA
+		owner = POR
 		add_core_of = POR
 		buildings = {
 			infrastructure = 3

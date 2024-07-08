@@ -1,99 +1,22 @@
 continuous_focus_palette = {
 	id = generic_focus
 	
-	country = { factor = 1 }
+	country = {
+		factor = 1
+	}
 	
 	default = yes
 	reset_on_civilwar = no
 			
 	position = { x = 50 y = 1000 }
-	
-	focus = {
-		id = SWI_build_up_military_readiness
-		
-		icon = GFX_focus_SWI_continuous_build_up_military_readiness
-		
-		available = {
-			hidden_trigger = { 
-				has_dlc = "By Blood Alone" 
-				original_tag = SWI 
-			}
-		}
 
-		enable = { has_completed_focus = SWI_armed_neutrality }
-
-		modifier = { }
-		
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0		
-				all_owned_state = { is_controlled_by = ROOT }
-			}
-		}
-		
-		supports_ai_strategy = ai_focus_military_advancements
-		
-		daily_cost = 1
-				
-		available_if_capitulated = yes
-
-		select_effect = {
-			activate_mission = SWI_building_up_military_readiness_mission
-			set_country_flag = SWI_building_up_mr_cont_focus_active
-		}
-		
-
-		cancel_effect = { clr_country_flag = SWI_building_up_mr_cont_focus_active }
-	}
-	
-	focus = {
-		id = SWI_support_active_militias_continuous_focus
-		
-		icon = GFX_focus_SWI_continuous_support_active_militias
-		
-		available = {
-			hidden_trigger = { 
-				has_dlc = "By Blood Alone" 
-				original_tag = SWI
-			}
-		}
-
-		enable = { has_dynamic_modifier = { modifier = SWI_active_citizen_militia } }
-
-		modifier = {
-			modifier_army_sub_unit_militia_attack_factor = 0.3
-			modifier_army_sub_unit_militia_defence_factor = 0.3
-			modifier_army_sub_unit_militia_speed_factor = 0.3
-			modifier_army_sub_unit_militia_max_org_factor = 0.15
-		}
-		
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0		
-				all_owned_state = { is_controlled_by = ROOT }
-			}
-		}
-		
-		supports_ai_strategy = ai_focus_military_advancements
-		
-		daily_cost = 1
-				
-		available_if_capitulated = yes
-
-		select_effect = { }
-		
-
-		cancel_effect = { }
-	}
-	
 	focus = {
 		id = continuous_naval_production
 		
 		icon = GFX_goal_continuous_naval_production
 		
-		available = { }
+		available = {
+		}
 		
 		idea = continuous_naval_production
 		
@@ -102,6 +25,7 @@ continuous_focus_palette = {
 			modifier = {
 				factor = 0.25		
 				is_government_in_exile = yes 
+				original_tag = FRA
 			}
 		}
 		
@@ -117,7 +41,8 @@ continuous_focus_palette = {
 		
 		icon = GFX_goal_continuous_air_production
 		
-		available = { }
+		available = {
+		}
 		
 		idea = continuous_air_production
 		
@@ -126,6 +51,7 @@ continuous_focus_palette = {
 			modifier = {
 				factor = 0.25		
 				is_government_in_exile = yes 
+				original_tag = FRA 
 			}
 		}
 		
@@ -141,7 +67,8 @@ continuous_focus_palette = {
 		
 		icon = GFX_goal_continuous_non_factory_construct
 		
-		available = { }
+		available = {
+		}
 		
 		
 		modifier = {
@@ -165,6 +92,7 @@ continuous_focus_palette = {
 			modifier = {
 				factor = 0.25		
 				is_government_in_exile = yes 
+				original_tag = FRA 
 			}
 		}
 		
@@ -180,15 +108,19 @@ continuous_focus_palette = {
 		
 		icon = GFX_goal_continuous_reduce_training_time
 		
-		available = { }
+		available = {
+		}
 		
-		modifier = { training_time_army_factor = -0.25 }
+		modifier = {
+			training_time_army_factor = -0.25
+		}
 		
 		ai_will_do = {
 			factor = 1
 			modifier = {
 				factor = 0.25		
 				is_government_in_exile = yes  
+				original_tag = FRA
 			}
 		}
 		
@@ -204,9 +136,12 @@ continuous_focus_palette = {
 		
 		icon = GFX_goal_continuous_suppression
 		
-		available = { }
+		available = {
+		}
 		
-		modifier = { resistance_target = -0.05 }
+		modifier = {
+			resistance_target = -0.05
+		}
 		
 		ai_will_do = {
 			factor = 1
@@ -229,9 +164,12 @@ continuous_focus_palette = {
 		
 		icon = GFX_goal_continuous_repairments
 		
-		available = { }
+		available = {
+		}
 				
-		modifier = { industry_repair_factor = 0.5 }
+		modifier = {
+			industry_repair_factor = 0.5
+		}
 		
 		ai_will_do = {
 			factor = 1
@@ -254,7 +192,10 @@ continuous_focus_palette = {
 		
 		icon = GFX_goal_continuous_research
 		
-		available = { hidden_trigger = { has_dlc = "Together for Victory" } }
+		available = {
+			hidden_trigger = { has_dlc = "Together for Victory" }
+			
+		}
 
 		enable = {
 			is_in_faction = yes
@@ -272,11 +213,17 @@ continuous_focus_palette = {
 			}
 		}
 		
-		select_effect = { add_to_tech_sharing_group = continuous_tech_share }
+		select_effect = {
+			add_to_tech_sharing_group = continuous_tech_share
+		}
 		
-		cancel_effect = { remove_from_tech_sharing_group = continuous_tech_share }
+		cancel_effect = {
+			remove_from_tech_sharing_group = continuous_tech_share	
+		}
 
-		ai_will_do = { factor = 0 }
+		ai_will_do = {
+			factor = 0
+		}
 		
 		supports_ai_strategy = ai_focus_military_advancements
 		
@@ -295,9 +242,13 @@ continuous_focus_palette = {
 			is_subject = yes			
 		}
 		
-		modifier = { autonomy_gain = 0.5 }
+		modifier = {
+			autonomy_gain = 0.5
+		}
 		
-		ai_will_do = { factor = 0 }
+		ai_will_do = {
+			factor = 0
+		}
 		
 		supports_ai_strategy = ai_focus_military_advancements
 		
@@ -311,16 +262,22 @@ continuous_focus_palette = {
 		
 		icon = GFX_goal_continuous_restrict_freedom
 		
-		available = { hidden_trigger = { has_dlc = "Together for Victory" } }
+		available = {
+			hidden_trigger = { has_dlc = "Together for Victory" }
+		}
 
-		enable = { num_subjects > 0 }
+		enable = {
+			num_subjects > 0
+		}
 
 		modifier = {
 			custom_modifier_tooltip = subject_autonomy_mod_tt
 			hidden_modifier = { subjects_autonomy_gain = -0.5 }
 		}
 		
-		ai_will_do = { factor = 0 }
+		ai_will_do = {
+			factor = 0
+		}
 		
 		supports_ai_strategy = ai_focus_military_advancements
 		
@@ -328,4 +285,7 @@ continuous_focus_palette = {
 		
 		available_if_capitulated = yes
 	}
+
+	
+
 }

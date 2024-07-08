@@ -4,7 +4,7 @@ state={
 	name="STATE_1519"
 
 	history={
-		owner = USA
+		owner = ALB
 		add_core_of = ALB
 		buildings = {
 			infrastructure = 2

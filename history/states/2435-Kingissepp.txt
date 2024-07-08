@@ -4,12 +4,12 @@ state={
 	name="STATE_2435"
 
 	history={
-		owner = USA
+		owner = SOV
 		add_core_of = SOV
 		add_core_of = RUS
 		buildings = {
 			infrastructure = 3
-			air_base = 4
+
 		}
 		add_core_of = IGR
 		victory_points = {

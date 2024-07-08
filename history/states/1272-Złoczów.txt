@@ -6,7 +6,7 @@ state={
 		1405 2845 2960 3266 3508 4627 6010 6573 6962 12702 12749 12819 
 	}
 	history={
-		owner = USA
+		owner = POL
 		add_core_of = POL
 		buildings = {
 			infrastructure = 3

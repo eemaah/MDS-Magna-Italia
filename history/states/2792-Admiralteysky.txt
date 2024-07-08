@@ -6,7 +6,7 @@ state={
 		1424 9973 10005 10012 17228 
 	}
 	history={
-		owner = USA
+		owner = SOV
 		add_core_of = SOV
 		add_core_of = RUS
 		add_core_of = IGR
@@ -19,10 +19,7 @@ state={
 		victory_points = {
 			17228 2 
 		}
-		buildings = {
-			infrastructure = 2
-			arms_factory = 2
-		}
+
 	}
 	manpower=413901
 	state_category=city

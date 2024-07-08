@@ -6,7 +6,7 @@ state={
 		3541 7846 8131 19906 19933 20472 
 	}
 	history={
-	    owner = USA
+	    owner = GER
         victory_points = {
             19906 20 #Königsberg
         }
@@ -18,10 +18,7 @@ state={
 		add_core_of = GER
 		buildings = {
 			infrastructure = 3
-			air_base = 6
-			industrial_complex = 2
 			19906 = { naval_base = 5 }
-			anti_air_building = 2
 		}
     }
 	manpower=371729

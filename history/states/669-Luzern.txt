@@ -6,7 +6,7 @@ state={
 		1875 13858 20110 
 	}
 	history={
-		owner = USA
+		owner = SWI
 		add_core_of = SWI
 		buildings = {
 			infrastructure = 4

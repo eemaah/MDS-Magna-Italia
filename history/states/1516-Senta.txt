@@ -5,7 +5,7 @@ state={
 		14124 14166 14195 
 	}
 	history = {
-		owner = USA
+		owner = YUG
 		add_core_of = YUG
 		add_core_of = SER
 		buildings = {

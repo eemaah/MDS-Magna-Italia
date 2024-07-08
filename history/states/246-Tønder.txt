@@ -3,13 +3,14 @@ state={
 	id=246
 	name="STATE_246"
 	history = {
-		owner = USA
+		owner = DEN
 		add_core_of = DEN
 		buildings = {
 			infrastructure = 2
 		}
 		add_core_of = SHL
 		add_core_of = SLW
+		add_core_of = NFR
 	}
 	provinces={
 		8755 19615 19616 19642 

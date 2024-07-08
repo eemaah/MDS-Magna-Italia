@@ -6,7 +6,7 @@ state={
 		1576 14324 14403 
 	}
 	history = {
-		owner = USA
+		owner = ROM
 		add_core_of = ROM
 		add_core_of = WLC
 		add_core_of = DOB

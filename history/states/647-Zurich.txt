@@ -6,12 +6,10 @@ state={
 		7132 13716 13725 20098 
 	}
 	history={
-		owner = USA
+		owner = SWI
 		add_core_of = SWI
 		buildings = {
-			air_base = 3
 			infrastructure = 4
-			industrial_complex = 2
 		}
 	
         victory_points = {

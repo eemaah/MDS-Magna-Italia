@@ -5,13 +5,13 @@ state={
 
 	history={
 		victory_points = { 3816 5 }
-		owner = USA
+		owner = YUG
 		add_core_of = YUG
 		add_core_of = VJV
 		add_core_of = SER
+		add_claim_by = SVN
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 1
 
 		}
 

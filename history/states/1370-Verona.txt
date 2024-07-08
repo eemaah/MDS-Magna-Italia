@@ -2,17 +2,13 @@
 state={
 	id=1370
 	name="STATE_1370"
-	resources={
-		steel = 5
-	}
 
 	history={
-		owner = USA
+		owner = ITA
 		add_core_of = ITA
 		add_core_of = VNT
 		buildings = {
 			infrastructure = 4
-			air_base = 1
 		}
 		victory_points = {
 			14307 20

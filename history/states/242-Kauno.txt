@@ -4,13 +4,12 @@ state={
 	name="STATE_242"
 
 	history={
-		owner = USA
+		owner = LIT
 		add_core_of = LIT
 		add_core_of = AKS
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 2
-			arms_factory = 1
+
 		}
 		victory_points = {
 			17371 20 

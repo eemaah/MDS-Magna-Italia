@@ -2,12 +2,8 @@
 state={
 	id=1367
 	name="STATE_1367"
-	
-	resources={
-		steel=9
-	}
 	history = {
-		owner = USA
+		owner = ITA
 		add_core_of = ITA
 		add_core_of = LIG
 		buildings = {

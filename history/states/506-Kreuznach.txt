@@ -2,11 +2,8 @@
 state={
 	id=506
 	name="STATE_506"
-	resources={
-		steel=5
-	}
 	history={
-		owner = USA
+		owner = GER
 		add_core_of = GER
 		buildings = {
 			infrastructure = 4

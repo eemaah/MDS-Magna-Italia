@@ -5,13 +5,11 @@ state={
 		14976 20217 
 	}
 	history={
-		owner = USA
+		owner = ALB
 		add_core_of = ALB
 		add_core_of = CAB
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 1
-			air_base = 3
 		}
         victory_points = {
             20217 20

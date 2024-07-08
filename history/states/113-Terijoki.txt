@@ -4,27 +4,12 @@ state={
 	name="STATE_113"
 
 	history={
-		owner = USA
+		owner = FIN
 		add_core_of = FIN
 		add_core_of = KAR
 		buildings = {
 			infrastructure = 2
-			industrial_complex = 1
-			5283 = {
-				bunker = 2
-			}
-			18519 = {
-				bunker = 2
-			}
-			2342 = {
-				bunker = 2
-			}
-			16824 = {
-				bunker = 2
-			}
-			9404 = {
-				bunker = 2
-			}
+
 		}
 
 	}

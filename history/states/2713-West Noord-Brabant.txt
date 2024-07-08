@@ -5,12 +5,11 @@ state={
 		6618 6625 5879 12107 12039
 	}
 	history={
-		owner = USA
+		owner = HOL
 		add_core_of = HOL
 		add_core_of = BRB
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 1
 		}
 		victory_points = {
 			12039 10 #Tilburg

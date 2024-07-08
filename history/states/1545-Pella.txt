@@ -3,9 +3,8 @@ state={
 	id=1545
 	name="STATE_1545"
 	history={
-		owner = USA
+		owner = GRE
 		add_core_of = GRE
-		add_claim_by = BUL
 		buildings = {
 			infrastructure = 2
 		}

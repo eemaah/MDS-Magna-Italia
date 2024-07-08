@@ -2,23 +2,24 @@
 state={
 	id=803
 	name="STATE_803"
+
 	history={
-		owner = USA
+		owner = FRA
 		add_core_of = FRA
-		add_core_of = AQT
 		add_core_of = OCC
-		victory_points = {
-            20492 5 #La Teste-de-Buch
-        }
+		add_core_of = GAS
 		buildings = {
 			infrastructure = 3
+
 		}
-    }
-	provinces={
-		1986 3725 4621 5881 5915 14589 14603 20491 20492 
+
 	}
-	manpower=213690
+
+	provinces={
+		3725 4621 5881 
+	}
+	manpower=106845
 	buildings_max_level_factor=1.000
-	state_category=large_town
+	state_category=rural
 	local_supplies=0.000
 }

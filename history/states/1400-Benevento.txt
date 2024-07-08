@@ -2,11 +2,8 @@
 state={
 	id=1400
 	name="STATE_1400"
-	resources={
-		aluminium = 5
-	}
 	history = {
-		owner = USA
+		owner = ITA
 		add_core_of = ITA
 		add_core_of = NAP
 		buildings = {

@@ -4,7 +4,7 @@ state={
 	name="STATE_405"
 
 	history={
-		owner = USA
+		owner = ENG
 		add_core_of = ENG
 		add_core_of = MER
 		buildings = {
@@ -12,9 +12,11 @@ state={
 
 		}
 		victory_points = {
-			11918 5
+			11918 5 
 		}
-    }
+
+	}
+
 	provinces={
 		2445 3966 8946 11872 11918 
 	}

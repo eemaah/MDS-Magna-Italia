@@ -6,9 +6,10 @@ state={
 		5346 7624 8733 14711 14721 20526 
 	}
 	history={
-		owner = USA
+		owner = FRA
 		add_core_of =FRA
 		add_core_of = OCC
+		add_core_of = GAS
 		buildings = {
 			infrastructure = 2
 		}

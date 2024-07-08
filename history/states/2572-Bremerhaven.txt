@@ -5,12 +5,11 @@ state={
 		11207 
 	}
 	history={
-		owner = USA
+		owner = GER
 		add_core_of = GER
 		buildings = {
 			infrastructure = 4
 			11207 = { naval_base = 1 }
-			dockyard = 1
 		}
 		add_core_of = BRE
 		victory_points = {

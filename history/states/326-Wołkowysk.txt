@@ -6,7 +6,7 @@ state={
 		1069 3258 5860 6989 8356 11279 11376 11439 11483 11518 
 	}
 	history={
-		owner = USA
+		owner = POL
 		add_core_of = POL
 		victory_points = {
 			3258 2 #Wołkowysk

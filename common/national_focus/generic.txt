@@ -1776,7 +1776,6 @@ focus_tree = {
 			}
 			modifier = {
 				factor = 20
-				has_idea = SOV_russian_political_influence
 			}
 		}
 
@@ -1824,7 +1823,6 @@ focus_tree = {
 			}
 			modifier = {
 				factor = 10
-				has_idea = SOV_russian_political_influence
 			}
 		}
 
@@ -2007,11 +2005,6 @@ focus_tree = {
 				tag = SAU
 				is_in_faction_with = SOV
 				SOV = { has_government = communism }
-			}
-			modifier = {
-				factor = 100
-				tag = BEL
-				has_country_flag = bel_neutrality_flag
 			}
 		}
 

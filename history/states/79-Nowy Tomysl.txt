@@ -6,7 +6,7 @@ state={
 		302 3190 4234 4711 8583 9063 9493 11560 11650 11715 11772 20553 
 	}
 	history={
-		owner = USA
+		owner = POL
 		add_core_of = POL
 		add_core_of = WKP
 		victory_points = {

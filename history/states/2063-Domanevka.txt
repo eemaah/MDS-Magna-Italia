@@ -4,7 +4,7 @@ state={
 	name="STATE_2063"
 
 	history={
-		owner = USA
+		owner = SOV
 		add_core_of = SOV
 		add_core_of = UKR
 		add_core_of = ZAP

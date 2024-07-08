@@ -3,7 +3,7 @@ state={
 	id=1422
 	name="STATE_1422"
 	history={
-		owner = USA
+		owner = FRA
 		add_core_of = FRA
         victory_points = {
             20495 2 #Bastia

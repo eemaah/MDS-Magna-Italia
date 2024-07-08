@@ -6,13 +6,11 @@ state={
 		110 1039 1611 1785 4047 4165 7546 15411 19796 
 	}
 	history={
-		owner = USA
+		owner = SPR
 		add_core_of = ADU
 		add_core_of = SPR
 		buildings = {
 			infrastructure = 3
-			arms_factory = 1
-			air_base = 3
 		}
         victory_points = {
             7546 40 #Sevilla

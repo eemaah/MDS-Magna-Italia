@@ -4,11 +4,10 @@ state={
 	name="STATE_945"
 
 	history={
-		owner = USA
+		owner = TUR
 		add_core_of = TUR
 		buildings = {
 			infrastructure = 3
-			arms_factory = 2
 
 		}
 		victory_points = {

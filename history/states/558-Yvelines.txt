@@ -3,7 +3,7 @@ state={
 	id=558
 	name="STATE_558"
 	history={
-		owner = USA
+		owner = FRA
 		add_core_of = FRA
 		victory_points = {
 			9580 5 #Versailles
@@ -13,7 +13,6 @@ state={
         }
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 2
 		}
     }
 	provinces={

@@ -4,11 +4,11 @@ state={
 	name="STATE_87"
 
 	history={
-		owner = USA
+		owner = LAT
 		add_core_of = LAT
 		buildings = {
 			infrastructure = 2
-			industrial_complex = 1
+
 		}
 		add_core_of = CUR
 		victory_points = {

@@ -6,7 +6,7 @@ state={
 		19402 
 	}
 	history={
-		owner = USA
+		owner = ENG
 		add_core_of = ENG
 		add_core_of = ORK
 		buildings = {

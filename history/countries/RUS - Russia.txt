@@ -1,6 +1,12 @@
 ﻿capital = 229
 
+set_technology = {
+	synth_oil_experiments = 1
+}
+
 starting_train_buffer = 3.0
+
+set_convoys = 50
 
 if = {
 	limit = { has_dlc = "By Blood Alone" }
@@ -29,9 +35,10 @@ if = {
 }
 
 set_research_slots = 3
-
+set_stability = 0.5
+set_war_support = 0.3
 # Starting tech
-set_technology = {
+set_technology = { #WARNING: Do not just remove techs from here -> It can impact a lot of stuff. Before removing, double check that content does not count on these techs being researched
 	infantry_weapons = 1
 	infantry_weapons1 = 1
 	tech_recon = 1
@@ -49,8 +56,11 @@ set_technology = {
 	fuel_refining = 1
 	basic_train = 1
 }
+
 if = {
-	limit = { NOT = { has_dlc = "No Step Back" } }
+	limit = {
+		NOT = { has_dlc = "No Step Back" }
+	}
 	set_technology = {
 		gwtank = 1
 		basic_light_tank = 1
@@ -58,7 +68,9 @@ if = {
 	}
 }
 if = {
-	limit = { has_dlc = "No Step Back" }
+	limit = {
+		has_dlc = "No Step Back"
+	}
 	set_technology = {
 		gwtank_chassis = 1
 		basic_light_tank_chassis = 1
@@ -99,19 +111,20 @@ if = {
 		mtg_transport = 1
 	}
 }
+
 if = {
-	limit = { has_dlc = "La Resistance" }
+	limit = {
+		has_dlc = "La Resistance"
+	}
 	set_technology = {
 		armored_car1 = 1
 	}
 }
 
-set_cosmetic_tag = RUS_RSFSR
-
 set_convoys = 50
 
 set_politics = {
-	ruling_party = communism
+	ruling_party = neutrality
 	last_election = "1933.7.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -119,8 +132,8 @@ set_politics = {
 set_popularities = {
 	democratic = 16
 	fascism = 4
-	communism = 58
-	neutrality = 22
+	communism = 22
+	neutrality = 58
 }
 
 ### VARIANTS ###
@@ -241,8 +254,7 @@ if = {
 			tank_nsb_engine_upgrade = 8
 			tank_nsb_armor_upgrade = 1
 		}
-		icon = "GFX_SOV_improved_light_tank_medium" #More similar to BT-7 than to T-26
-		model = "SOV_light_armor_entity" #More similar to BT-7 than to T-26
+		icon = "GFX_SOV_improved_light_tank_medium"
 	}
 	create_equipment_variant = {
 		name = "BT-7"
@@ -280,8 +292,7 @@ if = {
 			tank_nsb_armor_upgrade = 3
 			tank_nsb_engine_upgrade = 10
 		}
-		icon = "GFX_SOV_basic_heavy_tank_medium" #Closer to T-35
-		#model = "SOV_heavy_armor_0" #Closer to T-35 but dependant on Soviet Tanks DLC
+		icon = "GFX_SOV_basic_heavy_tank_medium"
 	}
 	create_equipment_variant = {
 		name = "T-35"
@@ -518,7 +529,6 @@ if = {
 		type = ship_hull_cruiser_1				# minelayer
 		name_group = SOV_MINELAYERS_HISTORICAL
 		parent_version = 0
-		role_icon_index = 4
 		modules = {
 			fixed_ship_battery_slot = ship_light_medium_battery_1
 			fixed_ship_anti_air_slot = ship_anti_air_1

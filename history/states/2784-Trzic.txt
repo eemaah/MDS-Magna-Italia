@@ -5,7 +5,7 @@ state={
 		14042 
 	}
 	history={
-		owner = USA
+		owner = YUG
 		add_core_of = YUG
 		add_core_of = SLV
 		add_core_of = KRT

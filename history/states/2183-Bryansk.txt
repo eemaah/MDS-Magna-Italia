@@ -2,16 +2,13 @@
 state={
 	id=2183
 	name="STATE_2183"
-	resources={
-		steel=20.000
-	}
+
 	history={
-		owner = USA
+		owner = SOV
 		add_core_of = SOV
 		add_core_of = RUS
 		buildings = {
 			infrastructure = 3
-			air_base = 4
 		}
 		victory_points = {
 			11394 20

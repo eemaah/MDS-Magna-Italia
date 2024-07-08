@@ -2,9 +2,9 @@ state={
 	id=1966
 	name="STATE_1966"		
 	history = {
-		owner = USA
+		owner = ENG
 		add_core_of = CYP
-		add_core_of = NCY
+		
 		add_core_of = GRE
 		buildings = {
 			infrastructure = 2

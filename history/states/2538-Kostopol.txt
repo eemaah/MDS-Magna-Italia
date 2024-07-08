@@ -6,13 +6,14 @@ state={
 		684 1161 2456 5894 6615 7371 7482 8026 
 	}
 	history={
-		owner = USA
+		owner = POL
 		add_core_of = POL
 		victory_points = {
 			6615 2 #Kostopol
 		}
 		add_core_of = UKR
 		add_core_of = VLH
+		add_core_of = PLS
 		buildings = {
 			infrastructure = 3
 		}

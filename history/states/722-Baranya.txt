@@ -6,11 +6,10 @@ state={
 		1197 7900 8610 8687 14102 14108 14154 
 	}
 	history = {
-		owner = USA
+		owner = HUN
 		add_core_of = HUN
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 1
 		}
 		add_core_of = SBB
         victory_points = {

@@ -5,11 +5,8 @@ state={
 	provinces={
 		4408 5086 12985 20743 
 	}
-	resources={
-		steel=16
-	}
 	history={
-	    owner = USA
+	    owner = GER
 		add_core_of = GER
 		buildings = {
 			infrastructure = 4

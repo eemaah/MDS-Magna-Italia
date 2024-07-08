@@ -4,11 +4,10 @@ state={
 	name="STATE_2206"
 			
 	history = {
-		owner = USA
+		owner = IRQ
 		add_core_of = IRQ
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 1
 			19155 = { naval_base = 1 }
 		}
 		victory_points = {
@@ -22,7 +21,6 @@ state={
 		}
 	}
 		
-	resources = { oil = 24 }
 	provinces={
 		7253 8753 18632 18724 19146 19149 19150 19155 19208 
 	}

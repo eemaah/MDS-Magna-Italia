@@ -3,18 +3,14 @@ state={
 	id=755
 	name="STATE_755"
 	history = {
-		add_extra_state_shared_building_slots = 2
-		owner = USA
+		owner = ITA
 		add_core_of = CRO
 		add_core_of = ITA
 		add_core_of = FIU
 		add_core_of = JUL
 		buildings = {
 			infrastructure = 3
-			dockyard = 1
-			synthetic_refinery = 1
 			14309 = { naval_base = 3 }
-			14309 = { bunker = 1 }
 		}
 		victory_points = { 14309 10 }
 	}

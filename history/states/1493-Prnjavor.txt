@@ -5,7 +5,7 @@ state={
 		1260 7113 14378 14468 
 	}
 	history = {
-		owner = USA
+		owner = YUG
 		add_core_of = BOS
 		buildings = {
 			infrastructure = 2

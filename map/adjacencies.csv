@@ -36,7 +36,6 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 19854;19870;sea;16785;-1;-1;-1;-1;;Zeeland 5
 19873;19871;sea;16785;-1;-1;-1;-1;;Zeeland 6
 19872;19871;sea;16785;-1;-1;-1;-1;;Zeeland 7
-16996;17462;;-1;-1;-1;-1;-1;NOORDZEEKANAAL;Noordzeekanaal
 4251;19872;sea;16785;-1;-1;-1;-1;;Zeeland 10
 11951;19872;sea;16785;-1;-1;-1;-1;;South Holland Island 1
 19416;2352;sea;17946;-1;-1;-1;-1;;Anglesey
@@ -171,12 +170,9 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 19109;15141;sea;16926;-1;-1;-1;-1;;Sazan-Albania
 15010;15013;sea;17867;-1;-1;-1;-1;;Bosphorus crossing
 17001;17867;;-1;-1;-1;-1;-1;BOSPHORUS_STRAIT;Bosphorus strait
-15164;21437;sea;17398;-1;-1;-1;-1;;Dardanelles crossing
 18036;17398;;-1;-1;-1;-1;-1;DARDANELLES_STRAIT;Dardanelles strait
 18503;17500;;-1;-1;-1;-1;-1;SUEZ_CANAL;Suez canal duh
 18465;17429;;-1;-1;-1;-1;-1;GIBRALTAR_STRAIT;Strait of Gibraltar
-15693;21020;sea;17201;-1;-1;-1;-1;;Tunisia crossing
-15703;21020;sea;16204;-1;-1;-1;-1;;Tunisia crossing 2
 20288;21437;sea;17398;-1;-1;-1;-1;;Imroz-Gallipoli
 15164;21437;sea;17398;-1;-1;-1;-1;;Kilitbahir-Canakkale
 21445;21439;sea;18036;-1;-1;-1;-1;;Gallipoli-Lapseki
@@ -187,8 +183,6 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 21356;20297;sea;16887;-1;-1;-1;-1;;Rhodes-Mainland
 20316;20322;sea;18478;-1;-1;-1;-1;;Karpathos-Kasos
 20317;21364;sea;17049;-1;-1;-1;-1;;Dodecanese2-Mainland
-20318;21364;sea;16439;-1;-1;-1;-1;;Dodecanese3-Mainland
-20318;20317;sea;16439;-1;-1;-1;-1;;Dodecanese3-Dodecanese
 19405;19408;sea;16263;-1;-1;-1;-1;;Faero 1
 19405;19407;sea;17794;-1;-1;-1;-1;;Faero 2
 19406;19407;sea;17794;-1;-1;-1;-1;;Faero 3
@@ -811,4 +805,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 16537;17405;;-1;-1;-1;-1;-1;AMERICA_BORDER;America Border
 16551;17438;;-1;-1;-1;-1;-1;CONGO_BORDER;Congo Border
 19213;16304;;-1;-1;-1;-1;-1;INDONESIA_BORDER;Congo Border
+17995;17553;;-1;-1;-1;-1;-1;DOVER_STRAIT;Strait of Dover
+18358;17553;;-1;-1;-1;-1;-1;DOVER_STRAIT;Strait of Dover
+18358;18014;;-1;-1;-1;-1;-1;DOVER_STRAIT;Strait of Dover
 -1;-1;;-1;-1;-1;-1;-1;-1

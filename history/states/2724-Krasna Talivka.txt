@@ -5,7 +5,7 @@ state={
 		7450 
 	}
 	history={
-		owner = USA
+		owner = SOV
 		add_core_of = SOV
 		add_core_of = UKR
 		add_core_of = DNB

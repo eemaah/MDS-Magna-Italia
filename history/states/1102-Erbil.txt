@@ -3,7 +3,7 @@ state={
 	id=1102
 	name="STATE_1102"
 	history = {
-		owner = USA
+		owner = IRQ
 		add_core_of = IRQ
 		buildings = {
 			infrastructure = 2
@@ -14,7 +14,6 @@ state={
 		add_core_of = KUR
 		add_core_of = KRG
 	}
-	resources = { oil = 11 }
 	provinces={
 		946 4015 4832 18831 18836 18837 
 	}

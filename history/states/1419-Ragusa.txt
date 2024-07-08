@@ -2,12 +2,9 @@
 state={
 	id=1419
 	name="STATE_1419"
-	resources={
-		oil = 2
-	}
 
 	history={
-		owner = USA
+		owner = ITA
 		add_core_of = ITA
 		add_core_of = SIC
 		buildings = {

@@ -1,16 +1,5 @@
 ﻿capital = 2969
 
-oob = "BEL_1936"
-if = {
-	limit = { has_dlc = "By Blood Alone" }
-		set_air_oob = "BEL_1936_air_bba"
-	else = {
-		set_air_oob = "BEL_1936_air_legacy"
-		set_technology = {
-			early_fighter = 1
-		}
-	}
-}
 
 set_research_slots = 3
 set_stability = 0.8
@@ -53,9 +42,8 @@ recruit_character = BEL_paul-henri_spaak
 recruit_character = BEL_gaston_eyskens
 recruit_character = BEL_paul_van_zeeland
 
-2974 = {
-	add_dynamic_modifier = { modifier = colonies_modifier }
-}
+
+
 
 set_politics = {
 	ruling_party = democratic

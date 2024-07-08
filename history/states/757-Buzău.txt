@@ -3,13 +3,11 @@ state={
 	id=757
 	name="STATE_757"
 	history = {
-		owner = USA
+		owner = ROM
 		add_core_of = ROM
 		add_core_of = WLC
-		add_core_of = MUN
 		buildings = {
 			infrastructure = 3
-			arms_factory = 1
 		}
 		victory_points = {
 			14361 10

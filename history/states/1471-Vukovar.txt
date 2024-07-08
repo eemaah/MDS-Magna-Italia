@@ -4,16 +4,17 @@ state={
 	name="STATE_1471"
 
 	history={
-		owner = USA
+		owner = YUG
 		add_core_of = YUG
 		add_core_of = CRO
 		add_core_of = KRJ
+		add_claim_by = SVN
 		buildings = {
 			infrastructure = 3
 
 		}
 		victory_points = {
-			14289 2 
+			14289 3
 		}
 
 	}

@@ -6,13 +6,12 @@ state={
 		524 4002 6196 11142 11159 11166 11237 20642 
 	}
 	history={
-		owner = USA
+		owner = GER
 		add_core_of = GER
 		buildings = {
 			infrastructure = 3
 		}
 		add_core_of = MKW
-		add_core_of = MEK
 		victory_points = { 11159 5 }
 	}
 	manpower=148500

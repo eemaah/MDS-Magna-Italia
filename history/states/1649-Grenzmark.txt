@@ -4,16 +4,10 @@ state={
 	name="STATE_1649"
 
 	history={
-		owner = USA
+		owner = GER
 		add_core_of = GER
 		buildings = {
 			infrastructure = 3
-			9334 = {
-				bunker = 2
-			}
-			11732 = {
-				bunker = 2
-			}
 		}
 		add_core_of = PRE
 		add_core_of = WSP

@@ -9,7 +9,7 @@ state={
 			infrastructure = 1
 
 		}
-		owner = USA
+		owner = YUG
 		add_core_of = YUG
 		add_core_of = KRT
 

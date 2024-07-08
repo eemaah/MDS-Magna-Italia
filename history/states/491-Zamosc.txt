@@ -4,7 +4,7 @@ state={
 	name="STATE_491"
 
 	history={
-		owner = USA
+		owner = POL
 		add_core_of = POL
 		victory_points = {
 			12424 5 
@@ -23,7 +23,7 @@ state={
 	}
 
 	provinces={
-		661 2486 3114 7205 7788 8502 12348 12424 12440 12518 12530 12588 
+		2486 3114 7205 7788 8502 12348 12424 12440 12518 12530 12588 
 	}
 	manpower=660200
 	buildings_max_level_factor=1.000

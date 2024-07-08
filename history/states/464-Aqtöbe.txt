@@ -2,12 +2,9 @@
 state={
 	id=464
 	name="STATE_464"
-	resources={
-		oil=6.000
-		steel=40
-	}
+
 	history={
-		owner = USA
+		owner = SOV
 		add_core_of = SOV
 		add_core_of = KAZ
 		buildings = {

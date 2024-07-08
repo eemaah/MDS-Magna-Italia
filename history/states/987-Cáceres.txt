@@ -4,12 +4,12 @@ state={
 	name="STATE_987"
 
 	history={
-		owner = USA
+		owner = SPR
 		add_core_of = EXT
 		add_core_of = SPR
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 1
+
 		}
 		victory_points = {
 			19746 5 

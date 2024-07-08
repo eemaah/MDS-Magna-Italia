@@ -118,7 +118,6 @@ set_popularities = {
 	communism = 35
 	neutrality = 10
 }
-
 create_country_leader = {
 	name = "Aleksander Majkowski"
 	desc = ""

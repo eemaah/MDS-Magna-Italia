@@ -1,7 +1,6 @@
 ﻿capital = 280
 
 set_research_slots = 3
-give_military_access = POL
 # Starting tech
 set_technology = {
 	infantry_weapons = 1
@@ -16,21 +15,13 @@ set_technology = {
 	gw_artillery = 1
 	
 #	early_fighter = 1
-#	fighter1 = 1
+	fighter1 = 1
 #	early_bomber = 1
-#	strategic_bomber1 = 1
+	strategic_bomber1 = 1
 #	naval_bomber1 = 1
 	mass_assault = 1
 	fleet_in_being = 1
 }
-
-280 = {
-	add_dynamic_modifier = { modifier = international_city }
-}
-2729 = {
-	add_dynamic_modifier = { modifier = international_city }
-}
-
 if = {
 	limit = {
 		NOT = {

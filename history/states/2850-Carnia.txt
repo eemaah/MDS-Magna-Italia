@@ -3,13 +3,12 @@ state={
 	name="STATE_2850"
 
 	history={
-		owner = USA
+		owner = ITA
 		add_core_of = ITA
 		add_core_of = FRI
 		victory_points = { 5779 1 }
 		buildings = {
 			infrastructure = 2
-			5779 = { bunker = 1 }
 		}
 	}
 	provinces={

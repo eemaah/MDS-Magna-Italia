@@ -6,11 +6,10 @@ state={
 		9529 9593 11637 11691 19388 
 	}
 	history={
-		owner = USA
+		owner = IRE
 		add_core_of = IRE
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 1
 			19388 = { naval_base = 1 }
 		}
 	

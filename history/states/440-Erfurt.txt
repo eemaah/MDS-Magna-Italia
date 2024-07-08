@@ -6,11 +6,10 @@ state={
 		5275 5719 20622 20623 20627 
 	}
 	history={
-		owner = USA
+		owner = GER
 		add_core_of = GER
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 1
 		}
 		add_core_of = PRE
 		add_core_of = SXP

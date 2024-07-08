@@ -6,10 +6,9 @@ state={
 		18692 20213 
 	}
 	history = {
-		owner = USA
+		owner = YUG
 		add_core_of = YUG
 		add_core_of = MAC
-		add_claim_by = BUL
 		buildings = {
 			infrastructure = 2
 		}

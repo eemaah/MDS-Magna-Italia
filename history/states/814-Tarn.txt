@@ -6,9 +6,10 @@ state={
 		261 5920 8138 8331 14628 19815 19831 
 	}
 	history={
-		owner = USA
+		owner = FRA
 		add_core_of = FRA
 		add_core_of = OCC
+		add_core_of = LDC
 		buildings = {
 			infrastructure = 3
 		}

@@ -5,9 +5,8 @@ state={
 		4289 
 	}
 	history={
-		owner = USA
+		owner = POL
 		add_core_of = GAL
-		add_core_of = UKR
 		add_core_of = WUK
 		add_core_of = POL
 		add_core_of = KMC

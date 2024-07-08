@@ -4,13 +4,15 @@ state={
 	name="STATE_1706"
 
 	history={
-		owner = USA
+		owner = GER
 		add_core_of = GER
 		buildings = {
 			infrastructure = 3
-			dockyard = 2
-			air_base = 5
-			7341 = { naval_base = 8 }
+			7341 = {
+				naval_base = 8
+
+			}
+
 		}
 		add_core_of = PRE
 		add_core_of = SHL

@@ -4,14 +4,13 @@ state={
 	name="STATE_736"
 
 	history={
-		owner = USA
+		owner = ROM
 		add_core_of = ROM
 		add_core_of = BNT
 		victory_points = {
 			14213 20 
 		}
 		buildings = {
-			industrial_complex = 1
 			infrastructure = 3
 		}
 

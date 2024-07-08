@@ -2,15 +2,11 @@
 state={
 	id=197
 	name="STATE_197"
-	resources={
-		aluminium=6.000
-	}
 	history = {
-		owner = USA
+		owner = DEN
 		add_core_of = DEN
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 1
 		}
 		victory_points = { 8360 2 }
 		victory_points = { 10535 2 }

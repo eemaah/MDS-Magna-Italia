@@ -6,7 +6,7 @@ state={
 		20170 20171 
 	}
 	history = {
-		owner = USA
+		owner = YUG
 		add_core_of = CRO
 		buildings = {
 			infrastructure = 3

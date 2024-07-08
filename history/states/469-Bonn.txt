@@ -3,7 +3,7 @@ state={
 	id=469
 	name="STATE_469"
 	history={
-		owner = USA
+		owner = GER
 		victory_points = {
             12434 20 #Bonn
         }

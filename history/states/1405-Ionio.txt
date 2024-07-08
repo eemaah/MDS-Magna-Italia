@@ -2,13 +2,11 @@ state={
 	id=1405
 	name="STATE_1405"
 	history = {
-		owner = USA
+		owner = ITA
 		add_core_of = ITA
 		add_core_of = PUG
 		buildings = {
 			infrastructure = 3
-			air_base = 2
-			dockyard = 2
 			15118 = { naval_base = 10 }
 		}
 		victory_points = { 15118 20 }

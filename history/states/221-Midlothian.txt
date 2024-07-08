@@ -5,11 +5,10 @@ state={
 		10553 10579 10593 
 	}
 	history={
-		owner = USA
+		owner = ENG
 		add_core_of = ENG
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 1
 			10553 = { naval_base = 4 }
 		}
 		add_core_of = SCO

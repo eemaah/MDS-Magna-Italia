@@ -3,11 +3,10 @@ state={
 	id=452
 	name="STATE_452"
 	history={
-		owner = USA
+		owner = FRA
 		add_core_of =FRA
 		buildings = {
 			infrastructure = 4
-			arms_factory = 1
 		}
     }
 	provinces={

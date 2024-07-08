@@ -6,7 +6,7 @@ state={
 		5485 7402 8972 9181 9504 12545 12713 12783 
 	}
 	history={
-		owner = USA
+		owner = POL
 		add_core_of = POL
 		add_core_of = UKR
 		add_core_of = VLH

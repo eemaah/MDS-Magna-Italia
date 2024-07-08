@@ -5,7 +5,7 @@ state={
 		19880 
 	}
 	history = {
-		owner = USA
+		owner = ITA
 		add_core_of = ITA
 		add_core_of = TUS
 		add_core_of = PIS

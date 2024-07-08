@@ -2,23 +2,20 @@
 state={
 	id=728
 	name="STATE_728"
-	resources={
-		steel=60.000
-		aluminium=35.000
-	}
+
 	history={
-		owner = USA
+		owner = FRA
 		add_core_of = FRA
 		add_core_of = LYO
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 1
+
 		}
 
 	}
 
 	provinces={
-		3627 4917 5489 14122 14162 14181 
+		3627 4917 5489 14122 14181 
 	}
 	manpower=633440
 	buildings_max_level_factor=1.000

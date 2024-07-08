@@ -6,11 +6,10 @@ state={
 		2380 5595 6671 6882 10986 11008 11012 11039 11065 11120 11148 
 	}
 	history={
-	    owner = USA
+	    owner = GER
 		add_core_of = GER
 		buildings = {
 			infrastructure = 3
-			dockyard = 2
 		}
 		add_core_of = PRE
 		add_core_of = SHL

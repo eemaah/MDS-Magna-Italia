@@ -327,10 +327,10 @@ technologies = {
 			factor = 1
 			
 			modifier = {
+			modifier = {
 				tag = SOV
 				factor = 3
 			}
-			modifier = {
 				factor = 1.1
 				date > "1937.1.1"
 			}
@@ -728,35 +728,6 @@ technologies = {
 				factor = 15.0
 				tag = GER
 				has_opinion_modifier = sov_ger_treaty
-			}
-		}
-		
-		on_research_complete = {
-			hidden_effect = {
-				if = {
-					limit = {
-						original_tag = USA
-					}
-					load_oob = "USA_medium_tank_division"
-					if = {
-						limit = {
-							is_ai = yes
-						}
-						load_oob = "USA_AI_medium_tank_division"
-					}
-				}
-				if = {
-					limit = {
-						original_tag = SOV
-					}
-					load_oob = "SOV_medium_tank_division"
-					if = {
-						limit = {
-							is_ai = yes
-						}
-						load_oob = "SOV_AI_medium_tank_division"
-					}
-				}
 			}
 		}
 		
@@ -1665,17 +1636,6 @@ technologies = {
 		folder = {
 			name = armour_folder
 			position = { x = 4 y = 8 }
-		}
-		
-		on_research_complete = {
-			hidden_effect = {
-				if = {
-					limit = {
-						original_tag = GER
-					}
-					load_oob = "GER_Tiger_Division"
-				}
-			}
 		}
 		
 		sub_technologies = {

@@ -5,7 +5,7 @@ state={
 		508 7912 9605 13049 13100 13172 20781 20782 
 	}
 	history={
-	    owner = USA
+	    owner = GER
         victory_points = {
             13100 10 #Regensburg
         }

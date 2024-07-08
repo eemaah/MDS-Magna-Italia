@@ -7,7 +7,7 @@ state={
 		victory_points = {
 			4491 5 
 		}
-		owner = USA
+		owner = SOV
 		add_core_of = SOV
 		add_core_of = AZR
 		buildings = {

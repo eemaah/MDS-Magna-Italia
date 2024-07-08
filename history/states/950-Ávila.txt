@@ -6,7 +6,7 @@ state={
 		4769 9050 15077 15100 15108 15117 20515 
 	}
 	history={
-		owner = USA
+		owner = SPR
 		add_core_of = SPR
 		add_core_of = CSV
 		buildings = {

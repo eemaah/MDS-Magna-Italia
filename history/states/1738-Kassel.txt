@@ -5,12 +5,10 @@ state={
 		9315 12152 20668 20719 
 	}
 	history={
-		owner = USA
+		owner = GER
 		add_core_of = GER
 		buildings = {
 			infrastructure = 4
-			arms_factory = 1
-			air_base = 3
 		}
 		add_core_of = PRE
 		add_core_of = HSN

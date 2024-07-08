@@ -6,13 +6,11 @@ state={
 		993 3642 5832 14741 19763 
 	}
 	history={
-		owner = USA
+		owner = SPR
 		add_core_of = SPR
 		add_core_of = CBR
-		add_core_of = CSV
 		buildings = {
 			infrastructure = 2
-			industrial_complex = 1
 			19763 = { naval_base = 1 }
 		}
         victory_points = {

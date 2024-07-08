@@ -3,12 +3,11 @@ state={
 	id=1896
 	name="STATE_1896"
 	history = {
-		owner = USA
+		owner = PAL
 		add_core_of = PAL
 		victory_points = { 21246 10 }
 		buildings = {
 			infrastructure = 3
-			air_base = 2
 		}
 	}
 	provinces={

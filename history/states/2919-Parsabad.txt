@@ -7,7 +7,7 @@ state={
 	}
 	
 	history = {
-		owner = USA
+		owner = PER
 		add_core_of = PER
 		add_core_of = AZR
 		add_core_of = TBZ

@@ -1,31 +1,8 @@
 ﻿capital = 979
 
 if = {
-	limit = {
-		NOT = {
-			has_dlc = "No Step Back"
-		}
-	}
-	set_oob = "TUR_1936"
-}
-if = {
-	limit = {
-		has_dlc = "No Step Back"
-	}
-	set_oob = "TUR_1936_nsb"
-}
-if = {
-	limit = { has_dlc = "Man the Guns" }
-		set_naval_oob = "TUR_1936_naval_mtg"
-	else = {
-		set_naval_oob = "TUR_1936_naval_legacy"
-	}
-}
-if = {
 	limit = { has_dlc = "By Blood Alone" }
-		set_air_oob = "TUR_1936_air_bba"
 	else = {
-		set_air_oob = "TUR_1936_air_legacy"
 		set_technology = {
 			early_fighter = 1
 			early_bomber = 1
@@ -34,20 +11,7 @@ if = {
 	}
 }
 
-every_owned_state = {
-	set_state_flag = TUR_INITIAL_STATE
-}
-
-###################
-#### 3D MODELS ####
-###################
-
-#Cosmetic tags used (3D models will look for these cosmetic tags when hooking themselves):
-#TUR_communism
-#TUR_democratic
-#TUR_fascism
-#TUR_neutrality
-set_cosmetic_tag = TUR_neutrality
+# Starting tech
 
 set_research_slots = 3
 
@@ -109,152 +73,10 @@ if = {
 	}
 }
 
-1936.1.1 = {
-	if = { 
-		limit = { has_dlc = "Battle for the Bosporus" }	
-		set_variable = { var = TUR_kemalist_power_variable value = 5 }
-		every_state = {
-			limit = {
-				OR = {
-					AND = {
-						is_core_of = THR
-						is_core_of = TUR
-					}
-					is_core_of = LZS
-					state = 1939
-					state = 2771
-					state = 945
-					state = 1940
-					state = 1932
-					state = 1931
-					state = 988
-					state = 2768
-					state = 991
-					state = 2769
-					state = 1935
-					state = 1032
-					state = 1937
-					state = 1050
-					state = 1941
-					state = 1081
-					state = 1936
-					state = 2878
-					state = 1084
-					state = 1942
-					state = 1094
-					state = 2879
-					state = 958
-				}
-			}
-			add_dynamic_modifier = { modifier = kemalist_loyalties }
-		}
-		every_state = {
-			limit = {
-				OR = {
-					state = 909
-					state = 1943
-					state = 1093
-					state = 1954
-					state = 1098
-					state = 1066
-					state = 1095
-					state = 1955
-					state = 1956
-					state = 1060
-					state = 1049
-					state = 1065
-					state = 963
-					state = 970
-					state = 1003
-					state = 942
-				}
-			}
-			add_dynamic_modifier = { modifier = islamist_opposition }
-		}
-		every_state = {
-			limit = {
-				OR = {
-					AND = {
-						is_core_of = PON
-						NOT = {
-							state = 970
-							state = 963
-							state = 958
-						}
-					}
-					state = 1011
-					state = 2257
-					state = 1036
-					state = 1048
-				}
-			}
-			add_dynamic_modifier = { modifier = islamist_sedition }
-		}		
-		add_ideas = {
-			limited_conscription
-			export_focus
-			civilian_economy
-			TUR_kemalist_army_officers_limited_power_loyal
-			TUR_sectarian_woes
-			TUR_disorganised_armed_forces
-			TUR_debt_council
-		}
-		every_state = {
-			limit = {
-				is_core_of = KUR
-				is_owned_by = TUR
-			}
-			start_resistance = yes
-			set_compliance = 10
-			set_resistance = 15
-			set_garrison_strength = 0.75
-			add_dynamic_modifier = { modifier = kurdish_agitation }
-		}
-		set_variable = { var = TUR_kemalist_officers_loyalty value = 1 }
-		every_owned_state = {
-			limit = {
-				NOT = {
-					OR = {
-						has_dynamic_modifier = { modifier = islamist_opposition }
-						has_dynamic_modifier = { modifier = islamist_sedition }
-						has_dynamic_modifier = { modifier = kemalist_loyalties }
-						has_dynamic_modifier = { modifier = kurdish_agitation }
-						has_dynamic_modifier = { modifier = kurdish_separatism }
-					}
-				}
-			}
-			set_state_flag = TUR_ideological_battleground_state
-		}
-	
-		add_opinion_modifier = { 
-			target = GRE
-			modifier = BFTB_balkan_pact_ally
-		}
-		add_opinion_modifier = { 
-			target = ROM
-			modifier = BFTB_balkan_pact_ally
-		}
-		add_opinion_modifier = { 
-			target = YUG
-			modifier = BFTB_balkan_pact_ally
-		}
-		add_opinion_modifier = { 
-			target = BUL
-			modifier = BFTB_balkan_pact_enemy
-		}
-		add_opinion_modifier = { 
-			target = HUN
-			modifier = BFTB_balkan_pact_enemy
-		}	}
-
-	if = { 
-		limit = { NOT = { has_dlc = "Battle for the Bosporus" }	}
-		add_ideas = {
-			limited_conscription
-			export_focus
-			civilian_economy
-		}
-	}
+add_ideas = {
+	limited_conscription
+	export_focus
+	civilian_economy
 }
 
 set_politics = {

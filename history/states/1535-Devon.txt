@@ -4,14 +4,16 @@ state={
 	name="STATE_1535"
 
 	history={
-		owner = USA
+		owner = ENG
 		add_core_of = ENG
 		add_core_of = WSX
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 1
-			19409 = { naval_base = 2 }
-			radar_station = 1
+			19409 = {
+				naval_base = 2
+
+			}
+
 		}
 		victory_points = {
 			19409 10 

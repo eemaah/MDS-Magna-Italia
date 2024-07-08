@@ -6,12 +6,11 @@ state={
 		532 1699 4324 5175 5573 6242 6334 6378 6827 6930 6970 7782 8966 9584 11680 11696 12000 12001 12051 12067 12121 12148 18111 
 	}
 	history={
-		owner = USA
+		owner = SOV
 		add_core_of = SOV
 		add_core_of = RUS
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 1
 		}
 		victory_points = {
 			12051 40

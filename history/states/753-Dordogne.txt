@@ -3,9 +3,9 @@ state={
 	id=753
 	name="STATE_753"
 	history={
-		owner = USA
+		owner = FRA
 		add_core_of = FRA
-		add_core_of = AQT
+		add_core_of = GYE
 		add_core_of = OCC
         victory_points = {
             783 2 #Bergerac

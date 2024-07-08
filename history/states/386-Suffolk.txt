@@ -2,7 +2,7 @@ state={
 	id=386
 	name="STATE_386"
 	history={
-		owner = USA
+		owner = ENG
 		add_core_of = ENG
 		add_core_of = EAG
 		victory_points = {
@@ -13,7 +13,6 @@ state={
 		}
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 2
 			6529 = { naval_base = 3 }
 		}
 	}

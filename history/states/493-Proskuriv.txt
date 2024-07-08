@@ -5,13 +5,12 @@ state={
 	history={
 		victory_points = { 478 20 }
 		victory_points = { 5657 2 }
-		owner = USA
+		owner = SOV
 		add_core_of = SOV
 		add_core_of = UKR
 		add_core_of = PLD
 		buildings = {
 			infrastructure = 3
-			air_base = 8
 		}
 	}
 	provinces={

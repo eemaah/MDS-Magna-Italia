@@ -3,14 +3,12 @@ state={
 	id=1387
 	name="STATE_1387"
 	history = {
-		owner = USA
+		owner = ITA
 		add_core_of = ITA
 		add_core_of = TUS
 		add_core_of = PIS
 		buildings = {
 			infrastructure = 4
-			air_base = 2
-			arms_factory = 1
 		}
 		victory_points = { 6926 10 }
 	}

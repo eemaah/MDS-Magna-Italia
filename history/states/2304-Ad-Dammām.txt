@@ -2,9 +2,8 @@
 state={
 	id=2304
 	name="STATE_2304"
-	resources = { oil = 4 }
 	history = {
-		owner = USA
+		owner = SAU
 		add_core_of = SAU
 		add_core_of = NJD
 		buildings = {

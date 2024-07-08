@@ -4,18 +4,18 @@ state={
 	name="STATE_762"
 
 	history={
-		owner = USA
+		owner = ITA
 		add_core_of = ITA
 		add_core_of = CRO
 		add_core_of = JUL
 		add_core_of = IST
 		buildings = {
 			infrastructure = 3
-			dockyard = 1
 			5331 = {
 				naval_base = 3
 
 			}
+
 		}
 		victory_points = {
 			5331 5 

@@ -4,14 +4,12 @@ state={
 	name="STATE_937"
 
 	history={
-		owner = USA
+		owner = GRE
 		add_core_of = GRE
 		add_core_of = THR
 		add_core_of = WTH
-		add_claim_by = BUL
 		buildings = {
 			infrastructure = 1
-			arms_factory = 1
 		}
 		victory_points = {
 			20337 2 #Komotiní

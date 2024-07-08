@@ -4,15 +4,13 @@ state={
 	name="STATE_1995"
 
 	history={
-		owner = USA
+		owner = YUG
 		add_core_of = SER
 		buildings = {
 			infrastructure = 2
-			industrial_complex = 1
 
 		}
 		add_core_of = YUG
-		add_core_of = UZC
 		victory_points = {
 			14632 10 
 		}

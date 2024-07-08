@@ -6,12 +6,11 @@ state={
 		8964 14804 14827 14832 14838 19762 
 	}
 	history={
-		owner = USA
+		owner = FRA
 		add_core_of =FRA
 		buildings = {
 			infrastructure = 2
 			19762 = { naval_base = 2 }
-			arms_factory = 1
 		}
 		add_core_of = CAT
         victory_points = {

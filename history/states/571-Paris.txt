@@ -6,12 +6,10 @@ state={
 		19865 
 	}
 	history={
-		owner = USA
+		owner = FRA
 		add_core_of = FRA
 		buildings = {
 			infrastructure = 4
-			air_base = 5
-			industrial_complex = 2
 		}
         victory_points = {
             19865 80 #Paris

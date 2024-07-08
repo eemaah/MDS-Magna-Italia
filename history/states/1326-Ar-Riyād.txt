@@ -4,12 +4,11 @@ state={
 	name="STATE_1326"
 
 	history={
-		owner = USA
+		owner = SAU
 		add_core_of = SAU
 		add_core_of = NJD
 		buildings = {
 			infrastructure = 1
-			industrial_complex = 1
 		}
 		victory_points = {
 			2668 2 

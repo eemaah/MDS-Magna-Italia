@@ -6,7 +6,7 @@ state={
 	}
 	history={
 		victory_points = { 20390 5 }
-		owner = USA
+		owner = SOV
 		add_core_of = SOV
 		add_core_of = TSN
 		add_core_of = UKR
@@ -14,6 +14,7 @@ state={
 		buildings = {
 			infrastructure = 3
 		}
+		add_core_of = MOL
 	}
 	manpower=77280
 	state_category=pastoral

@@ -4,12 +4,12 @@ state={
 	name="STATE_206"
 
 	history={
-		owner = USA
+		owner = LIT
 		add_core_of = LIT
 		add_core_of = SMG
 		buildings = {
 			infrastructure = 3
-			air_base = 2
+
 		}
 		victory_points = {
 			9185 10 

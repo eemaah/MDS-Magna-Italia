@@ -1,39 +1,13 @@
 ﻿capital = 2003
 
-oob = "GRE_1936"
-if = {
-	limit = { has_dlc = "Man the Guns" }
-		set_naval_oob = "GRE_1936_naval_mtg"
-	else = {
-		set_naval_oob = "GRE_1936_naval_legacy"
-	}
-}
 if = {
 	limit = { has_dlc = "By Blood Alone" }
-		set_air_oob = "GRE_1936_air_bba"
-	else = {
-		set_air_oob = "GRE_1936_air_legacy"
 		set_technology = {
 			early_fighter = 1
 			early_bomber = 1
 		}
 	}
 }
-
-every_owned_state = {
-	set_state_flag = GRE_INITIAL_STATE
-}
-
-###################
-#### 3D MODELS ####
-###################
-
-#Cosmetic tags used (3D models will look for these cosmetic tags when hooking themselves):
-#GRE_communism
-#GRE_democratic
-#GRE_fascism
-#GRE_neutrality
-set_cosmetic_tag = GRE_neutrality
 
 set_research_slots = 3
 
@@ -78,81 +52,6 @@ if = {
 		mtg_transport = 1
 	}
 }
-add_opinion_modifier = { 
-	target = ITA
-	modifier = italo_greek_friendship_treaty
-}
-reverse_add_opinion_modifier = { 
-	target = ITA
-	modifier = italo_greek_friendship_treaty
-}
-1936.1.1 = {
-	if = {
-		limit = { has_dlc = "Battle for the Bosporus" }
-		give_guarantee = TUR
-		give_guarantee = ROM
-		give_guarantee = YUG
-		add_opinion_modifier = { 
-			target = ROM
-			modifier = BFTB_balkan_pact_ally
-		}
-		add_opinion_modifier = { 
-			target = TUR
-			modifier = BFTB_balkan_pact_ally
-		}
-		add_opinion_modifier = { 
-			target = YUG
-			modifier = BFTB_balkan_pact_ally
-		}
-		add_opinion_modifier = { 
-			target = BUL
-			modifier = BFTB_balkan_pact_enemy
-		}
-		#add_opinion_modifier = { 
-		#	target = HUN
-		#	modifier = BFTB_balkan_pact_enemy
-		#}
-		set_country_flag = GRE_factions_unlocked
-		add_ideas = {
-			export_focus
-			limited_conscription
-			civilian_economy
-			GRE_george_ii
-			GRE_debt_to_the_ifc
-			GRE_foreign_monopolies
-			GRE_schachtplan
-			GRE_political_instability
-			GRE_agrarian_society
-		}
-
-		set_variable = { var = GRE_debt_to_the_ifc_britain_var value = 10 }
-		set_variable = { var = GRE_debt_to_the_ifc_france_var value = 10 }
-		set_variable = { var = GRE_debt_to_the_ifc_italy_var value = 10 }
-		set_variable = { var = GRE_debt_to_the_ifc_paid_var value = 0 }
-
-		add_opinion_modifier = { 
-			target = GER
-			modifier = GRE_strong_trading_ties
-		}
-		GER = { 
-			add_opinion_modifier = { 
-				target = GRE
-				modifier = GRE_strong_trading_ties
-			}
-		}
-	}
-
-	if = {
-		limit = { NOT = { has_dlc = "Battle for the Bosporus" } }
-		add_ideas = {
-			export_focus
-			limited_conscription
-			civilian_economy
-		}
-	}
-}
-
-set_convoys = 10
 
 set_politics = {
 	ruling_party = neutrality
@@ -170,7 +69,6 @@ set_popularities = {
 set_stability = 0.72
 set_war_support = 0.23
 set_convoys = 80
-
 
 if = { 
 	limit = { has_dlc = "Battle for the Bosporus" }

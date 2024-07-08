@@ -5,11 +5,10 @@ state={
 		6097 6302 15353 20251 20263 
 	}
 	history={
-		owner = USA
+		owner = GRE
 		add_core_of = GRE
 		buildings = {
 			infrastructure = 2
-			arms_factory = 1
 			20251 = { naval_base = 2 }
 		}
 	

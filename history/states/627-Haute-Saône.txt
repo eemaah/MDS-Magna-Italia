@@ -2,13 +2,11 @@
 state={
 	id=627
 	name="STATE_627"
-	resources={
-		steel=28.000
-	}
 	history={
-		owner = USA
+		owner = FRA
 		add_core_of = FRA
 		add_core_of = BGN
+		add_core_of = FRC
 		buildings = {
 			infrastructure = 4
 		}

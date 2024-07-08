@@ -6,11 +6,10 @@ state={
 		4322 
 	}
 	history={
-		owner = USA
+		owner = GER
 		add_core_of = GER
 		buildings = {
 			infrastructure = 3
-			dockyard = 1
 			4322 = { naval_base = 2 }
 		}
 		add_core_of = LBK

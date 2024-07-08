@@ -6,13 +6,12 @@ state={
 		3512 3840 4489 5688 8827 9234 14909 14914 14940 14950 16467 19141 
 	}
 	history = {
-		owner = USA
+		owner = SOV
 		add_core_of = SOV
 		add_core_of = TMS
 		add_core_of = KHI
 		buildings = {
 			infrastructure = 1
-			industrial_complex = 1
 		}
 	}
 	manpower=311142

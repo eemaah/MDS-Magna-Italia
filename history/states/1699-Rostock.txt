@@ -5,16 +5,13 @@ state={
 		581 1185 5035 7036 11009 11013 11066 20644 
 	}
 	history={
-		owner = USA
+		owner = GER
 		add_core_of = GER
 		buildings = {
 			infrastructure = 3
-			arms_factory = 1
-			air_base = 3
 			5035 = { naval_base = 6 }
 		}
 		add_core_of = MKW
-		add_core_of = MEK
         victory_points = {
             5035 10 #Rostock
         }

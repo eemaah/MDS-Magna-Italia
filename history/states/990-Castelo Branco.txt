@@ -1,13 +1,11 @@
 state={
 	id=990
 	name="STATE_990"
-	resources = { tungsten = 150 }
 	history={
-		owner = USA
+		owner = POR
 		add_core_of = POR
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 1
 		}
         victory_points = {
             2224 2 #Castelo Branco

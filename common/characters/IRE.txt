@@ -25,11 +25,11 @@ characters={
 			id=-1
 		}
 	}
-	IRE_sean_murray={
-		name="Sean Murray"
+	IRE_james_larkin={
+		name="James Larkin"
 		portraits={
 			civilian={
-				large=GFX_portrait_Sean_Murray
+				large=GFX_portrait_James_Larkin
 			}
 		}
 		country_leader={
@@ -38,11 +38,11 @@ characters={
 			id=-1
 		}
 	}
-	IRE_william_thomas_cosgrave={
-		name="William Thomas Cosgrave"
+	IRE_william_norton={
+		name="William Norton"
 		portraits={
 			civilian={
-				large=GFX_portrait_William_Thomas_Cosgrave
+				large=GFX_portrait_William_Norton
 			}
 		}
 		country_leader={

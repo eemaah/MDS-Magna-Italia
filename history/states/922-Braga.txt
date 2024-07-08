@@ -6,10 +6,9 @@ state={
 		1270 14924 14946 14953 
 	}
 	history={
-		owner = USA
+		owner = POR
 		add_core_of = POR
 		buildings = {
-			industrial_complex = 1
 			infrastructure = 3
 		}
         victory_points = {

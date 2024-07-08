@@ -6,7 +6,7 @@ state={
 		3647 7340 12582 12621 20733 20739 
 	}
 	history={
-		owner = USA
+		owner = GER
         victory_points = {
             20739 10 #Koblenz
         }
@@ -16,7 +16,6 @@ state={
 		add_core_of = GER
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 1
 		}
 		add_core_of = PRE
 		add_core_of = RHN

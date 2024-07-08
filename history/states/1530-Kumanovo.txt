@@ -5,9 +5,8 @@ state={
 		7358 7748 14879 
 	}
 	history = {
-		owner = USA
+		owner = YUG
 		add_core_of = MAC
-		add_claim_by = BUL
 		buildings = {
 			infrastructure = 1
 		}

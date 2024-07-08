@@ -4,13 +4,12 @@ state={
 	name="STATE_767"
 
 	history={
-		owner = USA
+		owner = ROM
 		add_core_of = ROM
 		add_core_of = DOB
 		add_core_of = WLC
 		buildings = {
 			infrastructure = 3
-			dockyard = 1
 			7492 = { naval_base = 1 }
 		}
 		victory_points = {
