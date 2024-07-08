@@ -6,7 +6,7 @@ state={
 		2015 2606 4016 14634 
 	}
 	history={
-		owner = FRA
+		owner = USA
 		add_core_of = FRA
 		add_core_of = OCC
 		buildings = {

@@ -6,7 +6,7 @@ state={
 	}
 	resources = { aluminium = 4 }
 	history={
-		owner = BUL
+		owner = USA
 		add_core_of = BUL
 		buildings = {
 			infrastructure = 3

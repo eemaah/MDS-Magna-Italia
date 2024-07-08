@@ -5,7 +5,7 @@ state={
 		
 				
 	history = {
-		owner = MOR
+		owner = usa
 		add_core_of = MOR
 		buildings = {
 			infrastructure = 1

@@ -5,7 +5,7 @@ state={
 		6838 8539 11951 19872 19895 
 	}
 	history={
-		owner = HOL
+		owner = USA
 		add_core_of = HOL
 		buildings = {
 			infrastructure = 4

@@ -4,7 +4,7 @@ state={
 	name="STATE_1609"
 
 	history={
-		owner = GER
+		owner = USA
 		add_core_of = GER
 		victory_points = {
 			11210 2 #Deutsch Eylau

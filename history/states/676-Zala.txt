@@ -7,7 +7,7 @@ state={
 	}
 	resources = { oil = 2 }
 	history = {
-		owner = HUN
+		owner = USA
 		add_core_of = HUN
 		buildings = {
 			infrastructure = 4

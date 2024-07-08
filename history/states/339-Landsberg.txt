@@ -6,7 +6,7 @@ state={
 		3839 7438 11448 11513 11580 11581 20550 20551 20587 20597 
 	}
 	history={
-	    owner = GER
+	    owner = USA
         victory_points = {
             20551 10 #Landsberg an der Warthe
         }

@@ -5,7 +5,7 @@ state={
 		8364 13004 13055 13071 
 	}
 	history={
-		owner = CZE
+		owner = USA
 		add_core_of = CZE
 		add_core_of = SLO
 		buildings = {

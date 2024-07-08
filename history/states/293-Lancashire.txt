@@ -7,7 +7,7 @@ state={
 	}
 	resources = { steel = 67 }
 	history={
-		owner = ENG
+		owner = USA
 		add_core_of = ENG
 		add_core_of = NRT
 		add_core_of = LCS

@@ -4,7 +4,7 @@ state={
 	name="STATE_2318"
 
 	history={
-		owner = POL
+		owner = USA
 		add_core_of = GAL
 		add_core_of = POL
 		buildings = {

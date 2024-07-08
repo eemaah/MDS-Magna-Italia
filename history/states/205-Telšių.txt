@@ -9,7 +9,7 @@ state={
 		steel=4.000
 	}
 	history={
-		owner = LIT
+		owner = USA
 		add_core_of = LIT
 		add_core_of = SMG
 		buildings = {

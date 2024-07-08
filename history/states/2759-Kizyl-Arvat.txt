@@ -6,7 +6,7 @@ state={
 		164 203 2385 3988 5073 5519 8600 15334 15377 16986 17052 17215 18021 
 	}
 	history = {
-		owner = SOV
+		owner = USA
 		add_core_of = SOV
 		add_core_of = TMS
 		buildings = {

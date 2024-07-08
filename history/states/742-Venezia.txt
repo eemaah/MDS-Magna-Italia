@@ -6,7 +6,7 @@ state={
 		steel = 5
 	}
 	history = {
-		owner = ITA
+		owner = USA
 		add_core_of = ITA
 		add_core_of = VNT
 		buildings = {

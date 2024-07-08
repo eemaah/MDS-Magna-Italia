@@ -7,7 +7,7 @@ state={
 	}
 	resources = { chromium = 24 }
 	history={
-		owner = GRE
+		owner = USA
 		add_core_of = GRE
 		buildings = {
 			industrial_complex = 1

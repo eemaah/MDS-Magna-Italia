@@ -4,7 +4,7 @@ state={
 	name="STATE_764"
 	resources = { oil = 84 }
 	history = {
-		owner = ROM
+		owner = USA
 		add_core_of = ROM
 		add_core_of = WLC
 		add_core_of = MUN

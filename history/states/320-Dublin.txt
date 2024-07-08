@@ -7,7 +7,7 @@ state={
 	}
 	resources = { steel = 4 }
 	history={
-		owner = IRE
+		owner = USA
 		add_core_of = IRE
 		buildings = {
 			infrastructure = 4

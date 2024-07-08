@@ -6,7 +6,7 @@ state={
 		8267 15525 21353 21354 
 	}
 	history={
-		owner = TUR
+		owner = USA
 		add_core_of = TUR
 		buildings = {
 			infrastructure = 2

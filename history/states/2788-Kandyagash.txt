@@ -3,7 +3,7 @@ state={
 	name="STATE_2788"
 	
 	history={
-		owner = SOV
+		owner = USA
 		add_core_of = SOV
 		add_core_of = KAZ
 		buildings = {

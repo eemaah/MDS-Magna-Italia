@@ -9,7 +9,7 @@ state={
 		rubber = 68
 	}
 	history={
-		owner = BEL
+		owner = USA
 		buildings = {
 			infrastructure = 1
 			5603 = {

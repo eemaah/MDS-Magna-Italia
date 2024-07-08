@@ -6,7 +6,7 @@ state={
 		1813 1832 1984 2476 5071 13779 20811 20814 
 	}
 	history={
-		owner = AUS
+		owner = USA
 		add_core_of = AUS
 		buildings = {
 			infrastructure = 3

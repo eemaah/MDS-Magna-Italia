@@ -6,7 +6,7 @@ state={
 		rubber=10
 	}
 	history = {
-		owner = MRT
+		owner = USA
 		add_core_of = MRT
 	}
 

@@ -7,7 +7,7 @@ state={
 		aluminium=8.000
 	}
 	history={
-		owner = FRA
+		owner = USA
 		add_core_of = FRA
 		add_core_of = ATI
 		buildings = {

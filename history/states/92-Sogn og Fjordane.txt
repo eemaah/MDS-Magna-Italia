@@ -7,7 +7,7 @@ state={
 		chromium=1.000
 	}
 	history = {
-		owner = NOR
+		owner = USA
 		add_core_of = NOR
 		buildings = {
 			infrastructure = 2

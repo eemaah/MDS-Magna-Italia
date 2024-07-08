@@ -6,7 +6,7 @@ state={
 		2753 3596 8627 9400 14686 14719 14735 14743 14762 20363 
 	}
 	history={
-		owner = BUL
+		owner = USA
 		add_core_of = BUL
 		buildings = {
 			infrastructure = 2

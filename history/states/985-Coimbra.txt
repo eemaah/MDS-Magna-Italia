@@ -7,7 +7,7 @@ state={
 	}
 	resources = { tungsten = 50.000 }
 	history={
-		owner = POR
+		owner = USA
 		add_core_of = POR
 		buildings = {
 			infrastructure = 3

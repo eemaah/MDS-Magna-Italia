@@ -7,7 +7,7 @@ state={
 		chromium=2.000
 	}
 	history={
-		owner = FIN
+		owner = USA
 		add_core_of = FIN
 		add_core_of = SAP
 		buildings = {

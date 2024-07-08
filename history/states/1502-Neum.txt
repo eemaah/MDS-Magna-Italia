@@ -5,7 +5,7 @@ state={
 		20187 
 	}
 	history = {
-		owner = YUG
+		owner = USA
 		add_core_of = YUG
 		add_core_of = HRZ
 		add_core_of = BOS

@@ -6,7 +6,7 @@ state={
 		19397 
 	}
 	history={
-		owner = ISM
+		owner = USA
 		add_core_of = ISM
 		buildings = {
 			infrastructure = 4

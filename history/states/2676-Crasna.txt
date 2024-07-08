@@ -5,7 +5,7 @@ state={
 		13771 13831 
 	}
 	history={
-		owner = ROM
+		owner = USA
 		add_core_of = ROM
 		add_core_of = TRA
 		add_core_of = CRS

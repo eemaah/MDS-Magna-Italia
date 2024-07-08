@@ -7,7 +7,7 @@ state={
 	}
 	resources = { steel = 19 }
 	history={
-		owner = ENG
+		owner = USA
 		add_core_of = ENG
 		add_core_of = MER
 		buildings = {

@@ -5,7 +5,7 @@ state={
 		494 1219 1416 4293 8500 13494 13561 13663 13677 13693 13712 13723 13731 
 	}
 	history={
-		owner = FRA
+		owner = USA
 		add_core_of = FRA
 		add_core_of = ORL
 		buildings = {

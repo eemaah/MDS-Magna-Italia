@@ -4,7 +4,7 @@ state={
 	name="STATE_1806"
 	resources = { oil = 2 }
 	history={
-		owner = AUS
+		owner = USA
 		add_core_of = AUS
 		buildings = {
 			infrastructure = 2

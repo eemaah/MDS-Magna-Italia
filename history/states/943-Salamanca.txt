@@ -7,7 +7,7 @@ state={
 	}
 	resources = { tungsten = 10.000 }
 	history={
-		owner = SPR
+		owner = USA
 		add_core_of = LEO
 		add_core_of = SPR
 		buildings = {

@@ -3,7 +3,7 @@ state={
 	id=572
 	name="STATE_572"
 	history={
-		owner = FRA
+		owner = USA
 		add_core_of = FRA
         victory_points = {
             13294 2 #Alençon

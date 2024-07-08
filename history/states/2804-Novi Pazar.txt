@@ -6,7 +6,7 @@ state={
 		14731 17514 
 	}
 	history={
-		owner = YUG
+		owner = USA
 		add_core_of = SER
 		add_core_of = SDZ
 		buildings = {

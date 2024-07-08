@@ -6,7 +6,7 @@ state={
 		aluminium=10.000
 	}
 	history={
-		owner = SWI
+		owner = USA
 		add_core_of = SWI
 		add_core_of = GRS
 		buildings = {

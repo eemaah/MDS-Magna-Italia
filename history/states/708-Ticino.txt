@@ -5,7 +5,7 @@ state={
 		aluminium=5.000
 	}
 	history={
-		owner = SWI
+		owner = USA
 		add_core_of = SWI
 		add_core_of = TIC
 		add_core_of = LOM

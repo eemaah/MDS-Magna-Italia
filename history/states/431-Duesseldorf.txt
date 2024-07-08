@@ -9,7 +9,7 @@ state={
 		steel=12
 	}
 	history={
-		owner = GER
+		owner = USA
         victory_points = {
             20737 40 #Düsseldorf
         }

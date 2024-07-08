@@ -9,7 +9,7 @@ state={
 		2498 3935 6429 6865 7646 7739 8352 8744 12900 12937 12952 12976 13002 13027 
 	}
 	history={
-		owner = FRA
+		owner = USA
 		add_core_of = FRA
 		add_core_of = PIC
 		buildings = {

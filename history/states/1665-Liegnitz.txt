@@ -5,7 +5,7 @@ state={
 		6475 8274 8620 12228 12269 12339 
 	}
 	history={
-	    owner = GER
+	    owner = USA
         victory_points = {
             8274 10 #Liegnitz
         }

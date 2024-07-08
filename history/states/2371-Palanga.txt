@@ -5,7 +5,7 @@ state={
 		5384 
 	}
 	history={
-		owner = LIT
+		owner = USA
 		add_core_of = LIT
 		add_core_of = SMG
 		buildings = {

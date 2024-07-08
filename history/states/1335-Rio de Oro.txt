@@ -3,7 +3,7 @@ state={
 	name="STATE_1335"
 
 	history={
-		owner = SPR
+		owner = USA
 		add_core_of = MOR
 		add_core_of = WES
 

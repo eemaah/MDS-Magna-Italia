@@ -5,7 +5,7 @@ state={
 
 	resources = { aluminium = 27 }
 	history={
-		owner = YUG
+		owner = USA
 		add_core_of = YUG
 		add_core_of = MAC
 		add_claim_by = BUL

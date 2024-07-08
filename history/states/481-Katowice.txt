@@ -7,7 +7,7 @@ state={
 	}
 	resources = { steel = 19 aluminium = 7 }
 	history={
-		owner = POL
+		owner = USA
 		add_core_of = POL
 		buildings = {
 			infrastructure = 4

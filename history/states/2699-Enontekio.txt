@@ -5,7 +5,7 @@ state={
 		42 1715 9684 19676 19677 
 	}
 	history={
-		owner = FIN
+		owner = USA
 		add_core_of = FIN
 		buildings = {
 			infrastructure = 2

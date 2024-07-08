@@ -5,7 +5,7 @@ state={
 		673 2526 5178 6195 6727 8134 8561 13617 13670 13692 13700 13722 13748 13762 13834 
 	}
 	history={
-		owner = FRA
+		owner = USA
 		add_core_of =FRA
 		add_core_of = ANJ
 		buildings = {

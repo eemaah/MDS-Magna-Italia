@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = ROM
+		owner = USA
 		add_core_of = ROM
 		add_core_of = BNT
 		buildings = {

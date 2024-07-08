@@ -5,7 +5,7 @@ state={
 		65 5137 
 	}
 	history={
-		owner = FRA
+		owner = USA
 		add_core_of = FRA
 		add_core_of = PIC
 		buildings = {

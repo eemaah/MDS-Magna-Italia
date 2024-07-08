@@ -5,7 +5,7 @@ state={
 		18656 
 	}
 	history={
-		owner = SPR
+		owner = USA
 		add_core_of = EXT
 		add_core_of = SPR
 		add_core_of = POR

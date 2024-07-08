@@ -9,7 +9,7 @@ state={
 		steel=8
 	}
 	history={
-	    owner = GER
+	    owner = USA
         victory_points = {
             12836 10 #Trier
         }

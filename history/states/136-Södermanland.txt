@@ -7,7 +7,7 @@ state={
 		aluminium=2.000
 	}
 	history={
-		owner = SWE
+		owner = USA
 		add_core_of = SWE
 		buildings = {
 			infrastructure = 3

@@ -6,7 +6,7 @@ state={
 		3068 3111 6051 8228 14885 14947 19789 19790 19791 
 	}
 	history={
-		owner = SPR
+		owner = USA
 		add_core_of = LEO
 		add_core_of = SPR
 		buildings = {

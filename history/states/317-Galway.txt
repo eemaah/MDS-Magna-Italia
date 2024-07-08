@@ -6,7 +6,7 @@ state={
 		2105 4282 6457 8649 11222 11263 11297 11337 19314 19387 
 	}
 	history={
-		owner = IRE
+		owner = USA
 		add_core_of = IRE
 		buildings = {
 			infrastructure = 3

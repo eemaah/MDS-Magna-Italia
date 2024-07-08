@@ -6,7 +6,7 @@ state={
 		3541 7846 8131 19906 19933 20472 
 	}
 	history={
-	    owner = GER
+	    owner = USA
         victory_points = {
             19906 20 #Königsberg
         }

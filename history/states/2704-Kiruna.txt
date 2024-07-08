@@ -8,7 +8,7 @@ state={
 		chromium=25.000
 	}
 	history={
-		owner = SWE
+		owner = USA
 		add_core_of = SWE
 		buildings = {
 			infrastructure = 2

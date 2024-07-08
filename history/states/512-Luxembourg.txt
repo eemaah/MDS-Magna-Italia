@@ -9,7 +9,7 @@ state={
 		steel=8.000
 	}
 	history={
-		owner = LUX
+		owner = USA
 		add_core_of = LUX
 		buildings = {
 			infrastructure = 3

@@ -9,7 +9,7 @@ state={
 		1780 2308 3366 4474 6065 7052 8072 9337 13993 13999 14038 19836 19837 
 	}
 	history={
-		owner = FRA
+		owner = USA
 		add_core_of =FRA
 		add_core_of = POI
 		buildings = {

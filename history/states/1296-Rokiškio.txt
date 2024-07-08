@@ -6,7 +6,7 @@ state={
 		7260 10547 10562 10602 
 	}
 	history={
-		owner = LIT
+		owner = USA
 		add_core_of = LIT
 		add_core_of = AKS
 		buildings = {

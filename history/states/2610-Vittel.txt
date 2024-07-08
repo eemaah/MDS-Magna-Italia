@@ -5,7 +5,7 @@ state={
 		766 3547 13446 
 	}
 	history={
-		owner = FRA
+		owner = USA
 		add_core_of =FRA
 		add_core_of =LOR
 		buildings = {

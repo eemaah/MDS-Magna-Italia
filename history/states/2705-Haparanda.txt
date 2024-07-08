@@ -5,7 +5,7 @@ state={
 		426 559 855 3996 19580 19581 
 	}
 	history={
-		owner = SWE
+		owner = USA
 		add_core_of = SWE
 		add_core_of = SAP
 		buildings = {

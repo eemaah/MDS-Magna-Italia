@@ -6,7 +6,7 @@ state={
 		6575 7208 9490 12278 12288 20601 
 	}
 	history={
-	    owner = GER
+	    owner = USA
         victory_points = {
             9490 40 #Breslau
         }

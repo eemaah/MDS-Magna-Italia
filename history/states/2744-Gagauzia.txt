@@ -5,7 +5,7 @@ state={
 		707 3488 13959 14119 14175 
 	}
 	history={
-		owner = ROM
+		owner = USA
 		add_core_of = ROM
 		add_core_of = MOL
 		add_core_of = GAG

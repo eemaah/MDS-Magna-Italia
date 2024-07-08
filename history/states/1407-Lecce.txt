@@ -6,7 +6,7 @@ state={
 		aluminium = 6
 	}
 	history = {
-		owner = ITA
+		owner = USA
 		add_core_of = ITA
 		add_core_of = PUG
 		buildings = {

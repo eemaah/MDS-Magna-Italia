@@ -8,7 +8,7 @@ state={
 		aluminium=14
 	}
 	history={
-	    owner = GER
+	    owner = USA
         victory_points = {
             9258 80 #München
         }

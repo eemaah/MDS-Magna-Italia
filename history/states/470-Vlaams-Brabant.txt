@@ -6,7 +6,7 @@ state={
 		2052 5139 12312 12362 12399 12448 
 	}
 	history={
-		owner = BEL
+		owner = USA
 		add_core_of = BEL
 		buildings = {
 			infrastructure = 4

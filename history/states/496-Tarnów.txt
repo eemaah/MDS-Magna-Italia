@@ -6,7 +6,7 @@ state={
 		64 1734 2389 3167 8831 12658 12677 12706 12744 19910 
 	}
 	history={
-		owner = POL
+		owner = USA
 		add_core_of = GAL
 		add_core_of = POL
 		add_core_of = MLP

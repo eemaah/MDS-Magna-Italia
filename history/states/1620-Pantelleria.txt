@@ -5,7 +5,7 @@ state={
 		oil = 1
 	}
 	history={
-		owner = ITA
+		owner = USA
 		add_core_of = ITA
 		add_core_of = SIC
 		buildings = {

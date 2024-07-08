@@ -6,7 +6,7 @@ state={
 		497 3177 
 	}
 	history={
-		owner = FRA
+		owner = USA
 		add_core_of = FRA
 		add_core_of = CMP
 		buildings = {

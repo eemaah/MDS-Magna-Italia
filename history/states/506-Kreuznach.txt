@@ -6,7 +6,7 @@ state={
 		steel=5
 	}
 	history={
-		owner = GER
+		owner = USA
 		add_core_of = GER
 		buildings = {
 			infrastructure = 4

@@ -4,7 +4,7 @@ state={
 	name="STATE_967"
 	resources = { chromium = 32 }
 	history = {
-		owner = TUR
+		owner = USA
 		add_core_of = TUR
 		buildings = {
 			infrastructure = 2

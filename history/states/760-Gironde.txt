@@ -10,7 +10,7 @@ state={
 		149 1777 2751 3923 4167 6829 8848 9180 9210 14430 14431 14435 14485 
 	}
 	history={
-		owner = FRA
+		owner = USA
 		add_core_of = FRA
 		add_core_of = AQT
 		add_core_of = OCC

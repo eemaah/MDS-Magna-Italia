@@ -5,7 +5,7 @@ state={
 		1705 3044 
 	}
 	history = {
-		owner = HOL
+		owner = USA
 		add_core_of = HOL
 		add_core_of = BRB
 		buildings = {

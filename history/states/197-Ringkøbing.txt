@@ -6,7 +6,7 @@ state={
 		aluminium=6.000
 	}
 	history = {
-		owner = DEN
+		owner = USA
 		add_core_of = DEN
 		buildings = {
 			infrastructure = 3

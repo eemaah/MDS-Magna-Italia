@@ -6,7 +6,7 @@ state={
 		6613 13630 13679 
 	}
 	history={
-		owner = FRA
+		owner = USA
 		add_core_of = FRA
 		add_core_of = ALS
 		add_core_of = BGN

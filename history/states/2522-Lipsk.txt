@@ -5,7 +5,7 @@ state={
 		20465 
 	}
 	history={
-		owner = POL
+		owner = USA
 		add_core_of = POL
 		add_core_of = SVK
 		buildings = {

@@ -7,7 +7,7 @@ state={
 		aluminium=35.000
 	}
 	history={
-		owner = FRA
+		owner = USA
 		add_core_of = FRA
 		add_core_of = LYO
 		buildings = {
