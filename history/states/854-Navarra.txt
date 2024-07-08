@@ -4,7 +4,7 @@ state={
 	name="STATE_854"
 
 	history={
-		owner = SPR
+		owner = USA
 		add_core_of = NAV
 		add_core_of = SPR
 		buildings = {

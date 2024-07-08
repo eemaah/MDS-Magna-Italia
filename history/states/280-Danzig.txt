@@ -4,7 +4,7 @@ state={
 	name="STATE_280"
 
 	history={
-		owner = DNZ
+		owner = USA
 		add_core_of = DNZ
 		add_core_of = GER
 		buildings = {

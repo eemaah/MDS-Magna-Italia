@@ -6,7 +6,7 @@ state={
 		773 1325 1369 3817 4421 4907 6574 12080 12120 12125 12179 12235 
 	}
 	history={
-		owner = POL
+		owner = USA
 		add_core_of = POL
 		add_core_of = MLP
 		buildings = {

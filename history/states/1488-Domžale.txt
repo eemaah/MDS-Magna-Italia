@@ -5,7 +5,7 @@ state={
 		14090 14115 20152 
 	}
 	history = {
-		owner = YUG
+		owner = USA
 		add_core_of = SLV
 		buildings = {
 			infrastructure = 2

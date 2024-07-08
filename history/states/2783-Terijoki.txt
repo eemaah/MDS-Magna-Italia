@@ -4,7 +4,7 @@ state={
 	name="STATE_2783"
 
 	history={
-		owner = FIN
+		owner = USA
 		add_core_of = FIN
 		add_core_of = KAR
 		buildings = {

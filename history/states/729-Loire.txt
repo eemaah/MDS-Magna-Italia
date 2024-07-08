@@ -6,7 +6,7 @@ state={
 		100 9025 14152 14187 14269 14288 19824 19825 
 	}
 	history={
-		owner = FRA
+		owner = USA
 		add_core_of = FRA
 		add_core_of = LYO
 		buildings = {

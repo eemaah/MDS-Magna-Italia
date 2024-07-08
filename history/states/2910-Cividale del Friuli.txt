@@ -6,7 +6,7 @@ state={
 		4688 5420 
 	}
 	history={
-		owner = ITA
+		owner = USA
 		add_core_of = ITA
 		add_core_of = FRI
 		buildings = {

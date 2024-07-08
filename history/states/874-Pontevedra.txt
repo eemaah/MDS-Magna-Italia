@@ -6,7 +6,7 @@ state={
 		3718 4439 5202 6516 14795 14826 14861 19730 
 	}
 	history={
-		owner = SPR
+		owner = USA
 		add_core_of = GLC
 		add_core_of = SPR
 		buildings = {

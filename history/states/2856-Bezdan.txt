@@ -5,7 +5,7 @@ state={
 		18030 
 	}
 	history={
-		owner = YUG
+		owner = USA
 		add_core_of = SER
 		buildings = {
 			infrastructure = 2

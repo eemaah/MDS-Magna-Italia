@@ -5,7 +5,7 @@ state={
 		14976 20217 
 	}
 	history={
-		owner = ALB
+		owner = USA
 		add_core_of = ALB
 		add_core_of = CAB
 		buildings = {

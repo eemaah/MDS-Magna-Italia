@@ -6,7 +6,7 @@ state={
 		8481 13575 
 	}
 	history = {
-		owner = SOV
+		owner = USA
 		add_core_of = SOV
 		add_core_of = UKR
 		add_core_of = ZAP

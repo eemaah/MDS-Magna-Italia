@@ -3,7 +3,7 @@ state={
 	name="STATE_1852"
 			
 	history={
-		owner = SPR
+		owner = USA
 		add_core_of = ADU
 		add_core_of = SPR
 		buildings = {

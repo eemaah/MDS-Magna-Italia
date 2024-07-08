@@ -6,7 +6,7 @@ state={
 		2601 3574 6901 
 	}
 	history={
-		owner = POL
+		owner = USA
 		add_core_of = POL
 		ADD_core_of = MZV
 		buildings = {

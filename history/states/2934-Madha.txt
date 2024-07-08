@@ -5,7 +5,7 @@ state={
 		17146 
 	}
 	history={
-		owner = OMA
+		owner = USA
 		add_core_of = OMA
 		buildings = {
 			infrastructure = 1

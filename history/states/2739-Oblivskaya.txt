@@ -5,7 +5,7 @@ state={
 		13143 13209 13318 
 	}
 	history={
-		owner = SOV
+		owner = USA
 		add_core_of = RUS
 		buildings = {
 			infrastructure = 3

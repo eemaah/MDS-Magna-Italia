@@ -6,7 +6,7 @@ state={
 		1909 6923 8176 8809 11674 11698 19415 
 	}
 	history={
-		owner = ENG
+		owner = USA
 		add_core_of = ENG
 		add_core_of = MER
 		buildings = {

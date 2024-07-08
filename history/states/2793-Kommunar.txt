@@ -6,7 +6,7 @@ state={
 		2679 17042 18548 
 	}
 	history={
-		owner = SOV
+		owner = USA
 		add_core_of = SOV
 		add_core_of = RUS
 		add_core_of = IGR

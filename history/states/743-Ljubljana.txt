@@ -6,7 +6,7 @@ state={
 		1252 14138 14158 14165 
 	}
 	history = {
-		owner = YUG
+		owner = USA
 		add_core_of = YUG
 		add_core_of = SLV
 		buildings = {

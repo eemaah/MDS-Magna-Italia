@@ -4,7 +4,7 @@ state={
 	name="STATE_736"
 
 	history={
-		owner = ROM
+		owner = USA
 		add_core_of = ROM
 		add_core_of = BNT
 		victory_points = {

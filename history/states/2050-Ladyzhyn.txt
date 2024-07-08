@@ -6,7 +6,7 @@ state={
 		6235 6637 13367 13411 
 	}
 	history = {
-		owner = SOV
+		owner = USA
 		add_core_of = SOV
 		add_core_of = UKR
 		add_core_of = PLD

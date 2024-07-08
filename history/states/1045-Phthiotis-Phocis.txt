@@ -6,7 +6,7 @@ state={
 		1114 5958 15305 20257 20358 20359 
 	}
 	history={
-		owner = GRE
+		owner = USA
 		add_core_of = GRE
 		buildings = {
 			infrastructure = 2

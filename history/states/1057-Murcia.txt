@@ -6,7 +6,7 @@ state={
 		77 3862 3887 4217 7009 15387 15394 19764 19778 
 	}
 	history={
-		owner = SPR
+		owner = USA
 		add_core_of = MUR
 		add_core_of = SPR
 		buildings = {

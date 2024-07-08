@@ -6,7 +6,7 @@ state={
 		3810 6812 10474 19996 
 	}
 	history={
-		owner = LIT
+		owner = USA
 		add_core_of = LIT
 		add_core_of = SMG
 		buildings = {

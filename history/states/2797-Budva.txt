@@ -5,7 +5,7 @@ state={
 		14817 
 	}
 	history={
-		owner = YUG
+		owner = USA
 		add_core_of = MNT
 		add_core_of = DLM
 		buildings = {

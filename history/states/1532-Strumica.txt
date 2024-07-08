@@ -6,7 +6,7 @@ state={
 		17051 20237 
 	}
 	history = {
-		owner = YUG
+		owner = USA
 		add_core_of = YUG
 		add_core_of = MAC
 		buildings = {

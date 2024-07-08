@@ -6,7 +6,7 @@ state={
 		1435 17925 
 	}
 	history={
-		owner = YUG
+		owner = USA
 		add_core_of = MNT
 		buildings = {
 			infrastructure = 2

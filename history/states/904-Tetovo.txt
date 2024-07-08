@@ -4,7 +4,7 @@ state={
 	name="STATE_904"
 
 	history={
-		owner = YUG
+		owner = USA
 		add_core_of = MAC
 		buildings = {
 			infrastructure = 1

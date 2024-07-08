@@ -5,7 +5,7 @@ state={
 		19152 
 	}
 	history={
-		owner = KUW
+		owner = USA
 		add_core_of = KUW
 		buildings = {
 			infrastructure = 1

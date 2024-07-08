@@ -6,7 +6,7 @@ state={
 		993 3642 5832 14741 19763 
 	}
 	history={
-		owner = SPR
+		owner = USA
 		add_core_of = SPR
 		add_core_of = CBR
 		buildings = {

@@ -3,7 +3,7 @@ state={
 	name="STATE_1920"
 			
 	history = {
-		owner = LEB
+		owner = USA
 		add_core_of = LEB
 		buildings = {
 			15680 = { naval_base = 3 }
