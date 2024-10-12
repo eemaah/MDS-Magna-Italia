@@ -5,7 +5,7 @@ state={
 		198 3645 6203 
 	}
 	history={
-		owner = USA
+		owner = XXX
 		add_core_of = SOV
 		add_core_of = RUS
 		add_core_of = CRZ

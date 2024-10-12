@@ -4,7 +4,7 @@ state={
 	name="STATE_2360"
 
 	history={
-		owner = USA
+		owner = XXX
 		add_core_of = ROM
 		add_core_of = MOL
 		buildings = {

@@ -6,7 +6,7 @@ state={
 		2217 3747 4177 6766 7629 12474 12496 20063 
 	}
 	history={
-		owner = USA
+		owner = XXX
 		add_core_of = CZE
 		add_core_of = BOH
 		add_core_of = SDT

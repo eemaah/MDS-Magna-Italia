@@ -6,7 +6,7 @@ state={
 		1842 3895 6682 8723 10775 10802 19396 
 	}
 	history={
-		owner = USA
+		owner = XXX
 		add_core_of = ENG
 		add_core_of = NRT
 		add_core_of = CMB

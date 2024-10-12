@@ -5,7 +5,7 @@ state={
 		552 5467 12004 12049 
 	}
 	history = {
-		owner = USA
+		owner = XXX
 		add_core_of = SOV
 		add_core_of = RUS
 		add_core_of = CRZ

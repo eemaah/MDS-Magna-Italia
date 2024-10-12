@@ -5,7 +5,7 @@ state={
 		4974 11466 
 	}
 	history={
-		owner = USA
+		owner = XXX
 		add_core_of = POL
 		ADD_core_of = MZV
 		victory_points = {

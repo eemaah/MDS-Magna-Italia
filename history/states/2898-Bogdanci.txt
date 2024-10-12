@@ -5,7 +5,7 @@ state={
 		6105 
 	}
 	history={
-		owner = USA
+		owner = XXX
 		add_core_of = MAC
 		buildings = {
 			infrastructure = 1

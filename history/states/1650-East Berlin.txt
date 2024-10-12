@@ -5,7 +5,7 @@ state={
 		805 6184 20588 
 	}
 	history={
-	    owner = USA
+	    owner = XXX
         victory_points = {
             6184 80
         }

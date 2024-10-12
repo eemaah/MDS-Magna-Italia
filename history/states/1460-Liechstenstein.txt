@@ -2,7 +2,7 @@ state={
 	id=1460
 	name="STATE_1460"
 	history={
-		owner = USA
+		owner = XXX
 		add_core_of = LIE
 		victory_points = {
 			20107 1

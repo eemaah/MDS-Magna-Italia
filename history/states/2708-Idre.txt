@@ -5,7 +5,7 @@ state={
 		869 903 2178 5476 6215 8861 9846 9868 
 	}
 	history={
-		owner = USA
+		owner = XXX
 		add_core_of = SWE
 		buildings = {
 			infrastructure = 2

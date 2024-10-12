@@ -4,7 +4,7 @@ state={
 	name="STATE_2909"
 
 	history={
-		owner = USA
+		owner = XXX
 		add_core_of = GUE
 		buildings = {
 			19868 = {

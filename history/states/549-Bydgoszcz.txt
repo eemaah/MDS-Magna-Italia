@@ -6,7 +6,7 @@ state={
 		5827 6691 7830 8503 9431 11367 
 	}
 	history={
-		owner = USA
+		owner = XXX
 		
 		add_core_of = POL
 		add_core_of = WKP

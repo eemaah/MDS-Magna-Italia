@@ -5,7 +5,7 @@ state={
 		17974 
 	}
 	history={
-		owner = USA
+		owner = XXX
 		add_core_of = YUG
 		add_core_of = BOS
 		add_core_of = HRZ

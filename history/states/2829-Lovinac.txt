@@ -6,7 +6,7 @@ state={
 		14483 14530 20124 
 	}
 	history={
-		owner = USA
+		owner = XXX
 		add_core_of = CRO
 		add_core_of = YUG
 		add_core_of = KRJ

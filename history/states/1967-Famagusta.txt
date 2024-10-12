@@ -3,7 +3,7 @@ state={
 	id=1967
 	name="STATE_1967"		
 	history = {
-		owner = USA
+		owner = XXX
 		add_core_of = CYP
 		
 		add_core_of = GRE

@@ -6,7 +6,7 @@ state={
 		875 1591 4348 4436 6237 8527 13339 13532 13833 13881 15921 17511 17907 19019 
 	}
 	history = {
-		owner = USA
+		owner = XXX
 		add_core_of = SOV
 		add_core_of = KAZ
 		buildings = {

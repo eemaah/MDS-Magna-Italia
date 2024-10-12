@@ -6,7 +6,7 @@ state={
 		1089 8994 14327 
 	}
 	history={
-		owner = USA
+		owner = XXX
 		add_core_of = YUG
 		add_core_of = CRO
 		add_core_of = SVN

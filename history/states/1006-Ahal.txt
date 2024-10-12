@@ -6,7 +6,7 @@ state={
 		618 782 1545 7994 15327 15367 16235 16712 
 	}
 	history = {
-		owner = USA
+		owner = XXX
 		add_core_of = SOV
 		add_core_of = TMS
 		victory_points = { 7994 40 }

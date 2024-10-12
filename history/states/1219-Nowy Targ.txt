@@ -6,7 +6,7 @@ state={
 		4368 7894 13018 
 	}
 	history={
-		owner = USA
+		owner = XXX
 		add_core_of = POL
 		victory_points = {
 			4368 2 #Nowy Targ

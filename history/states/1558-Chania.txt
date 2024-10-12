@@ -5,7 +5,7 @@ state={
 		4060 20349 20351 
 	}
 	history={
-		owner = USA
+		owner = XXX
 		add_core_of = GRE
 		add_core_of = CRT
 		buildings = {

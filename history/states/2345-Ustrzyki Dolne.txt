@@ -5,7 +5,7 @@ state={
 		4289 
 	}
 	history={
-		owner = USA
+		owner = XXX
 		add_core_of = GAL
 		add_core_of = WUK
 		add_core_of = POL

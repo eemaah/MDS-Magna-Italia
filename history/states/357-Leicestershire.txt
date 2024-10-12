@@ -6,7 +6,7 @@ state={
 		6961 7602 8472 11564 11620 
 	}
 	history={
-		owner = USA
+		owner = XXX
 		add_core_of = ENG
 		add_core_of = MER
 		buildings = {

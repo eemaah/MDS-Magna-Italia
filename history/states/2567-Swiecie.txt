@@ -6,7 +6,7 @@ state={
 		8474 11198 11234 11282 
 	}
 	history={
-		owner = USA
+		owner = XXX
 		add_core_of = POL
 		add_core_of = WPR
 		buildings = {

@@ -6,7 +6,7 @@ state={
 		1067 5693 8402 9562 12347 
 	}
 	history={
-		owner = USA
+		owner = XXX
 		victory_points = {
 			8402 10 #Waldenburg
 		}

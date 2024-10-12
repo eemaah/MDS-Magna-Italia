@@ -6,7 +6,7 @@ state={
 		536 695 819 4121 4580 13085 
 	}
 	history = {
-		owner = USA
+		owner = XXX
 		add_core_of = SOV
 		add_core_of = UKR
 		buildings = {

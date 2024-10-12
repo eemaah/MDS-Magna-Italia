@@ -6,7 +6,7 @@ state={
 		12852 12895 
 	}
 	history={
-		owner = USA
+		owner = XXX
 		add_core_of = LUX
 		buildings = {
 			infrastructure = 3

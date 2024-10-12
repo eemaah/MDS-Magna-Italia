@@ -6,7 +6,7 @@ state={
 		9292 12960 13033 
 	}
 	history={
-		owner = USA
+		owner = XXX
 		add_core_of = GAL
 		add_core_of = WUK
 		add_core_of = POL

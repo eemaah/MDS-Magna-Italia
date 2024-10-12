@@ -5,7 +5,7 @@ state={
 		5650 12020 20738 
 	}
 	history={
-		owner = USA
+		owner = XXX
         victory_points = {
             5650 40 #Essen
         }

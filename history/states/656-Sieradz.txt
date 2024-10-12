@@ -6,7 +6,7 @@ state={
 		7750 8193 8862 9574 11971 12034 12087 12177 12252 
 	}
 	history={
-		owner = USA
+		owner = XXX
 		add_core_of = POL
 		add_core_of = WKP
 		buildings = {

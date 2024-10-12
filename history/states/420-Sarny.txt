@@ -6,7 +6,7 @@ state={
 		5755 6917 8657 12088 12145 12162 12237 
 	}
 	history={
-		owner = USA
+		owner = XXX
 		add_core_of = POL
 		victory_points = {
 			6917 2 #Sarny

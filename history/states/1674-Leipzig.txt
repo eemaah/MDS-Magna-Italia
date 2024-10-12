@@ -5,7 +5,7 @@ state={
 		7350 12143 12153 12208 12227 20608 
 	}
 	history={
-		owner = USA
+		owner = XXX
 		add_core_of = GER
 		buildings = {
 			infrastructure = 4

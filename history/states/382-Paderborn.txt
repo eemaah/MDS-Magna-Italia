@@ -9,7 +9,7 @@ state={
 		}
 		add_core_of = PRE
 		add_core_of = WST
-		owner = USA
+		owner = XXX
 		victory_points = {
 			11995 10 #Paderborn
 		}

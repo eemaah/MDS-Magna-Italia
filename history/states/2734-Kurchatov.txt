@@ -5,7 +5,7 @@ state={
 		1472 2327 3359 5284 8922 12036 12089 12180 
 	}
 	history={
-		owner = USA
+		owner = XXX
 		add_core_of = SOV
 		add_core_of = RUS
 		add_core_of = CRZ

@@ -6,7 +6,7 @@ state={
 		4231 8483 20338 
 	}
 	history={
-		owner = USA
+		owner = XXX
 		add_core_of = GRE
 		add_core_of = THR
 		add_core_of = WTH

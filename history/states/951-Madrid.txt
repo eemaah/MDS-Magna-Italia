@@ -6,7 +6,7 @@ state={
 		2859 9336 9583 15095 15103 15120 15124 15140 15148 19785 
 	}
 	history={
-		owner = USA
+		owner = XXX
 		add_core_of = SPR
 		add_core_of = MDR
 		buildings = {

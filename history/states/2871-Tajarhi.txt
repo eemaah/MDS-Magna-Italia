@@ -6,7 +6,7 @@ state={
 		16189 
 	}
 	history={
-		owner = USA
+		owner = XXX
 		add_core_of = LBA
 		buildings = {
 			infrastructure = 0

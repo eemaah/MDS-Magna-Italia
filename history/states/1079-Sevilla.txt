@@ -6,7 +6,7 @@ state={
 		110 1039 1611 1785 4047 4165 7546 15411 19796 
 	}
 	history={
-		owner = USA
+		owner = XXX
 		add_core_of = ADU
 		add_core_of = SPR
 		buildings = {

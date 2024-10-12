@@ -5,7 +5,7 @@ state={
 		6599 7206 9457 20120 20156 20183 
 	}
 	history = {
-		owner = USA
+		owner = XXX
 		add_core_of = CRO
 		buildings = {
 			infrastructure = 4

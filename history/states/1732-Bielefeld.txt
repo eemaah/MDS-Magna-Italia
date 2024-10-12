@@ -11,7 +11,7 @@ state={
 		}
 		add_core_of = PRE
 		add_core_of = WST
-		owner = USA
+		owner = XXX
         victory_points = {
             20697 20
         }

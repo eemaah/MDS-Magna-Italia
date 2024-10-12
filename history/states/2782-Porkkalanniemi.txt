@@ -5,7 +5,7 @@ state={
 		1924 
 	}
 	history={
-		owner = USA
+		owner = XXX
 		add_core_of = FIN
 		buildings = {
 			infrastructure = 2

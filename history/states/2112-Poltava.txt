@@ -7,7 +7,7 @@ state={
 	}
 	history = {
 		victory_points = { 2158 20 }
-		owner = USA
+		owner = XXX
 		add_core_of = SOV
 		add_core_of = UKR
 		buildings = {

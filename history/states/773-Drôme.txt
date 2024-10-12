@@ -6,7 +6,7 @@ state={
 		330 2478 3911 4483 6891 9518 9592 14505 19845 
 	}
 	history={
-		owner = USA
+		owner = XXX
 		add_core_of =FRA
 		add_core_of = DAU
 		add_core_of = OCC

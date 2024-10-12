@@ -5,7 +5,7 @@ state={
 		148 4539 5640 7893 
 	}
 	history={
-		owner = USA
+		owner = XXX
 		add_core_of = ROM
 		add_core_of = TRA
 		buildings = {

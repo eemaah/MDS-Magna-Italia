@@ -6,7 +6,7 @@ state={
 		5134 13182 13249 
 	}
 	history = {
-		owner = USA
+		owner = XXX
 		victory_points = { 13182 2 }
 		add_core_of = SOV
 		add_core_of = UKR

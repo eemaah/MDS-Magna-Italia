@@ -3,7 +3,7 @@ state={
 	name="STATE_1856"
 				
 	history = {
-		owner = USA
+		owner = XXX
 		add_core_of = MOR
 		buildings = {
 			infrastructure = 1

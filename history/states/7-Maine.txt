@@ -6,7 +6,7 @@ state={
 		616 6108 8146 19373 19377 
 	}
 	history = {
-		owner = USA
+		owner = XXX
 		add_core_of = USA
 		add_core_of = NEL
 		buildings = {
