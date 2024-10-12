@@ -4,10 +4,10 @@ bookmarks = {
 		desc = "GATHERING_STORM_DESC"
 		date = 1936.1.1.12
 		picture = "GFX_select_date_1936"
-		default_country = "GER"
+		default_country = "USA"
 		default = yes
 		
-		"GER"={
+		"VNT"={
 			history = "ENG_GATHERING_STORM_DESC"
 			ideology = democratic
 			ideas = {
@@ -16,7 +16,7 @@ bookmarks = {
 			}
 		}
 		
-		"ITA"={
+		"LOM"={
 			history = "ENG_GATHERING_STORM_DESC"
 			ideology = democratic
 			ideas = {
@@ -25,7 +25,7 @@ bookmarks = {
 			}
 		}
 		
-		"FRA"={
+		"NAP"={
 			history = "ENG_GATHERING_STORM_DESC"
 			ideology = democratic
 			ideas = {
@@ -34,7 +34,7 @@ bookmarks = {
 			}
 		}
 		
-		"ENG"={
+		"LAZ"={
 			history = "ENG_GATHERING_STORM_DESC"
 			ideology = democratic
 			ideas = {
@@ -43,7 +43,7 @@ bookmarks = {
 			}
 		}
 		
-		"SOV"={
+		"PUG"={
 			history = "ENG_GATHERING_STORM_DESC"
 			ideology = democratic
 			ideas = {
@@ -52,7 +52,7 @@ bookmarks = {
 			}
 		}
 		
-		"USA"={
+		"SRD"={
 			history = "ENG_GATHERING_STORM_DESC"
 			ideology = democratic
 			ideas = {
@@ -61,7 +61,7 @@ bookmarks = {
 			}
 		}
 		
-		"POL"={
+		"SIC"={
 			history = "ENG_GATHERING_STORM_DESC"
 			ideology = democratic
 			ideas = {

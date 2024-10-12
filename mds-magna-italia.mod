@@ -1,4 +1,4 @@
-name="Magna Europa Reloaded Utility Version"
+name="Magna Italia"
 version="1.0"
 tags={
 	"Map"
@@ -46,5 +46,5 @@ replace_path="common/units/codenames_operatives"
 replace_path="common/unit_leader"
 replace_path="events"
 picture="thumbnail.png"
-supported_version="1.12.*"
-remote_file_id="2835994396"
+supported_version="1.14.*"
+path="C:/Users/EmaTh/Documents/Paradox Interactive/Hearts of Iron IV/mod/mds-magna-italia"

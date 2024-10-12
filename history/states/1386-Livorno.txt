@@ -4,10 +4,8 @@ state={
 	name="STATE_1386"
 
 	history={
-		owner = USA
-		add_core_of = ITA
+		owner = TUS
 		add_core_of = TUS
-		add_core_of = PIS
 		buildings = {
 			infrastructure = 4
 			14681 = {

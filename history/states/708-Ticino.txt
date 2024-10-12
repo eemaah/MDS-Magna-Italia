@@ -2,10 +2,8 @@ state={
 	id=708
 	name="STATE_708"
 	history={
-		owner = USA
-		add_core_of = SWI
+		owner = TIC
 		add_core_of = TIC
-		add_core_of = LOM
 		buildings = {
 			infrastructure = 2
 		}

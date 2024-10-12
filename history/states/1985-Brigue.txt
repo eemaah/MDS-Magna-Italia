@@ -3,12 +3,8 @@ state={
 	id=1985
 	name="STATE_1985"
 	history = {
-		owner = USA
-		add_core_of = ITA
+		owner = PIE
 		add_core_of = PIE
-		add_core_of = NZA
-		add_core_of = PRV
-		add_core_of = OCC
 		buildings = {
 			infrastructure = 1
 		}

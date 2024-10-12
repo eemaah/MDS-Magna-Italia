@@ -1,0 +1,32 @@
+ideas = {
+
+	country = {
+		disorganised_tribes = {
+			picture = usa_great_depression_3
+			
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				consumer_goods_factor = 15
+				research_speed_factor = -10
+				production_speed_buildings_factor = -100
+				conscription_factor = -1
+				local_resources_factor = -1
+				production_factory_max_efficiency_factor = -100
+				min_export = -10
+				industrial_capacity_dockyard = -10
+				enemy_justify_war_goal_time = 100
+				justify_war_goal_time = 100
+				neutrality_drift = 1000
+				foreign_subversive_activites = -1000
+				ai_get_ally_desire_factor = -100
+				resistance_growth = -10
+				join_faction_tension = 1000
+			}
+		}
+	}
+}

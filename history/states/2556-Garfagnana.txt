@@ -5,15 +5,11 @@ state={
 		7981 
 	}
 	history={
-		owner = USA
-		add_core_of = ITA
-		add_core_of = MDN
+		owner = TUS
+		add_core_of = TUS
 		buildings = {
 			infrastructure = 3
 		}
-		add_core_of = MCR
-		add_core_of = LCC
-		add_core_of = TUS
 	}
 	manpower=44416
 	state_category=pastoral

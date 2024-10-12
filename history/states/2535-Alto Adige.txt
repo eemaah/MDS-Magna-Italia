@@ -4,8 +4,7 @@ state={
 	name="STATE_2535"
 
 	history={
-		owner = USA
-		add_core_of = ITA
+		owner = TIR
 		add_core_of = TIR
 		victory_points = {
 			5380 2 

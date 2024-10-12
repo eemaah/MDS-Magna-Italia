@@ -3,10 +3,8 @@ state={
 	name="STATE_2877"
 
 	history={
-		owner = USA
-		add_core_of = ITA
+		owner = TUS
 		add_core_of = TUS
-		add_core_of = RMG
 		buildings = {
 			infrastructure = 4
 

@@ -2,10 +2,8 @@ state={
 	id=2905
 	name="STATE_2905"
 	history={
-		owner = USA
-		add_core_of = ITA
+		owner = VNT
 		add_core_of = VNT
-		add_claim_by = LDN
 		buildings = {
 			infrastructure = 2
 		}

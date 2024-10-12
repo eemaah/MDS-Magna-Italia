@@ -6,8 +6,7 @@ state={
 		1754 8443 8850 14903 20506 
 	}
 	history={
-		owner = USA
-		add_core_of =FRA
+		owner = COR
 		buildings = {
 			infrastructure = 4
 			8443 = { naval_base = 3 }

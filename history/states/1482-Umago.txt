@@ -2,15 +2,11 @@ state={
 	id=1482
 	name="STATE_1482"
 	history={
-		owner = USA
-		add_core_of = CRO
+		owner = JUL
 		add_core_of = JUL
 		buildings = {
 			infrastructure = 2
 		}
-		add_core_of = ITA
-		add_core_of = TST
-		add_core_of = IST
 	}
 	provinces={
 		20130 

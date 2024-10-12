@@ -4,8 +4,7 @@ state={
 	name="STATE_1402"
 
 	history={
-		owner = USA
-		add_core_of = ITA
+		owner = NAP
 		add_core_of = NAP
 		buildings = {
 			infrastructure = 4

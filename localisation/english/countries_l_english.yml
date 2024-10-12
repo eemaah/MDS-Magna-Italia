@@ -100,33 +100,33 @@
 
    #COMMUNISM
 
-    USA_communism:0 "United Socialist States of America"
-    USA_communism_DEF:0 "the United Socialist States of America"
-    USA_communism_ADJ:0 "American"
+    USA_communism:0 "ㅤ"
+    USA_communism_DEF:0 "ㅤ"
+    USA_communism_ADJ:0 "ㅤ"
 
    #DEMOCRATIC
 
-    USA_democratic:0 "United States of America"
-    USA_democratic_DEF:0 "the United States of America"
-    USA_democratic_ADJ:0 "American"
+    USA_democratic:0 "ㅤ"
+    USA_democratic_DEF:0 "ㅤ"
+    USA_democratic_ADJ:0 "ㅤ"
 
    #FASCISM
 
-    USA_fascism:0 "Commonwealth of America"
-    USA_fascism_DEF:0 "the Commonwealth of America"
-    USA_fascism_ADJ:0 "American"
+    USA_fascism:0 "ㅤ"
+    USA_fascism_DEF:0 "ㅤ"
+    USA_fascism_ADJ:0 "ㅤ"
 
    #NEUTRALITY
 
-    USA_neutrality:0 "United States of America"
-    USA_neutrality_DEF:0 "the United States of America"
-    USA_neutrality_ADJ:0 "American"
+    USA_neutrality:0 "ㅤ"
+    USA_neutrality_DEF:0 "ㅤ"
+    USA_neutrality_ADJ:0 "ㅤ"
 
    #TAG
 
-    USA:0 "America"
-    USA_DEF:0 "the American States"
-    USA_ADJ:0 "American"
+    USA:0 "ㅤ"
+    USA_DEF:0 "ㅤ"
+    USA_ADJ:0 "ㅤ"
 
   ##CONFEDERACY
 
@@ -705,31 +705,7 @@
     CHU_ADJ:0 "Chuvash"
 
  ###CORSICA
-
-   #COMMUNISM
-
-    COR_communism:0 "Corsican People's Republic"
-    COR_communism_DEF:0 "the Corsican People's Republic"
-    COR_communism_ADJ:0 "Corsican"
-
-   #DEMOCRATIC
-
-    COR_democratic:0 "Corsican Republic"
-    COR_democratic_DEF:0 "the Corsican Republic"
-    COR_democratic_ADJ:0 "Corsican"
-
-   #FASCISM
-
-    COR_fascism:0 "Corsican State"
-    COR_fascism_DEF:0 "the Corsican State"
-    COR_fascism_ADJ:0 "Corsican"
-
-   #NEUTRALITY
-
-    COR_neutrality:0 "Corsican Republic"
-    COR_neutrality_DEF:0 "the Corsican Republic"
-    COR_neutrality_ADJ:0 "Corsican"
-
+ 
    #TAG
 
     COR:0 "Corsica"
@@ -3588,33 +3564,10 @@
 
  ###TUSCANY
 
-   #COMMUNISM
-
-    TUS_communism:0 "Tuscan Socialist Republic"
-    TUS_communism_DEF:0 "the Tuscan Socialist Republic"
-    TUS_communism_ADJ:0 "Tuscan"
-
-   #DEMOCRATIC
-
-    TUS_democratic:0 "Tuscan Republic"
-    TUS_democratic_DEF:0 "the Tuscan Republic"
-    TUS_democratic_ADJ:0 "Tuscan"
-
-   #FASCISM
-
-    TUS_fascism:0 "Tuscan State"
-    TUS_fascism_DEF:0 "the Tuscan State"
-    TUS_fascism_ADJ:0 "Tuscan"
-
-   #NEUTRALITY
-
-    TUS_neutrality:0 "Grand Duchy of Tuscany"
-    TUS_neutrality_DEF:0 "the Grand Duchy of Tuscany"
-    TUS_neutrality_ADJ:0 "Tuscan"
 
    #TAG
 
-    TUS:0 "Tuscany"
+    TUS:0 "Toscana"
     TUS_DEF:0 "the Tuscan State"
     TUS_ADJ:0 "Tuscan"
 

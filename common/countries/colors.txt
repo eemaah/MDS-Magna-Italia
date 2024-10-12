@@ -4,8 +4,8 @@ CAN = {
 	color_ui = rgb { 99 189 82 }
 }
 USA = {
-	color = rgb { 43 89 202 }
-	color_ui = rgb { 43 89 202 }
+	color = rgb { 0 0 0 }
+	color_ui = rgb { 0 0 0 }
 }
 NFL = {
 	color = rgb { 186 12 47 }
@@ -84,12 +84,12 @@ VOR = {
 	color_ui = rgb { 86 216 158 }
 }
 TIR = {
-	color = rgb { 210 160 160 }
-	color_ui = rgb { 210 160 160 }
+	color = rgb { 67 127 63 }
+	color_ui = rgb { 67 127 63 }
 }
 TIC = {
-	color = rgb { 225 204 51 }
-	color_ui = rgb { 225 204 51 }
+	color = rgb { 224 5 5 }
+	color_ui = rgb { 224 5 5 }
 }
 GRS = {
 	color = rgb { 175 175 175 }
@@ -480,20 +480,20 @@ ISM = {
 
 ###Italian Releasables
 NAP = {
-	color = rgb { 216 216 82 }
-	color_ui = rgb { 216 216 82 }
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
 }
 SIC = {
-	color = rgb { 101 115 75 }
-	color_ui = rgb { 101 115 75 }
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
 }
 SRD = {
-	color = rgb { 210 165 255 }
-	color_ui = rgb { 210 165 255 }
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
 }
 TUS = {
-	color = rgb { 102 0 153 }
-	color_ui = rgb { 102 0 153 }
+	color = rgb { 205 212 228 }
+	color_ui = rgb { 205 212 228 }
 }
 SNA = {
 	color = rgb { 165 171 115 }
@@ -504,8 +504,12 @@ PIS = {
 	color_ui = rgb { 177 150 109 }
 }
 LAZ = {
-	color = rgb { 255 255 164 }
-	color_ui = rgb { 255 255 164 }
+	color = rgb { 205 212 228 }
+	color_ui = rgb { 205 212 228 }
+}
+COR = {
+	color = rgb { 205 212 228 }
+	color_ui = rgb { 205 212 228 }
 }
 MDN = {
 	color = rgb { 15 71 175 }
@@ -516,20 +520,20 @@ PRM = {
 	color_ui = rgb { 239 102 82 }
 }
 PIE = {
-	color = rgb { 75 97 209 }
-	color_ui = rgb { 75 97 209 }
+	color = rgb { 67 127 63 }
+	color_ui = rgb { 67 127 63 }
 }
 LOM = {
-	color = rgb { 0 178 51 }
-	color_ui = rgb { 0 178 51 }
+	color = rgb { 67 127 63 }
+	color_ui = rgb { 67 127 63 }
 }
 LDN = {
 	color = rgb { 51 102 255 }
 	color_ui = rgb { 51 102 255 }
 }
 VNT = {
-	color = rgb { 152 0 51 }
-	color_ui = rgb { 152 0 51 }
+	color = rgb { 67 127 63 }
+	color_ui = rgb { 67 127 63 }
 }
 FRI = {
 	color = rgb { 160 225 220 }
@@ -544,8 +548,8 @@ TST = {
 	color_ui = rgb { 86 216 158 }
 }
 JUL = {
-	color = rgb { 243 198 19 }
-	color_ui = rgb { 243 198 19 }
+	color = rgb { 67 127 63 }
+	color_ui = rgb { 67 127 63 }
 }
 GOR = {
 	color = rgb { 180 255 200 }
@@ -556,8 +560,8 @@ IST = {
 	color_ui = rgb { 75 110 105 }
 }
 BLG = {
-	color = rgb { 244 180 130 }
-	color_ui = rgb { 244 180 130 }
+	color = rgb { 67 127 63 }
+	color_ui = rgb { 67 127 63 }
 }
 FRR = {
 	color = rgb { 21 128 21 }
@@ -568,36 +572,36 @@ RMG = {
 	color_ui = rgb { 244 180 35 }
 }
 MAR = {
-	color = rgb { 38 127 0 }
-	color_ui = rgb { 38 127 0 }
+	color = rgb { 205 212 228 }
+	color_ui = rgb { 205 212 228 }
 }
 UMB = {
-	color = rgb { 174 224 71 }
-	color_ui = rgb { 174 224 71 }
+	color = rgb { 205 212 228 }
+	color_ui = rgb { 205 212 228 }
 }
 ABR = {
-	color = rgb { 102 153 255 }
-	color_ui = rgb { 102 153 255 }
+	color = rgb { 205 212 228 }
+	color_ui = rgb { 205 212 228 }
 }
 PUG = {
-	color = rgb { 146 216 180 }
-	color_ui = rgb { 146 216 180 }
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
 }
 LUC = {
-	color = rgb { 245 194 199 }
-	color_ui = rgb { 245 194 199 }
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
 }
 CAL = {
-	color = rgb { 58 188 41 }
-	color_ui = rgb { 58 188 41 }
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
 }
 MLS = {
 	color = rgb { 200 220 200 }
 	color_ui = rgb { 200 220 200 }
 }
 LIG = {
-	color = rgb { 218 215 56 }
-	color_ui = rgb { 218 215 56 }
+	color = rgb { 67 127 63 }
+	color_ui = rgb { 67 127 63 }
 }
 LCC = {
 	color = rgb { 0 204 153 }
@@ -770,8 +774,8 @@ BOS = {
 	color_ui = rgb { 179 196 111 }
 }
 MAC = {
-	color rgb { 255 60 60 }
-	color_ui rgb { 255 60 60 }
+	color = rgb { 255 60 60 }
+	color_ui = rgb { 255 60 60 }
 }
 KOS = {
 	color = rgb { 188 100 100 }

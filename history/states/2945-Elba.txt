@@ -5,10 +5,8 @@ state={
 		19880 
 	}
 	history = {
-		owner = USA
-		add_core_of = ITA
+		owner = TUS
 		add_core_of = TUS
-		add_core_of = PIS
 		buildings = { infrastructure = 3 }
 	}
 	state_category = small_island
