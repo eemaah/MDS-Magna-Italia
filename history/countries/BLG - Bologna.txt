@@ -39,13 +39,5 @@ set_popularities = {
 	neutrality = 15
 }
 
-create_country_leader = {
-	name = "Andrea Bianchi"
-	desc = ""
-	picture = "gfx/leaders/Europe/portrait_europe_generic_1.dds"
-	expire = "1960.1.1"
-	ideology = conservatism
-	traits = {
-		
-	}
-}
+
+recruit_character = iosif_stalin

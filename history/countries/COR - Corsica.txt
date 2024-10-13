@@ -34,3 +34,5 @@ set_popularities = {
 	communism = 0
 	neutrality = 75
 }
+
+recruit_character napoleone

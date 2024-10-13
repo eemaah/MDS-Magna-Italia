@@ -35,3 +35,4 @@ set_popularities = {
 	communism = 0
 	neutrality = 15
 }
+recruit_character = luca_zaia

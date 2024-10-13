@@ -36,13 +36,4 @@ set_popularities = {
 	neutrality = 75
 }
 
-create_country_leader = {
-	name = "Umberto II of Savoy"
-	desc = ""
-	picture = "gfx/leaders/ITA/Portrait_ITA_Umberto_General.dds"
-	expire = "1960.1.1"
-	ideology = moderatism
-	traits = {
-		popular_figurehead
-	}
-}
+recruit_character = Calogero_Bagarella
