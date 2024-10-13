@@ -1,0 +1,2469 @@
+characters = {
+	#PIEMONTE
+    Calogero_Bagarella = {
+		name="Calogero Bagarella"
+	
+		#DEMOCRATIC
+		country_leader = {
+			ideology = conservatism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = liberalism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = socialism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#COMMUNIST
+
+        country_leader = {
+			ideology = marxism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = leninism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = stalinism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = anti_revisionism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = anarchist_communism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#FASCISM
+
+        country_leader = {
+			ideology = nazism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = fascism_ideology 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = falangism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = rexism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#NEUTRALITY
+
+        country_leader = {
+			ideology = despotism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = oligarchism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = moderatism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = centrism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+	}
+
+    #LOMBARDIA
+    massimo_bossetti = {
+		name="Massimo Bossetti"
+		
+		#DEMOCRATIC
+		country_leader = {
+			ideology = conservatism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = liberalism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = socialism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#COMMUNIST
+
+        country_leader = {
+			ideology = marxism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = leninism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = stalinism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = anti_revisionism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = anarchist_communism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#FASCISM
+
+        country_leader = {
+			ideology = nazism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = fascism_ideology 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = falangism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = rexism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#NEUTRALITY
+
+        country_leader = {
+			ideology = despotism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = oligarchism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = moderatism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = centrism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+	}
+
+    #VENETO
+    luca_zaia = {
+		name="Luca Zaia"
+
+		#DEMOCRATIC
+		country_leader = {
+			ideology = conservatism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = liberalism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = socialism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#COMMUNIST
+
+        country_leader = {
+			ideology = marxism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = leninism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = stalinism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = anti_revisionism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = anarchist_communism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#FASCISM
+
+        country_leader = {
+			ideology = nazism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = fascism_ideology 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = falangism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = rexism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#NEUTRALITY
+
+        country_leader = {
+			ideology = despotism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = oligarchism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = moderatism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = centrism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+	}
+
+    #TRENTINO
+    jannik_sinner = {
+		name="Jannik Sinner"
+
+		#DEMOCRATIC
+		country_leader = {
+			ideology = conservatism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = liberalism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = socialism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#COMMUNIST
+
+        country_leader = {
+			ideology = marxism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = leninism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = stalinism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = anti_revisionism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = anarchist_communism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#FASCISM
+
+        country_leader = {
+			ideology = nazism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = fascism_ideology 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = falangism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = rexism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#NEUTRALITY
+
+        country_leader = {
+			ideology = despotism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = oligarchism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = moderatism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = centrism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+	}
+
+    #ISTRIA
+    gabriele_dannunzio = {
+		name="Gabriele d'Annunzio"
+
+		#DEMOCRATIC
+		country_leader = {
+			ideology = conservatism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = liberalism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = socialism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#COMMUNIST
+
+        country_leader = {
+			ideology = marxism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = leninism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = stalinism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = anti_revisionism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = anarchist_communism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#FASCISM
+
+        country_leader = {
+			ideology = nazism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = fascism_ideology 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = falangism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = rexism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#NEUTRALITY
+
+        country_leader = {
+			ideology = despotism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = oligarchism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = moderatism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = centrism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+	}
+
+    #Emilia romagna
+    iosif_stalin = {
+		name="Stalin ahh moment"
+		
+		#DEMOCRATIC
+		country_leader = {
+			ideology = conservatism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = liberalism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = socialism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#COMMUNIST
+
+        country_leader = {
+			ideology = marxism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = leninism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = stalinism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = anti_revisionism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = anarchist_communism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#FASCISM
+
+        country_leader = {
+			ideology = nazism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = fascism_ideology 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = falangism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = rexism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#NEUTRALITY
+
+        country_leader = {
+			ideology = despotism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = oligarchism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = moderatism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = centrism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+	}
+
+    #TOSCANA
+    pietro_pacciani = {
+		name="Pietro Pacciani"
+		#DEMOCRATIC
+		country_leader = {
+			ideology = conservatism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = liberalism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = socialism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#COMMUNIST
+
+        country_leader = {
+			ideology = marxism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = leninism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = stalinism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = anti_revisionism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = anarchist_communism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#FASCISM
+
+        country_leader = {
+			ideology = nazism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = fascism_ideology 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = falangism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = rexism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#NEUTRALITY
+
+        country_leader = {
+			ideology = despotism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = oligarchism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = moderatism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = centrism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+	}
+
+    #UMBRIA
+    aldo_moro = {
+		name="Aldo Moro"
+		#DEMOCRATIC
+		country_leader = {
+			ideology = conservatism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = liberalism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = socialism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#COMMUNIST
+
+        country_leader = {
+			ideology = marxism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = leninism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = stalinism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = anti_revisionism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = anarchist_communism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#FASCISM
+
+        country_leader = {
+			ideology = nazism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = fascism_ideology 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = falangism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = rexism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#NEUTRALITY
+
+        country_leader = {
+			ideology = despotism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = oligarchism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = moderatism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = centrism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+	}
+
+    #LAZIO
+    francesco_totti = {
+		name="ER PUPONEE"
+		#DEMOCRATIC
+		country_leader = {
+			ideology = conservatism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = liberalism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = socialism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#COMMUNIST
+
+        country_leader = {
+			ideology = marxism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = leninism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = stalinism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = anti_revisionism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = anarchist_communism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#FASCISM
+
+        country_leader = {
+			ideology = nazism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = fascism_ideology 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = falangism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = rexism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#NEUTRALITY
+
+        country_leader = {
+			ideology = despotism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = oligarchism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = moderatism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = centrism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+	}
+
+    #MARCHE
+    matteohs = {
+		name="MatteoHS"
+		#DEMOCRATIC
+		country_leader = {
+			ideology = conservatism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = liberalism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = socialism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#COMMUNIST
+
+        country_leader = {
+			ideology = marxism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = leninism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = stalinism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = anti_revisionism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = anarchist_communism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#FASCISM
+
+        country_leader = {
+			ideology = nazism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = fascism_ideology 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = falangism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = rexism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#NEUTRALITY
+
+        country_leader = {
+			ideology = despotism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = oligarchism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = moderatism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = centrism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+	}
+
+    #ABRUZZI
+    dlarzz = {
+		name="Dlarzz"
+		#DEMOCRATIC
+		country_leader = {
+			ideology = conservatism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = liberalism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = socialism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#COMMUNIST
+
+        country_leader = {
+			ideology = marxism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = leninism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = stalinism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = anti_revisionism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = anarchist_communism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#FASCISM
+
+        country_leader = {
+			ideology = nazism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = fascism_ideology 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = falangism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = rexism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#NEUTRALITY
+
+        country_leader = {
+			ideology = despotism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = oligarchism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = moderatism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = centrism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+	}
+
+    #CAMPANIA
+    schettino = {
+		name="Francesco Schettino"
+		#DEMOCRATIC
+		country_leader = {
+			ideology = conservatism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = liberalism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = socialism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#COMMUNIST
+
+        country_leader = {
+			ideology = marxism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = leninism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = stalinism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = anti_revisionism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = anarchist_communism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#FASCISM
+
+        country_leader = {
+			ideology = nazism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = fascism_ideology 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = falangism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = rexism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#NEUTRALITY
+
+        country_leader = {
+			ideology = despotism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = oligarchism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = moderatism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = centrism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+	}
+
+    #LUCANIA
+    cicciogamer = {
+		name="ALLAHGAMER"
+		#DEMOCRATIC
+		country_leader = {
+			ideology = conservatism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = liberalism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = socialism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#COMMUNIST
+
+        country_leader = {
+			ideology = marxism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = leninism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = stalinism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = anti_revisionism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = anarchist_communism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#FASCISM
+
+        country_leader = {
+			ideology = nazism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = fascism_ideology 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = falangism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = rexism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#NEUTRALITY
+
+        country_leader = {
+			ideology = despotism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = oligarchism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = moderatism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = centrism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+	}
+    
+    #PUGLIA
+    orsus = {
+		name="Papà Orso"
+		#DEMOCRATIC
+		country_leader = {
+			ideology = conservatism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = liberalism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = socialism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#COMMUNIST
+
+        country_leader = {
+			ideology = marxism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = leninism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = stalinism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = anti_revisionism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = anarchist_communism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#FASCISM
+
+        country_leader = {
+			ideology = nazism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = fascism_ideology 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = falangism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = rexism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#NEUTRALITY
+
+        country_leader = {
+			ideology = despotism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = oligarchism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = moderatism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = centrism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+	}
+
+    #CALABRIA
+    scimmia = {
+		name="UH UH UH"
+		#DEMOCRATIC
+		country_leader = {
+			ideology = conservatism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = liberalism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = socialism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#COMMUNIST
+
+        country_leader = {
+			ideology = marxism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = leninism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = stalinism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = anti_revisionism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = anarchist_communism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#FASCISM
+
+        country_leader = {
+			ideology = nazism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = fascism_ideology 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = falangism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = rexism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#NEUTRALITY
+
+        country_leader = {
+			ideology = despotism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = oligarchism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = moderatism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = centrism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+	}
+
+    #SICILIA
+    matteo_messina_denaro = {
+		name="Matteo Messina Denaro"
+		#DEMOCRATIC
+		country_leader = {
+			ideology = conservatism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = liberalism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = socialism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#COMMUNIST
+
+        country_leader = {
+			ideology = marxism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = leninism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = stalinism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = anti_revisionism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = anarchist_communism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#FASCISM
+
+        country_leader = {
+			ideology = nazism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = fascism_ideology 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = falangism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = rexism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#NEUTRALITY
+
+        country_leader = {
+			ideology = despotism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = oligarchism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = moderatism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = centrism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+	}
+
+    #SARDEGNA
+    silvio_berlusconi = {
+		name="Silvio Berlusconi"
+		#DEMOCRATIC
+		country_leader = {
+			ideology = conservatism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = liberalism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = socialism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#COMMUNIST
+
+        country_leader = {
+			ideology = marxism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = leninism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = stalinism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = anti_revisionism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = anarchist_communism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#FASCISM
+
+        country_leader = {
+			ideology = nazism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = fascism_ideology 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = falangism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = rexism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#NEUTRALITY
+
+        country_leader = {
+			ideology = despotism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = oligarchism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = moderatism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = centrism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+	}
+
+    #CORSICA
+    napoleone = {
+		name="Napoleone Bruttaparte"
+		#DEMOCRATIC
+		country_leader = {
+			ideology = conservatism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = liberalism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = socialism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#COMMUNIST
+
+        country_leader = {
+			ideology = marxism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = leninism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = stalinism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = anti_revisionism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = anarchist_communism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#FASCISM
+
+        country_leader = {
+			ideology = nazism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = fascism_ideology 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = falangism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = rexism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#NEUTRALITY
+
+        country_leader = {
+			ideology = despotism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = oligarchism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = moderatism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = centrism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+	}
+
+    #TICINO
+    jaeger = {
+		name="Jaeger"
+
+		#DEMOCRATIC
+		country_leader = {
+			ideology = conservatism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = liberalism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = socialism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#COMMUNIST
+
+        country_leader = {
+			ideology = marxism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = leninism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = stalinism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = anti_revisionism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = anarchist_communism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#FASCISM
+
+        country_leader = {
+			ideology = nazism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = fascism_ideology 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = falangism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = rexism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#NEUTRALITY
+
+        country_leader = {
+			ideology = despotism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = oligarchism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = moderatism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = centrism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+	}
+
+	#LIGURIA
+    filippo_turetta = {
+		name="Filippo Turetta"
+
+		#DEMOCRATIC
+		country_leader = {
+			ideology = conservatism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = liberalism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = socialism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#COMMUNIST
+
+        country_leader = {
+			ideology = marxism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = leninism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = stalinism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = anti_revisionism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = anarchist_communism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#FASCISM
+
+        country_leader = {
+			ideology = nazism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = fascism_ideology 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = falangism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = rexism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		#NEUTRALITY
+
+        country_leader = {
+			ideology = despotism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = oligarchism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+        country_leader = {
+			ideology = moderatism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		country_leader = {
+			ideology = centrism 
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+	}
+}

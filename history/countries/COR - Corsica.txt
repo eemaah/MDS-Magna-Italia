@@ -35,4 +35,4 @@ set_popularities = {
 	neutrality = 75
 }
 
-recruit_character napoleone
+recruit_character = napoleone
