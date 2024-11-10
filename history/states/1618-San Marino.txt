@@ -6,11 +6,21 @@ state={
 		add_core_of = SMR
 		buildings = {
 			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 3
 		}
 		victory_points = {
 			20534 1
 		}
 	}
+	
+	resources = {
+		steel = 2
+		aluminium = 1
+		chromium = 5
+		rubber = 1 	
+	}
+	
 	provinces={
 		20534 
 	}

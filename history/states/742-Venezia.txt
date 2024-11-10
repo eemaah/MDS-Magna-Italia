@@ -8,6 +8,9 @@ state={
 		add_core_of = VNT
 		buildings = {
 			infrastructure = 2
+			arms_factory = 5
+			industrial_complex = 5
+			
 			20051 = {
 				naval_base = 6
 
@@ -17,7 +20,15 @@ state={
 		victory_points = {
 			20051 5
 		}
-
+	}
+	
+	resources = {
+		steel = 20
+		tungsten = 20
+		aluminium = 20
+		chromium = 20
+		oil = 5
+		rubber = 5 	
 	}
 
 	provinces={

@@ -8,6 +8,8 @@ state={
 		add_core_of = BLG
 		buildings = {
 			infrastructure = 4
+			arms_factory = 5
+			industrial_complex = 5
 
 		}
 		victory_points = {
@@ -15,7 +17,16 @@ state={
 		}
 
 	}
-
+	
+	resources = {
+		steel = 20
+		tungsten = 20
+		aluminium = 20
+		chromium = 20
+		oil = 5
+		rubber = 5 	
+	}	
+	
 	provinces={
 		5739 8958 14482 14488 14549 20023 
 	}

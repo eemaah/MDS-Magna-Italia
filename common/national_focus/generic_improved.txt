@@ -3781,31 +3781,6 @@ focus_tree = {
 
 		completion_reward = {
 			add_country_leader_trait = moscow_communist
-			if = {
-				limit = {
-					SOV = {
-						has_government = communism
-					}
-				}
-				SOV = {
-					add_opinion_modifier = { target = ROOT modifier = generic_pro_soviet_communism }
-					add_ai_strategy = {
-						type = alliance
-						id = ROOT
-						value = 50
-					}
-					add_ai_strategy = {
-						type = befriend
-						id = ROOT
-						value = 100
-					}
-					add_ai_strategy = {
-						type = support
-						id = ROOT
-						value = 200
-					}
-				}
-			}
 		}
 
 		ai_will_do = {
@@ -3934,55 +3909,6 @@ focus_tree = {
 
 		completion_reward = {
 			add_country_leader_trait = independent_communist
-			if = {
-				limit = {
-					SOV = {
-						has_government = communism
-					}
-				}
-				SOV = {
-					add_opinion_modifier = { target = ROOT modifier = generic_anti_soviet_communism }
-					add_ai_strategy = {
-						type = alliance
-						id = ROOT
-						value = -200
-					}
-					add_ai_strategy = {
-						type = befriend
-						id = ROOT
-						value = -200
-					}
-					add_ai_strategy = {
-						type = support
-						id = ROOT
-						value = -200
-					}
-				}
-			}
-			every_country = {
-				limit = {
-					NOT = {
-						original_tag = SOV
-					}
-					has_government = communism
-				}
-				add_opinion_modifier = { target = ROOT modifier = generic_independant_communism_boost }
-				add_ai_strategy = {
-					type = alliance
-					id = ROOT
-					value = 50
-				}
-				add_ai_strategy = {
-					type = befriend
-					id = ROOT
-					value = 100
-				}
-				add_ai_strategy = {
-					type = support
-					id = ROOT
-					value = 200
-				}
-			}
 		}
 
 		ai_will_do = {
@@ -4108,22 +4034,147 @@ focus_tree = {
 		available_if_capitulated = yes
 
 		completion_reward = {
-			every_neighbor_country = {
-				country_event = {
-				    id = generic.1
-				    random_hours = 72
+			random_state = { 
+				limit = { 
+					any_neighbor_state = { 
+					 is_controlled_by = ROOT 
+					} 
+					NOT = { 
+						is_owned_by = ROOT 
+						is_claimed_by = ROOT
+						
+					} 
+				} 
+				add_claim_by = ROOT 
+				hidden_effect = {
+					if = {
+						limit = {
+							ROOT = {
+								is_ai = yes
+							}
+							controller = {
+								is_ai = yes
+							}
+						}
+						controller = {
+							country_event = {
+								id = war_justification.219
+							}
+							ROOT = {
+								add_ai_strategy = {
+								    type = conquer
+								    id = PREV
+								    value = 1500
+								}
+							}
+						}
+					}
+ 
+
+				} 
+			}
+			random_state = { 
+				limit = { 
+					any_neighbor_state = { 
+						is_controlled_by = ROOT 
+					} 
+					NOT = { 
+						is_owned_by = ROOT
+						is_claimed_by = ROOT
+						
+					
+					} 
+				} 
+				add_claim_by = ROOT  
+				hidden_effect = {
+					if = {
+						limit = {
+							ROOT = {
+								is_ai = yes
+							}
+							controller = {
+								is_ai = yes
+							}
+						}
+						controller = {
+							country_event = {
+								id = war_justification.219
+							}
+							ROOT = {
+								add_ai_strategy = {
+								    type = conquer
+								    id = PREV
+								    value = 1500
+								}
+							}
+						}
+					}
+					
+				}
+			}
+			random_state = { 
+				limit = { 
+					any_neighbor_state = { 
+						is_controlled_by = ROOT 
+					} 
+					NOT = { 
+						is_owned_by = ROOT 
+						is_claimed_by = ROOT
+						
+
+					} 
+				} 
+				add_claim_by = ROOT  
+				hidden_effect = {
+					if = {
+						limit = {
+							ROOT = {
+								is_ai = yes
+							}
+							controller = {
+								is_ai = yes
+							}
+							is_historical_focus_on = no
+						}
+						controller = {
+							country_event = {
+								id = war_justification.219
+							}
+							ROOT = {
+								create_wargoal = {
+						            target = PREV
+						            type = take_state_focus
+						        }
+						       	add_ai_strategy = {
+								    type = conquer
+								    id = PREV
+								    value = 1500
+								}
+							}
+						}
+					}
+
 				}
 			}
 		}
 
 		ai_will_do = {
-			factor = 3
+			factor = 5
+			modifier = {
+				factor = 0
+				is_historical_focus_on = yes
+			}
+			modifier = {
+				factor = 0.25
+				threat < 0.3
+			}
 			modifier = {
 				factor = 0
 				date < 1938.1.1
 			}
 		}
 	}
+	
 
 	focus = {
 		id = peoples_army_focus
@@ -4456,11 +4507,12 @@ focus_tree = {
 			random_state = { 
 				limit = { 
 					any_neighbor_state = { 
-						is_controlled_by = ROOT 
+					 is_controlled_by = ROOT 
 					} 
 					NOT = { 
 						is_owned_by = ROOT 
 						is_claimed_by = ROOT
+						
 					} 
 				} 
 				add_claim_by = ROOT 
@@ -4487,7 +4539,9 @@ focus_tree = {
 							}
 						}
 					}
-				}
+ 
+
+				} 
 			}
 			random_state = { 
 				limit = { 
@@ -4497,6 +4551,8 @@ focus_tree = {
 					NOT = { 
 						is_owned_by = ROOT
 						is_claimed_by = ROOT
+						
+					
 					} 
 				} 
 				add_claim_by = ROOT  
@@ -4523,6 +4579,7 @@ focus_tree = {
 							}
 						}
 					}
+					
 				}
 			}
 			random_state = { 
@@ -4533,6 +4590,8 @@ focus_tree = {
 					NOT = { 
 						is_owned_by = ROOT 
 						is_claimed_by = ROOT
+						
+
 					} 
 				} 
 				add_claim_by = ROOT  
@@ -4564,6 +4623,7 @@ focus_tree = {
 							}
 						}
 					}
+
 				}
 			}
 		}
@@ -4604,16 +4664,28 @@ focus_tree = {
 
 		search_filters = { FOCUS_FILTER_POLITICAL } 
 		
-		available_if_capitulated = yes
+		available = { is_in_faction = no }
 
 		completion_reward = {
+
 			every_neighbor_country = {
-				country_event = {
-				    id = generic.1
-				    random_hours = 72
+			limit = {
+				political_power = 25 
+					NOT = { 
+						has_war_with = ROOT 
+						}
+				}
+				add_opinion_modifier = {
+					modifier = improve_relations
+					value = 50
+					target = THIS
 				}
 			}
-		}
+			
+			set_rule = {                 
+				can_form_aggression_pact = yes    
+				}	
+			}
 
 		ai_will_do = {
 			factor = 3
@@ -6175,96 +6247,6 @@ focus_tree = {
 
 		ai_will_do = {
 			factor = 10
-		}
-	}
-
-	focus = {
-		id = involve_spain_civil_war
-		icon = GFX_focus_focus_fra_intervention_spain
-		prerequisite = { 
-			focus = sickle_sword_focus 
-			focus = iron_blood_focus
-			focus = power_people_focus
-		}
-		available = {
-			NOT = {
-				OR = {
-					tag = SPR
-					tag = SPA
-				}
-			}
-			OR = {
-				AND = {
-					has_government = communism
-					has_completed_focus = sickle_sword_focus
-				}
-				AND = {
-					has_government = fascism
-					has_completed_focus = iron_blood_focus
-				}
-				AND = {
-					has_government = democratic
-					has_completed_focus = power_people_focus
-				}
-			}
-			SPR_scw_in_progress = yes
-		}
-		x = 4
-		y = 1
-		relative_position_id = iron_blood_focus
-		cost = 5
-
-		search_filters = { FOCUS_FILTER_POLITICAL} 
-		
-		available_if_capitulated = yes
-
-		completion_reward = {
-			effect_tooltip = {
-				add_ideas = SPR_war_involvement
-			}
-			if = {
-				limit = {
-					has_government = fascism
-				}
-				hidden_effect = {
-					add_ideas = SPR_war_involvement_spa
-				}
-				SPA = {
-					add_opinion_modifier = {
-						target = ROOT
-						modifier = generic_supported_spain_civil_war	
-					}
-				}
-				add_ai_strategy = {
-			        type = support
-			        id = SPA
-			        value = 500
-			    }
-			}
-			else = {
-				hidden_effect = {
-					add_ideas = SPR_war_involvement_spr
-				}
-				SPD = {
-					add_opinion_modifier = {
-						target = ROOT
-						modifier = generic_supported_spain_civil_war	
-					}
-				}
-				add_ai_strategy = {
-			        type = support
-			        id = SPD
-			        value = 500
-			    }
-			}
-		}
-
-		ai_will_do = {
-			factor = 2
-			modifier = {
-				is_historical_focus_on = yes
-				factor = 0
-			}
 		}
 	}
 
@@ -8329,4 +8311,4 @@ focus_tree = {
 		}
 	}
 
-}
+} 

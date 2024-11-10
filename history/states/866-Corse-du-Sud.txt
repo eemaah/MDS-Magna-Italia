@@ -8,7 +8,11 @@ state={
 	history={
 		owner = COR
 		buildings = {
+		
 			infrastructure = 4
+			arms_factory = 5
+			industrial_complex = 5
+			
 			8443 = { naval_base = 3 }
 		}
 		add_core_of = COR
@@ -16,6 +20,16 @@ state={
             8443 5 #Ajaccio
         }
     }
+	
+	resources = {
+		steel = 20
+		tungsten = 20
+		aluminium = 20
+		chromium = 20
+		oil = 5
+		rubber = 5 	
+	}
+	
 	manpower=143558
 	buildings_max_level_factor=1.000
 	state_category=rural

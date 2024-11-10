@@ -8,12 +8,23 @@ state={
 		add_core_of = CAL
 		buildings = {
 			infrastructure = 3
+			arms_factory = 5
+			industrial_complex = 5
 
 		}
 		victory_points = {
 			8778 5 
 		}
 
+	}
+	
+	resources = {
+		steel = 20
+		tungsten = 20
+		aluminium = 20
+		chromium = 20
+		oil = 5
+		rubber = 5 	
 	}
 
 	provinces={

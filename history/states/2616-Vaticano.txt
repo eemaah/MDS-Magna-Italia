@@ -7,8 +7,18 @@ state={
 		victory_points = { 19195 1 }
 		buildings = {
 			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 3
 		}
 	}
+	
+	resources = {
+		
+		steel = 5
+		aluminium = 2
+		
+		}
+	
 	provinces={
 		19195 
 	}

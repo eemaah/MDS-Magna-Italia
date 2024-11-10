@@ -6,6 +6,8 @@ state={
 		add_core_of = TIC
 		buildings = {
 			infrastructure = 2
+			arms_factory = 5
+			industrial_complex = 5
 		}
 		victory_points = {
             4029 5 #Bellinzona
@@ -14,6 +16,16 @@ state={
             9086 5 #Lugano
         }
 	}
+	
+	resources = {
+		steel = 20
+		tungsten = 20
+		aluminium = 20
+		chromium = 20
+		oil = 5
+		rubber = 5 	
+	}
+	
 	provinces={
 		4029 9086 9587 14026 14088 
 	}

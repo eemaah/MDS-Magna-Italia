@@ -7,10 +7,22 @@ state={
 		add_core_of = MAR
 		buildings = {
 			infrastructure = 3
+			arms_factory = 5
+			industrial_complex = 5
+			
 			9617 = { naval_base = 5 }
 		}
 		victory_points = { 9617 10 }
 	}
+	resources = {
+		steel = 20
+		tungsten = 20
+		aluminium = 20
+		chromium = 20
+		oil = 5
+		rubber = 5 	
+	}
+	
 	provinces={
 		6950 9617 20038 
 	}
